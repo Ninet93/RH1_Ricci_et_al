@@ -1,0 +1,18 @@
+set autoclose=no nowarn=yes
+execute NEXUS_FILE
+lset nucmodel=4by4
+lset rates=invgamma
+lset nst=6
+outgroup haplo0
+mcmcp ngen=10000000
+mcmcp samplefreq=1000
+mcmcp printfreq=100
+mcmcp nchains=4
+mcmcp savebrlens=yes
+set usebeagle=yes
+set beagleopenmp=yes
+set beagleprecision=single
+set beaglesse=yes
+mcmc
+quit
+

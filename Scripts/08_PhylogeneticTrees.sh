@@ -23,8 +23,8 @@ mpirun -np 8 mb < MrBayes_CDS.txt > MrBayes_CDS.log
 mpirun -np 8 mb < MrBayes_AA.txt > MrBayes_AA.log
 
 # IQTree for CDS and AA multpile alignment
-iqtree -s $CDS_file_MA_filtered --msub nuclear -T 8 -o $RefSeq -bb 1000 --nstep 1000 --merit AIC -m GTR+I+G --allnni
-iqtree -s $AA_file_MA_filtered --msub nuclear -T 8 -o $RefSeq -bb 1000 --nstep 1000 --merit AIC -m JTT+I+G+F --allnni --seqtype AA
+iqtree -s $CDS_file_MA_filtered --prefix ${CDS_out} --msub nuclear -T 8 -o $RefSeq -bb 1000 --nstep 1000 --merit AIC -m GTR+I+G --allnni
+iqtree -s $AA_file_MA_filtered --prefix ${AA_out} --msub nuclear -T 8 -o $RefSeq -bb 1000 --nstep 1000 --merit AIC -m JTT+I+G+F --allnni --seqtype AA
 
 ##########################################################################################
 DATE=`date '+%d-%m-%Y %H:%M:%S'`

@@ -32,6 +32,7 @@ echo ${ID}$'\t'${median} >> Median_ReadsCoverage.txt
 
 # Mean and median reads coverage in reference CDS
 Rscript Reads_coverage.R
+output: Coverage_CDS_Overall.txt
 
 
 ##########################################################################################

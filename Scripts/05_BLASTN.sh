@@ -28,6 +28,7 @@ NCBI-Toolkit/21.0.0-goolf-1.7.20/bin/makeblastdb -in ${ID}.scf.fasta -out ${ID}_
 
 # Extract individual CDS
 python Extract_individual_CDS.py $CDS_file_MA_filtered $ID $path_input $path_output $OPSIN
+output: ${OPSIN}_${ID}.fasta
 
 # BLASTN of individual CDS and genome assembly
 blastn -db ${ID}_db -query ${OPSIN}_${ID}.fasta -out ${OPSIN}_${ID}.blastn -outfmt '7 std stitle' -num_threads 8 -evalue 0.00001 -parse_deflines

@@ -50,41 +50,41 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 
 ### Inputs
 
-* [`Dataset.txt`](Data/Inputs/Dataset.txt): Table of the dataset
+* [`Dataset.txt`](Data/Dataset.txt): Table of the dataset
 
-* [`Sequencing_files.txt`](Data/Inputs/Sequencing_files.txt): Number of sequencing runs
+* [`Sequencing_files.txt`](Data/Sequencing_files.txt): Number of sequencing runs
 
-* [`Color_tribes.txt`](Data/Inputs/Color_tribes.txt): Color of tribes
+* [`Color_tribes.txt`](Data/Color_tribes.txt): Color of tribes
 
-* [`Nucleotide_table.txt`](Data/Inputs/Nucleotide_table.txt): Table of nucleotides
+* [`Nucleotide_table.txt`](Data/Nucleotide_table.txt): Table of nucleotides
 
-* [`AA_table.txt`](Data/Inputs/AA_table.txt): Table of amino acids
+* [`AA_table.txt`](Data/AA_table.txt): Table of amino acids
 
-* [`b1.tre`](Data/Inputs/b1.tre) species tree (see Ronco et al. 2021)
+* [`b1.tre`](Data/b1.tre) species tree (see Ronco et al. 2021)
 
-* [`Coo_mRNA_Exon_CDS_RefSeq.txt`](Data/Inputs/Coo_mRNA_Exon_CDS_RefSeq.txt): coordinates of opsin in the RefSeq genome
+* [`Coo_mRNA_Exon_CDS_RefSeq.txt`](Data/Coo_mRNA_Exon_CDS_RefSeq.txt): coordinates of opsin in the RefSeq genome
 
 ### Outputs
 
-* [`RH1_CDS_w_haplotypes.fasta`](Data/Outputs/RH1_CDS_w_haplotypes.fasta): RH1 CDS multiple alignment (haplo0: RefSeq CDS)
+* [`RH1_CDS_w_haplotypes.fasta`](Data/RH1_CDS_w_haplotypes.fasta): RH1 CDS multiple alignment (haplo0: RefSeq CDS)
 
-* [`RH1_codons_manualcorrection.txt`](Data/Outputs/RH1_codons_manualcorrection.txt): Table of manual corrections after visual inspection of reads mapping on Geneious
+* [`RH1_codons_manualcorrection.txt`](Data/RH1_codons_manualcorrection.txt): Table of manual corrections after visual inspection of reads mapping on Geneious
 
-* [`RH1_ALL.blastn`](Data/Outputs/RH1_ALL.blastn): RH1 BLASTN results
+* [`RH1_ALL.blastn`](Data/RH1_ALL.blastn): RH1 BLASTN results
 
-* [`exoRH1_CDS_w_indiv.fasta`](Data/Outputs/exoRH1_CDS_w_indiv.fasta): exoRH1 CDS multiple alignment (XM_003438995_5: RefSeq CDS)
+* [`exoRH1_CDS_w_indiv.fasta`](Data/exoRH1_CDS_w_indiv.fasta): exoRH1 CDS multiple alignment (XM_003438995_5: RefSeq CDS)
 
-* [`exoRH1_ALL.blastn`](Data/Outputs/exoRH1_ALL.blastn): exoRH1 BLASTN results
+* [`exoRH1_ALL.blastn`](Data/exoRH1_ALL.blastn): exoRH1 BLASTN results
 
 * IQ-Tree phylogenetic trees:
-  * 1) CDS: [`RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_1.treefile`](Data/Outputs/RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_1.treefile) (BestTree)
+  * 1) CDS: [`RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_1.treefile`](Data/RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_1.treefile) (BestTree)
   * 2) CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_2.treefile
   * 3) CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_allnni_1.treefile
   * 4) CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_allnni_2.treefile
 
   * 5) AA: RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_1.treefile
   * 6) AA: RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_2.treefile
-  * 7) AA: [`RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_allnni_1.treefile`](Data/Outputs/RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_allnni_1.treefile) (BestTree)
+  * 7) AA: [`RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_allnni_1.treefile`](Data/RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_allnni_1.treefile) (BestTree)
   * 8) AA: RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_allnni_2.treefile
 
 * MrBayes phylogenetic trees:

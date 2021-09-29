@@ -21,7 +21,7 @@ module load BayesTraits/3.0.2-Linux-Threaded
 Rscript BayesTraits_input.R
 
 # Run BayesTraits analysis
-pos=$(sed -n ${SLURM_ARRAY_TASK_ID}p Data/BayesTrait_ListFiles.txt.txt)
+pos=$(sed -n ${SLURM_ARRAY_TASK_ID}p Data/BayesTrait_ListFiles.txt)
 
 mod='dependent_MC'
 #mod='independent_MC'

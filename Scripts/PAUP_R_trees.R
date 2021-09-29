@@ -5,10 +5,10 @@ library(phytools)
 library(seqinr)
 library(stringr)
 
-BestTree='BestTree_ML'
-BestTree='BestTree_Bayes'
 
-tree = ladderize(read.nexus(paste0(BestTree, '.nexus')))
+tree = ladderize(read.tre(paste0(BestTree)))
+#tree = ladderize(read.nexus(paste0(BestTree)))
+
 
 total_nodes_tips = length(tree$tip.label) + tree$Nnode
 nb_tips = seq(1, length(tree$tip.label))

@@ -10,6 +10,7 @@ echo 'Start of the job' $DATE
 ##########################################################################################
 
 module purge
+module load R/3.5.0-goolf-1.7.20
 
 ##########################################################################################
 
@@ -22,6 +23,7 @@ gettrees file=BestTree.nexus
 outgroup RefSeq
 describe / apo=y chg=yes diagnose=yes brlens=yes
 
+Rscript PAUP_R_trees.R
 
 ##########################################################################################
 DATE=`date '+%d-%m-%Y %H:%M:%S'`

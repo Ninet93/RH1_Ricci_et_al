@@ -1,0 +1,8 @@
+AA_code	AA
+B	D
+B	N
+J	I
+J	L
+Z	E
+Z	Q
+

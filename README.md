@@ -41,3 +41,23 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 * 12_HyPhy.sh: Positive selection test using HyPhy
   * HyPhy, HyPhy_FEL.txt, HyPhy_FUBAR.txt, HyPhy_aBSREL_deep.txt, and HyPhy_aBSREL_shallow.txt
 
+* 13_BayesTraits.sh: Depth-related opsin substitutions analysis
+  * R, BayesTraits.R
+
+** Data
+
+* Dataset.txt: Table of the dataset
+
+* Sequencing_files.txt: List of sequencing files
+
+* Color_tribes.txt: Color of tribes
+
+* Nucleotide_table.txt: Table of nucleotides
+
+* AA_table.txt: Table of amino acids
+
+* b1.tre: species tree (see Ronco et al. 2021)
+
+* Coo_mRNA_Exon_CDS_RefSeq.txt: coordinates of opsin in the RefSeq genome
+
+* RH1_codons_manualcorrection.txt: Table of manual corrections after visual inspection of reads mapping on Geneious

@@ -27,7 +27,7 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
   * jModelTest, PAUP, and ProtTest
 
 * 08_PhylogeneticTrees.sh: Build nucleotide/amino acid phylogenetic trees
-  * MrBayes, Beagle, and IQ-TREE
+  * MrBayes, Beagle, MrBayes_CDS.txt, MrBayes_AA.txt, and IQ-TREE
 
 * 09_TopologyTest.sh: Phylogenetic topology tests
   * PAUP
@@ -36,8 +36,8 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
   * PAUP, R, and PAUP_R_trees.R
 
 * 11_CodeML.sh: Positive selection test using CodeML
-  * PAML
+  * PAML, CodeML_M1a.ctl, CodeML_M2a.ctl, CodeML_M7.ctl, and CodeML_M8.ctl
 
 * 12_HyPhy.sh: Positive selection test using HyPhy
-  * HyPhy
+  * HyPhy, HyPhy_FEL.txt, HyPhy_FUBAR.txt, HyPhy_aBSREL_deep.txt, and HyPhy_aBSREL_shallow.txt
 

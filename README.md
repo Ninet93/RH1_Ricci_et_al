@@ -4,12 +4,12 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 ## Scripts
 
 * 01_Reads_mapping.sh: Illumina raw reads mapping of Tanganyikan cichlid species to Nile tilapia RefSeq (RefSeq accession GCF_001858045.2)
-  * WA and SAMtools
+  * BWA and SAMtools
 
 * 02_Extract_BAM_region.sh: Extraction of reads mapped to the RefSeq opsin mRNA
   * SAMtools
 
-* In-between steps on Geneious (see Materials and Methods)
+* In-between steps on Geneious (https://www.geneious.com, see Materials and Methods)
 
 * 03_MAFFT.sh: Multiple alignment of all consensus opsin mRNA including RefSeq mRNA, extraction of all consensus opsin CDS including RefSeq CDS
   * Python, Biopython, Extract_CDS.py and MAFFT
@@ -32,6 +32,8 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 * 09_TopologyTest.sh: Phylogenetic topology tests
   * PAUP
 
+* Haplotype Viewer (http://www.cibiv.at/~greg/haploviewer, see Materials and Methods)
+
 * 10_AAsubstitutions_on_BestTree.sh: Mapping of AA substitutions on the best phylogenetic trees
   * PAUP, R, and PAUP_R_trees.R
 
@@ -42,7 +44,7 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
   * HyPhy, HyPhy_FEL.txt, HyPhy_FUBAR.txt, HyPhy_aBSREL_deep.txt, and HyPhy_aBSREL_shallow.txt
 
 * 13_BayesTraits.sh: Depth-related opsin substitutions analysis
-  * R, BayesTraits.R
+  * R, BayesTraits, BayesTraits_inputs.R, parfile_dependent_MC.txt, parfile_independent_MC.txt, and BayesTraits.R
 
 ## Data
 
@@ -60,4 +62,28 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 
 * Coo_mRNA_Exon_CDS_RefSeq.txt: coordinates of opsin in the RefSeq genome
 
+* RH1_CDS_w_haplotypes.fasta: RH1 CDS multiple aligment
+
 * RH1_codons_manualcorrection.txt: Table of manual corrections after visual inspection of reads mapping on Geneious
+
+* IQ-Tree phylogenetic trees:
+  * 1) CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_1.treefile (BestTree)
+  * 2) CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_2.treefile
+  * 3) CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_allnni_1.treefile
+  * 4) CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_allnni_2.treefile
+
+  * 1) AA: RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_1.treefile
+  * 2) AA: RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_2.treefile
+  * 3) AA: RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_allnni_1.treefile (BestTree)
+  * 4) AA: RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_allnni_2.treefile
+
+* MrBayes phylogenetic trees:
+  * 1) CDS: RH1_CDS_w_haplotypes_1.fasta.nexus.con.tre
+  * 2) CDS: RH1_CDS_w_haplotypes_2.fasta.nexus.con.tre
+  * 3) CDS: RH1_CDS_w_haplotypes_3.fasta.nexus.con.tre
+  * 4) CDS: RH1_CDS_w_haplotypes_4.fasta.nexus.con.tre
+
+  * 1) AA: RH1_AA_w_haplotypes_1.fasta_wo_ambiguouschar.nexus.con.tre
+  * 2) AA: RH1_AA_w_haplotypes_2.fasta_wo_ambiguouschar.nexus.con.tre
+  * 3) AA: RH1_AA_w_haplotypes_3.fasta_wo_ambiguouschar.nexus.con.tre
+  * 4) AA: RH1_AA_w_haplotypes_4.fasta_wo_ambiguouschar.nexus.con.tre

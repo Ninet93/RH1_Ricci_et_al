@@ -1,0 +1,6 @@
+2
+2
+Burnin 100000
+Iterations 100000000
+run
+

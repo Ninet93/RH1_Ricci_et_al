@@ -252,7 +252,7 @@ for (pos in variable_AAsites){
     list_per_pos_AA_stats_binary[[count]] = Pos_AA_final_binary
     
     out_f = paste0(names(Pos_AA_final_binary)[2], '_', pos)
-    #write.table(Pos_AA_final_binary, file=paste0('Data/', out_f, '.txt'), quote = F, sep = '\t', col.names = F, row.names = F)
+    write.table(Pos_AA_final_binary, file=paste0('Data/', out_f, '.txt'), quote = F, sep = '\t', col.names = F, row.names = F)
     
     list_files = append(list_files, out_f)
   }

@@ -15,7 +15,7 @@ MeanCov = read.table('Mean_ReadsCoverage.txt', sep='\t', header=F); names(MeanCo
 MedianCov = read.table('Median_ReadsCoverage.txt', sep='\t', header=F); names(MedianCov) = c('ID', 'Overall_MedianCov')
 
 # Sequencing files
-Sequencing = read.table('Sequencing_files.txt', sep='\t', header = F); names(Sequencing) = 'Seq_files'
+Sequencing = read.table('Sequencing_files.txt', sep='\t', header = F); names(Sequencing) = c('ID', 'Nb_SeqRun')
 
 # Coordinates of RefSeq genes
 COO_Onil = read.table('Coo_mRNA_Exon_CDS_RefSeq.csv', sep=',', header = T)
@@ -54,18 +54,11 @@ Coverage_CDS$Position_CDS = Coverage_CDS$Position - CDS_start + 1
 Coverage_CDS$CDS_MeanCov = ''
 Coverage_CDS$CDS_MedianCov = ''
 
-ID_Sequencing = data.frame(matrix(ncol=2, nrow=0))
-names(ID_Sequencing) = c('ID', 'Nb_SeqRun')
 
 for (sp_ID in unique(Coverage$Species_ID)){
   IDs = unique(Coverage[Coverage$Species_ID == sp_ID,]$ID)
 
   for (id in IDs){
-    seq_nb = length(grep(id, Sequencing$Seq_files))/2 # R1 and R2 files
-
-    to_add = data.frame(ID = id, Nb_SeqRun = seq_nb)
-    ID_Sequencing = rbind(ID_Sequencing, to_add)
-
     Coverage_CDS[Coverage_CDS$ID == id,]$CDS_MeanCov = as.numeric(mean(Coverage_CDS[Coverage_CDS$ID == id,]$Coverage))
     Coverage_CDS[Coverage_CDS$ID == id,]$CDS_MedianCov = as.numeric(median(Coverage_CDS[Coverage_CDS$ID == id,]$Coverage))
   }
@@ -74,9 +67,9 @@ for (sp_ID in unique(Coverage$Species_ID)){
 
 Coverage_CDS_Overall_tmp0 = left_join(Coverage_CDS, MeanCov)
 Coverage_CDS_Overall_tmp = left_join(Coverage_CDS_Overall_tmp0, MedianCov)
-Coverage_CDS_Overall = left_join(Coverage_CDS_Overall_tmp, ID_Sequencing)
+Coverage_CDS_Overall = left_join(Coverage_CDS_Overall_tmp, Sequencing)
 
-Coverage_CDS_Overall_final = unique(Coverage_CDS_Overall[c('ID', 'Nb_Seqrun', 'CDS_MeanCov', 'Overall_MeanCov, 'Ratio_Mean_CDS_Overall', 'CDS_MedianCov', 'Overall_MedianCov', 'Ratio_Median_CDS_Overall')])
+Coverage_CDS_Overall_final = unique(Coverage_CDS_Overall[c('ID', 'Nb_SeqRun', 'CDS_MeanCov', 'Overall_MeanCov, 'Ratio_Mean_CDS_Overall', 'CDS_MedianCov', 'Overall_MedianCov', 'Ratio_Median_CDS_Overall')])
 
 Coverage_CDS_Overall_final$Ratio_Mean_CDS_Overall = (Coverage_CDS_Overall_final$CDS_MeanCov / Coverage_CDS_Overall_final$Overall_MeanCov) / Coverage_CDS_Overall_final$Nb_SeqRun
 Coverage_CDS_Overall_final$Ratio_Median_CDS_Overall = (Coverage_CDS_Overall_final$CDS_MedianCov / Coverage_CDS_Overall_final$Overall_MedianCov) / Coverage_CDS_Overall_final$Nb_SeqRun

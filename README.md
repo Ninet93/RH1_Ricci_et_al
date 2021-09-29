@@ -4,7 +4,7 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 ## Scripts
 
 * 01_Reads_mapping.sh: Illumina raw reads mapping of Tanganyikan cichlid species to Nile tilapia RefSeq (RefSeq accession GCF_001858045.2)
-  *BWA and SAMtools
+  * WA and SAMtools
 * 02_Extract_BAM_region.sh: Extraction of reads mapped to the RefSeq opsin mRNA
   *SAMtools
 * In-between steps on Geneious (see Materials and Methods)

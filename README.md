@@ -44,7 +44,7 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 * 13_BayesTraits.sh: Depth-related opsin substitutions analysis
   * R, BayesTraits.R
 
-** Data
+## Data
 
 * Dataset.txt: Table of the dataset
 

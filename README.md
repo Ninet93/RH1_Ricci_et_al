@@ -48,6 +48,8 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 
 ## Data
 
+### Inputs
+
 * [`Dataset.txt`](Data/Inputs/Dataset.txt): Table of the dataset
 
 * [`Sequencing_files.txt`](Data/Inputs/Sequencing_files.txt): List of sequencing files
@@ -61,6 +63,8 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 * [`b1.tre`](Data/Inputs/b1.tre) species tree (see Ronco et al. 2021)
 
 * [`Coo_mRNA_Exon_CDS_RefSeq.txt`](Data/Inputs/Coo_mRNA_Exon_CDS_RefSeq.txt): coordinates of opsin in the RefSeq genome
+
+### Outputs
 
 * [`RH1_CDS_w_haplotypes.fasta`](Data/Outputs/RH1_CDS_w_haplotypes.fasta): RH1 CDS multiple alignment (haplo0 = RefSeq CDS)
 

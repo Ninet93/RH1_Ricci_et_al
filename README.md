@@ -20,7 +20,7 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 * [`05_BLASTN.sh`](Scripts/05_BLASTN.sh): BLASTN of opsin CDS to Tanganyikan cichlid genome assemblies
   * Python, Biopython, BLAST, and Extract_individual_CDS.py
 
-* [`06_Reads_coverage.sh`](Scripts/06_Reads_coverage.sh): Extraction of mean/median reads coverage in the entired RefSeq genome, extraction of mean/median reads coverage in the RefSeq CDS
+* [`06_Reads_coverage.sh`](Scripts/06_Reads_coverage.sh): Extraction of mean/median reads coverage in the entire RefSeq genome, extraction of mean/median reads coverage in the RefSeq CDS
   * SAMtools, R, and Reads_coverage.R
 
 * [`07_SubstitutionModel_tests.sh`](Scripts/07_SubstitutionModel_tests.sh): Identification of appropriate nucleotide/amino acid substitution models to build phylogenetic trees
@@ -52,7 +52,7 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 
 * [`Dataset.txt`](Data/Inputs/Dataset.txt): Table of the dataset
 
-* [`Sequencing_files.txt`](Data/Inputs/Sequencing_files.txt): List of sequencing files
+* [`Sequencing_files.txt`](Data/Inputs/Sequencing_files.txt): Number of sequencing runs
 
 * [`Color_tribes.txt`](Data/Inputs/Color_tribes.txt): Color of tribes
 
@@ -66,13 +66,13 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 
 ### Outputs
 
-* [`RH1_CDS_w_haplotypes.fasta`](Data/Outputs/RH1_CDS_w_haplotypes.fasta): RH1 CDS multiple alignment (haplo0 = RefSeq CDS)
+* [`RH1_CDS_w_haplotypes.fasta`](Data/Outputs/RH1_CDS_w_haplotypes.fasta): RH1 CDS multiple alignment (haplo0: RefSeq CDS)
 
 * [`RH1_codons_manualcorrection.txt`](Data/Outputs/RH1_codons_manualcorrection.txt): Table of manual corrections after visual inspection of reads mapping on Geneious
 
 * [`RH1_ALL.blastn`](Data/Outputs/RH1_ALL.blastn): RH1 BLASTN results
 
-* [`exoRH1_CDS_w_indiv.fasta`](Data/Outputs/exoRH1_CDS_w_indiv.fasta): exoRH1 CDS multiplement alignment (XM_003438995_5: RefSeq CDS)
+* [`exoRH1_CDS_w_indiv.fasta`](Data/Outputs/exoRH1_CDS_w_indiv.fasta): exoRH1 CDS multiple alignment (XM_003438995_5: RefSeq CDS)
 
 * [`exoRH1_ALL.blastn`](Data/Outputs/exoRH1_ALL.blastn): exoRH1 BLASTN results
 

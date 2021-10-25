@@ -58,7 +58,7 @@ for (i in seq(1, length(filelist$FileName))){
     warning("LH of the independend model has not converged") 
   }
   
-  filelist$diff[i] = AIC_dep - AIC_ind
+  filelist$diff[i] = AIC_ind - AIC_dep
   
   print(i)
 }

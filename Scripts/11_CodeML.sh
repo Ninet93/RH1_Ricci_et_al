@@ -22,6 +22,8 @@ Model=M1a
 #Model=M2a
 #Model=M7
 #Model=M8
+#Model=branchsite_H0
+#Model=branchsite_HA
 
 codeml CodeML_${Model}.ctl
 

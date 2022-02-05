@@ -55,7 +55,7 @@ for (ID in IDs){
     }
   }
   
-  RC_ID_CDS = read.table('${BWA}_', ID, '_', OPSIN, '_CDS.bam.depth', sep='\t', header=F)
+  RC_ID_CDS = read.table('${BWA}_', ID, '_', OPSIN, '_CDS.sorted.bam.depth', sep='\t', header=F)
   names(RC_ID_CDS) = c('Scf', 'Position', 'Cov')
   
   #CDS_start == min(RC_ID_CDS$Position)

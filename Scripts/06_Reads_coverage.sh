@@ -8,27 +8,43 @@
 DATE=`date '+%d-%m-%Y %H:%M:%S'`
 echo 'Start of the job' $DATE
 ##########################################################################################
-
-module purge
-module load SAMtools/1.7-goolf-1.7.20
-module load R/3.5.0-goolf-1.7.20
-
 ##########################################################################################
 
 # Don't forget to edit the files directory
 
 ID=$(sed -n ${SLURM_ARRAY_TASK_ID}p Data/Dataset.txt | cut -f4) # To run as an array from 3 to 518
 
-# Mean and median reads coverage in the entire RefSeq genome
-samtools depth -aa -r ${BWA}_${ID}.bam > ${BWA}_${ID}.depth
-
-mean=$(cut -f4 ${BWA}_${ID}.depth | datamash mean 1)
-median=$(cut -f4 ${BWA}_${ID}.depth | datamash median 1)
-
-echo ${ID}$'\t'${mean} >> Mean_ReadsCoverage.txt
-echo ${ID}$'\t'${median} >> Median_ReadsCoverage.txt
 
 
+# Reads coverage in the entire RefSeq genome
+module purge
+module load BEDTools/2.27.1-foss-2018b
+
+bedtools genomecov -ibam ${BWA}_${ID}.bam | grep "^genome" | head 100 > ${BWA}_${ID}_genomecov.txt
+	
+
+
+# Reads coverage along positions in the RH1/exoRH1 reference CDS
+module purge
+module load SAMtools/1.7-goolf-1.7.20
+
+samtools view -Sb ${BWA}_${ID}.bam "NC_031984.2:14827754-14829360" > ${BWA}_${ID}_RH1_mRNA.bam
+samtools index ${BWA}_${ID}_RH1_mRNA.bam
+samtools depth -aa -r "NC_031984.2:14827848-14828912" ${BWA}_${ID}_RH1_mRNA.bam > ${BWA}_${ID}_RH1_CDS.bam.depth
+
+
+samtools view -Sb ${BWA}_${ID}.bam "NC_031984.2:14387282-14393197" > ${BWA}_${ID}_exoRH1_mRNA.bam
+samtools index ${BWA}_${ID}_exoRH1_mRNA.bam
+samtools depth -aa -r "NC_031984.2:14387849-14388209" ${BWA}_${ID}_exoRH1_mRNA.bam > ${BWA}_${ID}_exoRH1_CDS.bam.depth
+samtools depth -aa -r "NC_031984.2:14388439-14388607" ${BWA}_${ID}_exoRH1_mRNA.bam >> ${BWA}_${ID}_exoRH1_CDS.bam.depth
+samtools depth -aa -r "NC_031984.2:14388789-14388954" ${BWA}_${ID}_exoRH1_mRNA.bam >> ${BWA}_${ID}_exoRH1_CDS.bam.depth
+samtools depth -aa -r "NC_031984.2:14390612-14390851" ${BWA}_${ID}_exoRH1_mRNA.bam >> ${BWA}_${ID}_exoRH1_CDS.bam.depth
+samtools depth -aa -r "NC_031984.2:14391687-14391806" ${BWA}_${ID}_exoRH1_mRNA.bam >> ${BWA}_${ID}_exoRH1_CDS.bam.depth
+
+
+
+module purge
+module load R/3.5.0-goolf-1.7.20
 
 # Mean and median reads coverage in reference CDS
 Rscript Reads_coverage.R

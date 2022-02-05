@@ -1,519 +1,519 @@
 Species abbr. (full name)	Tribe	Sex	ID	Depth	CDS unique ID	CDS tip label	AA unique ID	CDS reads depth after mapping to the ref. genome (mean|median)	Genome wide reads depth after mapping to the ref. genome (mean|median)	Ratio of CDS and genome wide reads depth (mean|median)
 Orenil (Oreochromis niloticus)	Oreochromini	F	RefSeq (GCF_001858045.2)	NA	haplo0	Orenil_1	haplo0	NA	NA	NA
-Batfas (Bathybates fasciatus)	Bathybatini	F	GPB2	inter.	haplo1	Batfas_2_A	haplo1	9.08|9	11.07|9	0.82|1
-Batfas (Bathybates fasciatus)	Bathybatini	M	ITH3	inter.	haplo2	Batfas_2_B	haplo1	14.01|14	16.46|14	0.43|0.5
-Batfer (Bathybates ferox)	Bathybatini	M	LCD6	NA	haplo3	Batfer_2	haplo2	7.7|8	9.83|8	0.78|1
-Batfer (Bathybates ferox)	Bathybatini	F	LCD7	NA	haplo3	Batfer_2	haplo2	6.38|7	9.31|7	0.69|1
-Batgra (Bathybates graueri)	Bathybatini	M	ILG7	deep	haplo4	Batgra_2	haplo3	8.87|8	14.2|12	0.62|0.67
-Batgra (Bathybates graueri)	Bathybatini	F	IUI8	deep	haplo4	Batgra_2	haplo3	7.5|7	10.9|9	0.69|0.78
-Bathor (Bathybates hornii)	Bathybatini	M	JDE3	NA	haplo5	Bathor_2	haplo4	9.38|9	12.39|10	0.76|0.9
-Bathor (Bathybates hornii)	Bathybatini	M?	JDE4	NA	haplo5	Bathor_2	haplo4	11.59|12	16.4|14	0.35|0.43
-Batleo (Bathybates leo)	Bathybatini	F	ILF7	deep	haplo6	Batleo_1	haplo5	9.37|10	10.43|8	0.9|1.25
-Batmin (Bathybates minor)	Bathybatini	F	IXA5	NA	haplo7	Batmin_2_A	haplo6	7.82|8	11.3|9	0.69|0.89
-Batmin (Bathybates minor)	Bathybatini	M	JBG3	NA	haplo8	Batmin_2_B	haplo7	9.8|10	10.65|9	0.92|1.11
-Batvit (Bathybates vittatus)	Bathybatini	M	ITD7	deep	haplo9	Batvit_3_C	haplo8	7.95|8	11.33|9	0.7|0.89
-Batvit (Bathybates vittatus)	Bathybatini	M	JDE6	deep	haplo10	Batvit_3_A	haplo9	13.28|13	14.56|12	0.91|1.08
-Batvit (Bathybates vittatus)	Bathybatini	F	JDE7	deep	haplo11	Batvit_3_B	haplo10	10.02|10	14.59|12	0.69|0.83
-Hemste (Hemibates stenosoma)	Bathybatini	M	IXC2	deep	haplo13	Hemste_2	haplo12	8.16|8	10.61|8	0.77|1
-Hemste (Hemibates stenosoma)	Bathybatini	F	IXC3	deep	haplo13	Hemste_2	haplo12	8.86|9	10.88|9	0.81|1
-HemstZ (Hemibates koningsi)	Bathybatini		IZA5	deep	haplo12	HemstZ_2	haplo11	15.97|15	19.24|16	0.83|0.94
-HemstZ (Hemibates koningsi)	Bathybatini	F	LJC5	deep	haplo12	HemstZ_2	haplo11	15.74|15	14.31|10	1.1|1.5
-BenhoM (Benthochromis sp. “horii mahale”)	Benthochromini	M	LEF2	inter.	haplo14	BenhoM_1	haplo13	15.55|16	17.37|15	0.45|0.53
-Benhor (Benthochromis horii)	Benthochromini	M	ILF8	inter.	haplo15	Benhor_1	haplo14	12.24|13	13.03|11	0.94|1.18
-Benmel (Benthochromis melanoides)	Benthochromini	F	ILG3	deep	haplo16	Benmel_3_AB	haplo15	10.96|10	13.08|12	0.84|0.83
-Benmel (Benthochromis melanoides)	Benthochromini	M	IXB8	deep	haplo16	Benmel_3_AB	haplo15	7.48|7	10.6|9	0.71|0.78
-Benmel (Benthochromis melanoides)	Benthochromini	F	IZA2	deep	haplo17	Benmel_3_C	haplo15	9|9	10.56|9	0.85|1
-Bentri (Benthochromis tricoti)	Benthochromini	M	LDA7	deep	haplo18	Bentri_2_A	haplo16	8.8|8	10.76|9	0.82|0.89
-Bentri (Benthochromis tricoti)	Benthochromini	F	LDA9	deep	haplo19	Bentri_2_B	haplo17	12.75|13	11.38|10	1.12|1.3
-Boumic (Boulengerochromis microlepis)	Boulengerochromini	F	JAE7	inter.	haplo20	Boumic_2	haplo18	17.35|17	19.94|18	0.44|0.47
-Boumic (Boulengerochromis microlepis)	Boulengerochromini	M	JCF2	inter.	haplo20	Boumic_2	haplo18	18.69|19	21.08|19	0.44|0.5
-Cphfr5 (Cyphotilapia sp. “5-bar frontosa”)	Cyphotilapiini	M	KAG3	inter.	haplo21	Cphfr5_2	haplo19	10.59|11	14.55|13	0.36|0.42
-Cphfr5 (Cyphotilapia sp. “5-bar frontosa”)	Cyphotilapiini	F	KDG2	inter.	haplo21	Cphfr5_2	haplo19	14.86|14	18.49|16	0.4|0.44
-Cphfro (Cyphotilapia frontosa)	Cyphotilapiini	F	LEI6	inter.	haplo21	Cphfro_2	haplo19	9.24|9	9.79|8	0.94|1.12
-Cphfro (Cyphotilapia frontosa)	Cyphotilapiini	M	LEI9	inter.	haplo21	Cphfro_2	haplo19	9.85|10	9.71|8	1.01|1.25
-Cphgib (Cyphotilapia gibberosa)	Cyphotilapiini	M	INH7	inter.	haplo21	Cphgib_2	haplo19	12.61|12	14.2|12	0.89|1
-Cphgib (Cyphotilapia gibberosa)	Cyphotilapiini	F	INH9	inter.	haplo21	Cphgib_2	haplo19	14.64|15	13.51|12	1.08|1.25
-Cteben (Ctenochromis benthicola)	Cyphotilapiini	M	DMD1	deep	haplo22	Cteben_2_A	haplo20	10.45|11	11.91|10	0.88|1.1
-Cteben (Ctenochromis benthicola)	Cyphotilapiini	F	IYA8	deep	haplo23	Cteben_2_B	haplo20	8.71|9	10.52|9	0.83|1
-Cypcol (Cyprichromis coloratus)	Cyprichromini	M	JEC7	inter.	haplo24	Cypcol_2	haplo21	20.95|21	22.57|21	0.46|0.5
-Cypcol (Cyprichromis coloratus)	Cyprichromini	F	JED2	inter.	haplo24	Cypcol_2	haplo21	21.38|21	21.03|19	0.51|0.55
-Cypdwj (Cyprichromis sp. “dwarf jumbo”)	Cyprichromini	M	KFA7	inter.	haplo25	Cypdwj_2	haplo22	17.23|17	18.51|17	0.47|0.5
-Cypdwj (Cyprichromis sp. “dwarf jumbo”)	Cyprichromini	F	KFA9	inter.	haplo25	Cypdwj_2	haplo22	15.21|16	15.46|14	0.49|0.57
-Cypkan (Cyprichromis sp. “jumbo”)	Cyprichromini	M	INH1	inter.	haplo25	Cypkan_1	haplo22	15.44|15	14.13|13	1.09|1.15
-Cypkib (Cyprichromis sp. “kibishi”)	Cyprichromini	M	Bel16	NA	haplo26	Cypkib_2_B	haplo23	8.15|8	9.59|8	0.85|1
-Cypkib (Cyprichromis sp. “kibishi”)	Cyprichromini	F	Bel18	NA	haplo25	Cypkib_2_A	haplo22	10.13|11	10.71|9	0.95|1.22
-Cyplep (Cyprichromis leptosoma)	Cyprichromini	M	ISI2	inter.	haplo27	Cyplep_2	haplo24	9.95|10	12.93|11	0.77|0.91
-Cyplep (Cyprichromis leptosoma)	Cyprichromini	F	ISI6	inter.	haplo27	Cyplep_2	haplo24	10.32|10	11.72|10	0.88|1
-Cypmic (Cyprichromis microlepidotus)	Cyprichromini	M	JVE1	NA	haplo25	Cypmic_2_A	haplo22	8.65|9	8.96|8	0.96|1.12
-Cypmic (Cyprichromis microlepidotus)	Cyprichromini	F	JVF2	NA	haplo28	Cypmic_2_B	haplo22	8.39|8	9.79|8	0.86|1
-Cyppav (Cyprichromis pavo)	Cyprichromini	M	JEB2	inter.	haplo29	Cyppav_2	haplo25	10.4|10	13.24|11	0.79|0.91
-Cyppav (Cyprichromis pavo)	Cyprichromini	F	JEB4	inter.	haplo29	Cyppav_2	haplo25	10.75|10	11.33|9	0.95|1.11
-Cypzon (Cyprichromis zonatus)	Cyprichromini	M	GPC9	NA	haplo30	Cypzon_2	haplo26	10.16|10	14.18|13	0.72|0.77
-Cypzon (Cyprichromis zonatus)	Cyprichromini	F	GPD1	NA	haplo30	Cypzon_2	haplo26	7.43|8	9.25|8	0.8|1
-Pcybri (Paracyprichromis sp. “brieni south”)	Cyprichromini	M	IQB9	inter.	haplo32	Pcybri_2	haplo82	12.63|12	12.41|10	1.02|1.2
-Pcybri (Paracyprichromis sp. “brieni south”)	Cyprichromini	F	IQC1	inter.	haplo32	Pcybri_2	haplo28	7.48|7	8.96|7	0.84|1
-PcybrN (Paracyprichromis brieni)	Cyprichromini	M	JXI2	inter.	haplo31	PcybrN_2	haplo27	8.86|9	10.57|9	0.84|1
-PcybrN (Paracyprichromis brieni)	Cyprichromini	F	JXI4	inter.	haplo31	PcybrN_2	haplo27	8.36|8	9.05|7	0.92|1.14
-Pcynig (Paracyprichromis nigripinnis)	Cyprichromini	M	GPC4	inter.	haplo33	Pcynig_2	haplo29	14.53|14	19.27|17	0.38|0.41
-Pcynig (Paracyprichromis nigripinnis)	Cyprichromini	F	GPC6	inter.	haplo33	Pcynig_2	haplo29	7.18|7	9.74|8	0.74|0.88
-Pcytem (Paracyprichromis sp. “tembwe”)	Cyprichromini	M	JWD1	inter.	haplo34	Pcytem_2_A	haplo29	19.03|19	24.67|22	0.39|0.43
-Pcytem (Paracyprichromis sp. “tembwe”)	Cyprichromini	F	JWD2	inter.	haplo35	Pcytem_2_B	haplo29	24.99|26	23.91|21	0.52|0.62
-Asplep (Asprotilapia leptura)	Ectodini	F	INF1	inter.	haplo36	Asplep_2	haplo30	14.01|14	15.5|13	0.45|0.54
-Asplep (Asprotilapia leptura)	Ectodini	M	INF2	inter.	haplo36	Asplep_2	haplo30	22.29|22	22.55|19	0.49|0.58
-Auldew (Aulonocranus dewindti)	Ectodini	F	AUA1	shallow	haplo37	Auldew_2	haplo31	10.35|10	12.16|10	0.85|1
-Auldew (Aulonocranus dewindti)	Ectodini	F	AUA9	shallow	haplo37	Auldew_2	haplo31	10.64|11	11.93|10	0.89|1.1
-Calmac (Callochromis macrops)	Ectodini	M	BND3	shallow	haplo38	Calmac_2	haplo32	12.31|12	11.93|10	1.03|1.2
-Calmac (Callochromis macrops)	Ectodini	F	BND5	shallow	haplo38	Calmac_2	haplo32	13.61|13	12.96|11	1.05|1.18
-Calmel (Callochromis melanostigma)	Ectodini	M	KAF3	shallow	haplo39	Calmel_2	haplo33	9.65|10	11.57|10	0.83|1
-Calmel (Callochromis melanostigma)	Ectodini	F	KAF4	shallow	haplo39	Calmel_2	haplo33	9.75|9	11.67|10	0.84|0.9
-Calple (Callochromis pleurospilus)	Ectodini	M	JZE2	shallow	haplo40	Calple_2	haplo34	10.59|10	12.23|10	0.87|1
-Calple (Callochromis pleurospilus)	Ectodini	F	JZE4	shallow	haplo40	Calple_2	haplo34	24.67|25	22.75|20	0.54|0.62
-Carsch (Cardiopharynx schoutedeni)	Ectodini	M	KAF1	shallow	haplo41	Carsch_2	haplo35	9.38|10	11.3|9	0.83|1.11
-Carsch (Cardiopharynx schoutedeni)	Ectodini	F	KAF2	shallow	haplo41	Carsch_2	haplo35	18.73|19	19.25|17	0.49|0.56
-Cunlon (Cunningtonia longiventralis)	Ectodini	M	IWD7	shallow	haplo41	Cunlon_2	haplo35	9.75|9	10.01|8	0.97|1.12
-Cunlon (Cunningtonia longiventralis)	Ectodini	F	IWD8	shallow	haplo41	Cunlon_2	haplo35	11.94|12	11.9|10	1|1.2
-Cyafoa (Cyathopharynx foae)	Ectodini	F	IOD4	inter.	haplo42	Cyafoa_2_A	haplo35	8.52|9	10.37|9	0.82|1
-Cyafoa (Cyathopharynx foae)	Ectodini	M	IOD6	inter.	haplo43	Cyafoa_2_B	haplo35	7.46|7	8.79|7	0.85|1
-Cyafur (Cyathopharynx furcifer)	Ectodini	M	AVH2	shallow	haplo43	Cyafur_2	haplo35	9.97|10	12.36|10	0.81|1
-Cyafur (Cyathopharynx furcifer)	Ectodini	F	AYE5	shallow	haplo43	Cyafur_2	haplo35	10.53|10	12.54|11	0.84|0.91
-Ectdes (Ectodus descampsii)	Ectodini	M	IRD7	inter.	haplo44	Ectdes_2	haplo36	9.73|10	14.81|13	0.66|0.77
-Ectdes (Ectodus descampsii)	Ectodini	F	IRD8	inter.	haplo44	Ectdes_2	haplo36	8.53|9	10.26|9	0.83|1
-EctspN (Ectodus sp. “north”)	Ectodini	M	KHC4	inter.	haplo45	EctspN_2_A	haplo37	7.12|8	10.17|9	0.7|0.89
-EctspN (Ectodus sp. “north”)	Ectodini	F	KHC5	inter.	haplo46	EctspN_2_B	haplo37	10.48|10	9.93|8	1.05|1.25
-Enamel (Enantiopus melanogenys)	Ectodini	M	AWC5	inter.	haplo47	Enamel_2	haplo38	12.69|12	12.73|11	1|1.09
-Enamel (Enantiopus melanogenys)	Ectodini	F	BNC5	inter.	haplo47	Enamel_2	haplo38	11.16|11	13.92|12	0.8|0.92
-Gralem (Grammatotria lemairii)	Ectodini	M	JDD7	inter.	haplo48	Gralem_2	haplo39	14.87|16	19.05|17	0.78|0.94
-Gralem (Grammatotria lemairii)	Ectodini	F	JDD8	inter.	haplo48	Gralem_2	haplo39	7.75|7	10.4|9	0.74|0.78
-Lesper (Lestradea perspicax)	Ectodini	M	IRA1	inter.	haplo49	Lesper_2_B	haplo35	6.79|7	9.1|8	0.75|0.88
-Lesper (Lestradea perspicax)	Ectodini	F	IRA2	inter.	haplo41	Lesper_2_A	haplo35	10.99|10	12.43|11	0.88|0.91
-Lessta (Lestradea stappersii)	Ectodini	F	JVH2	NA	haplo41	Lessta_2_A	haplo35	9.86|11	10.43|9	0.95|1.22
-Lessta (Lestradea stappersii)	Ectodini	M	JVH3	NA	haplo50	Lessta_2_B	haplo40	5.45|5	8.5|7	0.64|0.71
-Mdcrot (Microdontochromis rotundiventralis)	Ectodini	M	JBE6	NA	haplo51	Mdcrot_2	haplo41	13.46|13	11.45|10	1.18|1.3
-Mdcrot (Microdontochromis rotundiventralis)	Ectodini	F	JBE7	NA	haplo51	Mdcrot_2	haplo41	15.88|15	18.78|17	0.42|0.44
-Mdcten (Microdontochromis tenuidentata)	Ectodini	M	LHG4	inter.	haplo52	Mdcten_2_A	haplo42	13.62|14	15.16|13	0.45|0.54
-Mdcten (Microdontochromis tenuidentata)	Ectodini	F	LHG6	inter.	haplo53	Mdcten_2_B	haplo43	12.87|13	17.42|15	0.37|0.43
-Ophboo (Ophthalmotilapia boops)	Ectodini	M	LFI4	inter.	haplo54	Ophboo_2	haplo35	8.24|8	11.75|10	0.7|0.8
-Ophboo (Ophthalmotilapia boops)	Ectodini	F	LFI6	inter.	haplo54	Ophboo_2	haplo35	9.25|9	11.43|9	0.81|1
-Ophhet (Ophthalmotilapia heterodonta)	Ectodini	M	Bel06	NA	haplo55	Ophhet_2	haplo35	8.46|8	10.18|8	0.83|1
-Ophhet (Ophthalmotilapia heterodonta)	Ectodini	M	Bel12	NA	haplo55	Ophhet_2	haplo35	7.46|7	11.15|9	0.67|0.78
-Ophnas (Ophthalmotilapia nasuta)	Ectodini	M	AXH6	inter.	haplo43	Ophnas_2	haplo35	8.51|8	12.38|10	0.69|0.8
-Ophnas (Ophthalmotilapia nasuta)	Ectodini	F	AXH8	inter.	haplo43	Ophnas_2	haplo35	11.52|11	12.87|11	0.9|1
-Ophpar (Ophthalmotilapia sp. “paranasuta”)	Ectodini	M	JYF7	shallow	haplo43	Ophpar_2	haplo35	14.69|15	15.06|13	0.98|1.15
-Ophpar (Ophthalmotilapia sp. “paranasuta”)	Ectodini	F	JYG5	shallow	haplo43	Ophpar_2	haplo35	10.19|10	12.15|10	0.84|1
-Ophven (Ophthalmotilapia ventralis)	Ectodini	M	IQD3	shallow	haplo55	Ophven_2	haplo35	8.1|8	11.8|10	0.69|0.8
-Ophven (Ophthalmotilapia ventralis)	Ectodini	F	IQE4	shallow	haplo55	Ophven_2	haplo35	6.83|6	10.83|9	0.63|0.67
-Ophwhi (Ophthalmotilapia sp. “white cap”)	Ectodini	M	LGH1	shallow	haplo55	Ophwhi_2	haplo35	10.74|10	12.74|11	0.84|0.91
-Ophwhi (Ophthalmotilapia sp. “white cap”)	Ectodini	F	LGH3	shallow	haplo55	Ophwhi_2	haplo35	9.04|9	11.62|10	0.78|0.9
-Xenbat (Xenotilapia bathyphilus)	Ectodini	M	IVB4	inter.	haplo56	Xenbat_2	haplo44	11.5|11	13.84|12	0.83|0.92
-Xenbat (Xenotilapia bathyphilus)	Ectodini	F	IVB5	inter.	haplo56	Xenbat_2	haplo44	7.74|8	11.02|9	0.7|0.89
-Xenbou (Xenotilapia boulengeri)	Ectodini	M	IPE3	inter.	haplo57	Xenbou_2	haplo45	8.87|10	12.05|9	0.74|1.11
-Xenbou (Xenotilapia boulengeri)	Ectodini	F	IPE7	inter.	haplo57	Xenbou_2	haplo45	8.78|9	11.6|9	0.76|1
-Xencau (Xenotilapia caudafasciata)	Ectodini	M	IXB9	deep	haplo58	Xencau_2	haplo46	11.34|12	11.76|10	0.96|1.2
-Xencau (Xenotilapia caudafasciata)	Ectodini	F	IXC1	deep	haplo58	Xencau_2	haplo46	8.28|8	10.91|9	0.76|0.89
-Xenfla (Xenotilapia flavipinnis)	Ectodini	M	JAF7	shallow	haplo59	Xenfla_2_A	haplo47	23.65|24	22.85|20	0.52|0.6
-Xenfla (Xenotilapia flavipinnis)	Ectodini	F	JAF9	shallow	haplo60	Xenfla_2_B	haplo48	17.79|17	20.34|18	0.44|0.47
-Xenkil (Xenotilapia sp. “kilesa”)	Ectodini	M	Bel01	NA	haplo61	Xenkil_2_A	haplo49	14.79|13	16.11|14	0.46|0.46
-Xenkil (Xenotilapia sp. “kilesa”)	Ectodini	M	Bel03	NA	haplo62	Xenkil_2_B	haplo49	9.75|10	9.42|8	1.03|1.25
-Xenlon (Xenotilapia longispinis)	Ectodini	M	KAF5	NA	haplo63	Xenlon_2	haplo50	13.49|13	13.33|11	1.01|1.18
-Xenlon (Xenotilapia longispinis)	Ectodini	F	KAF6	NA	haplo63	Xenlon_2	haplo50	10.55|11	14.57|12	0.36|0.46
-Xennas (Xenotilapia nasus)	Ectodini	M	IMF7	deep	haplo64	Xennas_2	haplo51	8.74|8	10.45|9	0.84|0.89
-Xennas (Xenotilapia nasus)	Ectodini	F	IMF8	deep	haplo64	Xennas_2	haplo51	17.42|17	16.96|14	1.03|1.21
-XenniS (Xenotilapia nigrolabiata)	Ectodini	F	IXF4	deep	haplo65	XenniS_2_A	haplo52	21.84|21	21.26|19	0.51|0.55
-XenniS (Xenotilapia nigrolabiata)	Ectodini	M	IZC7	deep	haplo66	XenniS_2_B	haplo53	6.24|6	11.26|9	0.55|0.67
-Xenoch (Xenotilapia ochrogenys)	Ectodini	M	JVH4	inter.	haplo67	Xenoch_2	haplo54	13.3|14	14.38|12	0.92|1.17
-Xenoch (Xenotilapia ochrogenys)	Ectodini	F	JVI5	inter.	haplo67	Xenoch_2	haplo54	16.45|16	16.88|14	0.49|0.57
-Xenorn (Xenotilapia ornatipinnis)	Ectodini	M	JZE6	deep	haplo63	Xenorn_2	haplo50	8.72|8	12.86|11	0.68|0.73
-Xenorn (Xenotilapia ornatipinnis)	Ectodini	F	JZE8	deep	haplo63	Xenorn_2	haplo50	8.62|9	11.97|10	0.72|0.9
-XenpaK (Xenotilapia papilio)	Ectodini	F	A206	inter.	haplo68	XenpaK_1	haplo55	16.95|17	15.6|12	0.54|0.71
-Xenpap (Xenotilapia papilio (Katete))	Ectodini	M	IVF4	inter.	haplo68	Xenpap_2	haplo55	17.41|18	17.26|14	0.5|0.64
-Xenpap (Xenotilapia papilio (Katete))	Ectodini	F	IVF5	inter.	haplo68	Xenpap_2	haplo55	8.29|9	10.25|8	0.81|1.12
-Xensim (Xenotilapia sima)	Ectodini	M	IUF7	deep	haplo69	Xensim_4	haplo39	9.4|9	13.3|11	0.71|0.82
-Xensim (Xenotilapia sima)	Ectodini	F	IUF8	deep	haplo69	Xensim_4	haplo39	11.01|11	13.8|11	0.8|1
-Xensim (Xenotilapia sima)	Ectodini	M	LBE2	deep	haplo69	Xensim_4	haplo39	10.37|10	13.76|11	0.75|0.91
-Xensim (Xenotilapia sima)	Ectodini	F	LBE9	deep	haplo69	Xensim_4	haplo39	8.91|9	10.74|8	0.83|1.12
-Xensin (Xenotilapia singularis)	Ectodini	M	IRD9	inter.	haplo67	Xensin_2	haplo54	9.28|9	11.46|10	0.81|0.9
-Xensin (Xenotilapia singularis)	Ectodini	F	IRE3	inter.	haplo67	Xensin_2	haplo54	8.83|8	10.88|9	0.81|0.89
-Xenspi (Xenotilapia spilopterus)	Ectodini	M	AXB5	inter.	haplo72	Xenspi_2	haplo45	9.02|9	12.27|10	0.73|0.9
-Xenspi (Xenotilapia spilopterus)	Ectodini	F	AXB8	inter.	haplo72	Xenspi_2	haplo45	13.74|14	12.26|10	1.12|1.4
-XenspN (Xenotilapia sp. “spilopterus north”)	Ectodini	M	LEA3	inter.	haplo70	XenspN_2_A	haplo45	7.45|7	10.51|9	0.71|0.78
-XenspN (Xenotilapia sp. “spilopterus north”)	Ectodini	F	LEA4	inter.	haplo71	XenspN_2_B	haplo45	9.25|9	10.23|8	0.9|1.12
-Xensun (Xenotilapia sp. “papilio sunflower”)	Ectodini	M	GPF8	inter.	haplo73	Xensun_2_A	haplo55	8.21|8	11.22|9	0.73|0.89
-Xensun (Xenotilapia sp. “papilio sunflower”)	Ectodini	F	GPF9	inter.	haplo74	Xensun_2_B	haplo55	10.65|10	12.5|10	0.85|1
-Erecya (Eretmodus cyanostictus)	Eretmodini	M	IZH7	shallow	haplo75	Erecya_2	haplo56	27.8|26	27.89|25	0.5|0.52
-Erecya (Eretmodus cyanostictus)	Eretmodini	F	IZI3	shallow	haplo75	Erecya_2	haplo56	17.04|17	17.69|16	0.48|0.53
-Eremar (Eretmodus marksmithi)	Eretmodini	M	JXE9	shallow	haplo76	Eremar_2	haplo57	12.12|11	14.93|13	0.41|0.42
-Eremar (Eretmodus marksmithi)	Eretmodini	F	JXF4	shallow	haplo76	Eremar_2	haplo57	7.96|8	9.44|8	0.84|1
-Spaery (Spathodus erythrodon)	Eretmodini	M	JUB6	shallow	haplo77	Spaery_2	haplo58	11.77|11	10.56|9	1.11|1.22
-Spaery (Spathodus erythrodon)	Eretmodini	F	JUB7	shallow	haplo77	Spaery_2	haplo58	11.3|11	12.48|11	0.91|1
-Spamar (Spathodus marlieri)	Eretmodini	M	JZB7	shallow	haplo77	Spamar_2	haplo58	6.91|7	9.11|8	0.76|0.88
-Spamar (Spathodus marlieri)	Eretmodini	F	JZD3	shallow	haplo77	Spamar_2	haplo58	13.74|14	15.02|13	0.46|0.54
-Tanirs (Tanganicodus irsacae)	Eretmodini	M	JYH3	shallow	haplo78	Tanirs_2	haplo57	16.55|15	14.7|12	1.13|1.25
-Tanirs (Tanganicodus irsacae)	Eretmodini	F	JYH7	shallow	haplo78	Tanirs_2	haplo57	9.2|9	10.8|9	0.85|1
-Gobeth (Gobiocichla ethelwynnae)*	Gobiocichlini	M	JWE7 (no genome draft assembly)	NA	haplo79	Gobeth_1	haplo59	16.58|17	20.48|18	0.4|0.47
-Tilbre (Tilapia brevimanus)*	Gobiocichlini	F	JWF9	NA	haplo80	Tilbre_1	haplo60	23.98|23	19.54|18	0.61|0.64
-Arcstr (Astatoreochromis straeleni)*	Haplochromini	M	KAE8	NA	haplo81	Arcstr_1	haplo61	7.59|8	10.91|9	0.7|0.89
-Astbur (Astatotilapia burtoni)*	Haplochromini	M	IZA1	shallow	haplo82	Astbur_3_AB	haplo62	8.26|8	11.45|10	0.72|0.8
-Astbur (Astatotilapia burtoni)*	Haplochromini	F	IZC5 (no genome draft assembly)	shallow	haplo82	Astbur_3_AB	haplo62	24.92|25	22.27|20	0.56|0.62
-Astbur (Astatotilapia burtoni)*	Haplochromini	F	JYD5	shallow	haplo83	Astbur_3_C	haplo62	4.9|5	7.45|6	0.66|0.83
-Astfla (Astatotilapia flaviijosephi)*	Haplochromini	M	LJD2	NA	haplo84	Astfla_1	haplo63	9.06|9	8.25|7	1.1|1.29
-Astpal (Astatotilapia paludinosa)*	Haplochromini	M	KYG1	NA	haplo85	Astpal_1	haplo62	7.93|8	9.14|7	0.87|1.14
-Ctepol (Ctenochromis polli)*	Haplochromini	M	JWG2 (no genome draft assembly)	NA	haplo86	Ctepol_1	haplo64	18.5|19	21.51|18	0.43|0.53
-Hplkil (Haplochromis sp. “kilossana”)*	Haplochromini	M	LJE8 (no genome draft assembly)	NA	haplo87	Hplkil_1	haplo65	27.7|27	28.5|25	0.49|0.54
-HplspC (Haplochromis sp. “chipwa”)*	Haplochromini	M	HXC4	shallow	haplo82	HplspC_2	haplo62	7.83|7	9.33|8	0.84|0.88
-HplspC (Haplochromis sp. “chipwa”)*	Haplochromini	F	HXC5	shallow	haplo82	HplspC_2	haplo62	9.05|9	13.36|11	0.68|0.82
-Hplsta (Haplochromis stappersii)*	Haplochromini	M	JYD3	shallow	haplo88	Hplsta_1	haplo66	17.3|16	17.36|15	0.5|0.53
-Hplvan (Haplochromis vanheusdeni)*	Haplochromini	M	JWG3	NA	haplo87	Hplvan_1	haplo65	9.91|10	10.86|8	0.91|1.25
-Ortcho (Orthochromis indermauri)*	Haplochromini	F	HXC6	NA	haplo89	Ortcho_2	haplo67	19.03|19	22.58|20	0.42|0.48
-Ortcho (Orthochromis indermauri)*	Haplochromini	M	HXC7	NA	haplo89	Ortcho_2	haplo67	7.09|7	9.25|8	0.77|0.88
-Ortmaz (Orthochromis mazimeroensis)*	Haplochromini	M	KDC6	NA	haplo90	Ortmaz_1	haplo68	7.8|8	10.38|8	0.75|1
-Ortred (Orthochromis malagaraziensis)*	Haplochromini	M	KYE2	NA	haplo90	Ortred_1	haplo68	11.18|11	10.24|8	1.09|1.38
-Ortuvi (Orthochromis uvinzae)*	Haplochromini	M	KYE7	NA	haplo91	Ortuvi_1	haplo68	8.01|8	9.87|8	0.81|1
-Psephi (Pseudocrenilabrus philander)*	Haplochromini	M	JWG1 (no genome draft assembly)	NA	haplo92	Psephi_1	haplo69	22.15|22	24.67|22	0.45|0.5
-Thobra (Thoracochromis brauschi)*	Haplochromini	M	JWF8	NA	haplo93	Thobra_1	haplo69	18.86|19	21.84|19	0.43|0.5
-Hetbut (Heterotilapia buettikoferi)*	Heterotilapini		JWE3	NA	haplo94	Hetbut_1	haplo70	10.83|11	10.14|9	1.07|1.22
-Altcal (Altolamprologus calvus)	Lamprologini	M	IOE2	inter.	haplo95	Altcal_2_A	haplo71	10.14|10	11.83|10	0.86|1
-Altcal (Altolamprologus calvus)	Lamprologini	F	IOE3	inter.	haplo96	Altcal_2_B	haplo72	10.46|11	14.13|12	0.74|0.92
-Altcom (Altolamprologus compressiceps)	Lamprologini	M	ISB1	inter.	haplo97	Altcom_2	haplo71	9.65|10	12.44|11	0.78|0.91
-Altcom (Altolamprologus compressiceps)	Lamprologini	F	ISC9	inter.	haplo97	Altcom_2	haplo71	13.49|14	14.01|12	0.96|1.17
-Altfas (Neolamprologus fasciatus)	Lamprologini	M	AUE7	shallow	haplo98	Altfas_2	haplo73	14.2|14	15|13	0.95|1.08
-Altfas (Neolamprologus fasciatus)	Lamprologini	F	AXD5	shallow	haplo98	Altfas_2	haplo73	7.93|7	11.96|11	0.66|0.64
-Altshe (Altolamprologus sp. “compressiceps shell”)	Lamprologini	M	IRH2	NA	haplo95	Altshe_2	haplo71	6.56|7	8.7|7	0.75|1
-Altshe (Altolamprologus sp. “compressiceps shell”)	Lamprologini	F	IRH4	NA	haplo95	Altshe_2	haplo71	8.3|8	9.08|7	0.91|1.14
-Chabif (Chalinochromis sp. “bifrenatus”)	Lamprologini	F	LDD9	inter.	haplo99	Chabif_2	haplo74	10.1|10	11.08|10	0.91|1
-Chabif (Chalinochromis sp. “bifrenatus”)	Lamprologini	M	LDE1	inter.	haplo99	Chabif_2	haplo74	10.76|11	11.14|10	0.97|1.1
-Chabri (Chalinochromis brichardi)	Lamprologini	F	AVA9	inter.	haplo99	Chabri_2	haplo74	8.68|8	11.41|10	0.76|0.8
-Chabri (Chalinochromis brichardi)	Lamprologini	M	AVB2	inter.	haplo99	Chabri_2	haplo74	9.64|10	10.98|10	0.88|1
-Chacya (Chalinochromis cyanophleps)	Lamprologini	M	LGG6	inter.	haplo100	Chacya_2	haplo75	12.26|12	11.98|10	1.02|1.2
-Chacya (Chalinochromis cyanophleps)	Lamprologini	F	LGG7	inter.	haplo100	Chacya_2	haplo75	14.45|14	11.46|10	1.26|1.4
-Chando (Chalinochromis sp. “ndobhoi”)	Lamprologini	M	KEE9	inter.	haplo99	Chando_2	haplo74	9.44|10	10.56|9	0.89|1.11
-Chando (Chalinochromis sp. “ndobhoi”)	Lamprologini	F	KEF1	inter.	haplo99	Chando_2	haplo74	10.85|11	10.84|9	1|1.22
-Chapop (Chalinochromis popelini)	Lamprologini	M	Bel07	inter.	haplo99	Chapop_2	haplo74	11.96|10	11.43|10	1.05|1
-Chapop (Chalinochromis popelini)	Lamprologini	F	Bel09	inter.	haplo99	Chapop_2	haplo74	8.99|8	10.15|9	0.89|0.89
-Juldic (Julidochromis dickfeldi)	Lamprologini	M	IRC4	inter.	haplo99	Juldic_2	haplo74	14.62|14	14.66|13	1|1.08
-Juldic (Julidochromis dickfeldi)	Lamprologini	F	IRC5	inter.	haplo99	Juldic_2	haplo74	12.47|12	10.69|9	1.17|1.33
-Julkom (Julidochromis sp. “kombe”)	Lamprologini	M	ILD9	inter.	haplo99	Julkom_2	haplo74	9.22|9	10.5|9	0.88|1
-Julkom (Julidochromis sp. “kombe”)	Lamprologini	F	INA6	inter.	haplo99	Julkom_2	haplo74	7.18|7	9.78|8	0.73|0.88
-JulmaN (Julidochromis marlieri)	Lamprologini	M	JXB5	inter.	haplo101	JulmaN_2_A	haplo74	17.01|16	13.23|12	1.29|1.33
-JulmaN (Julidochromis marlieri)	Lamprologini	F	JXC1	inter.	haplo99	JulmaN_2_B	haplo74	12.8|12	12.78|11	1|1.09
-JulmaS (Julidochromis sp. “marlieri south”)	Lamprologini	F	LBA1	inter.	haplo101	JulmaS_2_A	haplo74	8.76|8	11.95|11	0.73|0.73
-JulmaS (Julidochromis sp. “marlieri south”)	Lamprologini	M	LBF3	inter.	haplo99	JulmaS_2_B	haplo74	11.52|12	12.75|11	0.9|1.09
-Julmrk (Julidochromis marksmithi)	Lamprologini	M	LFG8	inter.	haplo101	Julmrk_2_A	haplo74	7.22|7	9.9|9	0.73|0.78
-Julmrk (Julidochromis marksmithi)	Lamprologini	F	LFH1	inter.	haplo102	Julmrk_2_B	haplo74	10.3|10	12.73|11	0.81|0.91
-Julorn (Julidochromis ornatus)	Lamprologini	M	ISB7	inter.	haplo103	Julorn_2	haplo74	9.03|9	9.7|8	0.93|1.12
-Julorn (Julidochromis ornatus)	Lamprologini	F	ISC1	inter.	haplo103	Julorn_2	haplo74	11.86|12	12.46|11	0.95|1.09
-Julreg (Julidochromis sp. “regani south”)	Lamprologini	F	IRB2	inter.	haplo102	Julreg_2	haplo74	11.65|12	9.65|8	1.21|1.5
-Julreg (Julidochromis sp. “regani south”)	Lamprologini	M	IRB8	inter.	haplo102	Julreg_2	haplo74	8.66|9	11.06|10	0.78|0.9
-JulreK (Julidochromis regani)	Lamprologini	F	KFF4	inter.	haplo104	JulreK_2	haplo76	9.46|9	10.86|10	0.87|0.9
-JulreK (Julidochromis regani)	Lamprologini	M	KHE6	inter.	haplo104	JulreK_2	haplo76	7.14|7	10.24|9	0.7|0.78
-Jultra (Julidochromis transcriptus)	Lamprologini	M	HFG1287	NA	haplo99	Jultra_2	haplo74	14.31|14	16.18|14	0.44|0.5
-Jultra (Julidochromis transcriptus)	Lamprologini	F	LJC2	NA	haplo99	Jultra_2	haplo74	13.8|14	14.59|13	0.47|0.54
-Julunt (Julidochromis sp. “unterfels”)	Lamprologini	M	JWA1	NA	haplo105	Julunt_2_A	haplo74	21.42|22	20.97|19	0.51|0.58
-Julunt (Julidochromis sp. “unterfels”)	Lamprologini	F	JWA2	NA	haplo106	Julunt_2_B	haplo74	21.17|21	23.49|22	0.45|0.48
-Lamcal (Lamprologus callipterus)	Lamprologini	M	IPH2	inter.	haplo107	Lamcal_2	haplo77	16.31|17	14.82|13	1.1|1.31
-Lamcal (Lamprologus callipterus)	Lamprologini	F	JAB1	inter.	haplo107	Lamcal_2	haplo77	9.22|9	11.49|10	0.8|0.9
-Lamkun (Lamprologus kungweensis)	Lamprologini	M	JXG8	inter.	haplo99	Lamkun_2	haplo74	15.02|15	19.92|17	0.38|0.44
-Lamkun (Lamprologus kungweensis)	Lamprologini	F	JXH2	inter.	haplo99	Lamkun_2	haplo74	20.17|20	19.85|17	0.51|0.59
-Lamlem (Lamprologus lemairii)	Lamprologini	F	IPD6	inter.	haplo108	Lamlem_2	haplo74	7.18|7	9.67|8	0.74|0.88
-Lamlem (Lamprologus lemairii)	Lamprologini	M	IZI7	inter.	haplo108	Lamlem_2	haplo74	9.89|10	11.86|10	0.83|1
-Lammel (Lamprologus meleagris)	Lamprologini	M	JWA8	NA	NA	NA	NA	5.35|6	9|7	0.59|0.86
-Lammel (Lamprologus meleagris)	Lamprologini	F	JWA9	NA	haplo109	Lammel_1	haplo78	9.71|10	17.08|14	0.28|0.36
-Lamoce (Lamprologus ocellatus)	Lamprologini	M	ILC1	inter.	haplo110	Lamoce_2_A	haplo79	8.17|8	10.48|9	0.78|0.89
-Lamoce (Lamprologus ocellatus)	Lamprologini	F	ILD3	inter.	haplo111	Lamoce_2_B	haplo80	11.25|11	12.23|10	0.92|1.1
-LamorC (Lamprologus sp. “ornatipinnis congo”)	Lamprologini	M	JWA3	inter.	haplo112	LamorC_2	haplo81	9.98|10	10.25|9	0.97|1.11
-LamorC (Lamprologus sp. “ornatipinnis congo”)	Lamprologini	F	JWA4	inter.	haplo112	LamorC_2	haplo81	6.94|7	9.91|8	0.7|0.88
-Lamorn (Lamprologus ornatipinnis)	Lamprologini	M	JZF3	inter.	haplo114	Lamorn_2_A	haplo83	20.83|21	21.84|19	0.48|0.55
-Lamorn (Lamprologus ornatipinnis)	Lamprologini	F	JZF4	inter.	haplo115	Lamorn_2_B	haplo82	17.81|18	18.04|16	0.49|0.56
-LamorS (Lamprologus sp. “ornatipinnis zambia”)	Lamprologini	M	JDF5	inter.	haplo113	LamorS_2	haplo82	12.55|13	12.17|10	1.03|1.3
-LamorS (Lamprologus sp. “ornatipinnis zambia”)	Lamprologini	F	JDG4	inter.	haplo113	LamorS_2	haplo82	8.29|8	9.75|8	0.85|1
-Lamsig (Lamprologus signatus)	Lamprologini	M	IWD5	inter.	haplo116	Lamsig_2	haplo84	9.76|9	12.31|11	0.79|0.82
-Lamsig (Lamprologus signatus)	Lamprologini	F	IWD6	inter.	haplo116	Lamsig_2	haplo84	14.06|14	14.17|12	0.5|0.58
-Lamspe (Lamprologus speciosus)	Lamprologini	M	KCG2	NA	haplo117	Lamspe_2_A	haplo85	10.62|11	15.02|13	0.35|0.42
-Lamspe (Lamprologus speciosus)	Lamprologini	F	KCG3	NA	haplo118	Lamspe_2_B	haplo86	16.56|16	20.79|18	0.4|0.44
-Lamtig (Lamprologus tigripictilis)	Lamprologini	F	JWF6	NA	haplo119	Lamtig_1	haplo87	21.85|20	21.2|19	0.52|0.53
-Lepatt (Lepidiolamprologus attenuatus)	Lamprologini	M	AVD4	inter.	haplo99	Lepatt_2	haplo74	8.94|9	11.11|9	0.81|1
-Lepatt (Lepidiolamprologus attenuatus)	Lamprologini	F	AVG5	inter.	haplo99	Lepatt_2	haplo74	9.84|10	12.23|10	0.8|1
-Lepcun (Lepidiolamprologus cunningtoni)	Lamprologini	F	IOH4	inter.	haplo120	Lepcun_2	haplo88	9.18|9	12.11|10	0.76|0.9
-Lepcun (Lepidiolamprologus cunningtoni)	Lamprologini	M	IOH5	inter.	haplo120	Lepcun_2	haplo88	21.08|21	19.7|18	0.53|0.58
-Lepelo (Lepidiolamprologus elongatus)	Lamprologini	M	AUE6	inter.	haplo99	Lepelo_2	haplo74	10.73|10	10.93|9	0.98|1.11
-Lepelo (Lepidiolamprologus elongatus)	Lamprologini	F	AUG8	inter.	haplo99	Lepelo_2	haplo74	11.02|11	11.45|10	0.96|1.1
-Lepkam (Lepidiolamprologus kamambae)	Lamprologini	M	LFF7	NA	haplo121	Lepkam_2	haplo89	9.45|9	8.93|7	1.06|1.29
-Lepkam (Lepidiolamprologus kamambae)	Lamprologini	F	LFF8	NA	haplo121	Lepkam_2	haplo89	11.95|12	12.43|11	0.96|1.09
-Lepken (Lepidiolamprologus kendalli)	Lamprologini	M	IMD1	inter.	haplo121	Lepken_2_A	haplo89	20.24|21	20.71|18	0.49|0.58
-Lepken (Lepidiolamprologus kendalli)	Lamprologini	F	IMD2	inter.	haplo122	Lepken_2_B	haplo90	11.08|11	11.64|10	0.95|1.1
-LepmeK (Lepidiolamprologus sp. “meeli kipili”)	Lamprologini	F	LHA2	inter.	haplo99	LepmeK_2_B	haplo74	9.06|9	11.12|9	0.81|1
-LepmeK (Lepidiolamprologus sp. “meeli kipili”)	Lamprologini	M	LHA5	inter.	haplo123	LepmeK_2_A	haplo74	12.98|13	11.98|10	1.08|1.3
-Lepmim (Lepidiolamprologus mimicus)	Lamprologini	M	LDD1	inter.	haplo121	Lepmim_2_A	haplo89	9.3|9	11.49|10	0.81|0.9
-Lepmim (Lepidiolamprologus mimicus)	Lamprologini	F	LDD6	inter.	haplo124	Lepmim_2_B	haplo91	13.2|13	11.42|10	1.16|1.3
-Leppro (Lepidiolamprologus profundicola)	Lamprologini	M	KAD2	inter.	haplo125	Leppro_2	haplo74	10.79|11	12.7|11	0.42|0.5
-Leppro (Lepidiolamprologus profundicola)	Lamprologini	F	KEB8	inter.	haplo125	Leppro_2	haplo74	12.78|12	12.88|11	0.5|0.55
-Neobif (Neolamprologus bifasciatus)	Lamprologini	M	LHF6	deep	haplo100	Neobif_2_A	haplo75	5.83|5	10.87|9	0.54|0.56
-Neobif (Neolamprologus bifasciatus)	Lamprologini	F	LHF7	deep	haplo126	Neobif_2_B	haplo92	11.08|11	10.81|9	1.02|1.22
-Neobou (Neolamprologus boulengeri)	Lamprologini	F	KCE5	inter.	haplo114	Neobou_2	haplo83	9.59|9	10.36|9	0.93|1
-Neobou (Neolamprologus boulengeri)	Lamprologini	M	KYB9	inter.	haplo114	Neobou_2	haplo83	12.62|12	11.57|10	1.09|1.2
-Neobre (Neolamprologus brevis)	Lamprologini	M	ILB6	inter.	haplo128	Neobre_2	haplo84	8.42|8	9.68|8	0.87|1
-Neobre (Neolamprologus brevis)	Lamprologini	F	ILB7	inter.	haplo128	Neobre_2	haplo84	7.3|7	10.01|8	0.73|0.88
-Neobri (Neolamprologus brichardi)	Lamprologini	F	JUH9	inter.	haplo99	Neobri_2	haplo74	12.19|12	12.37|11	0.49|0.55
-Neobri (Neolamprologus brichardi)	Lamprologini	M	JUI1	inter.	haplo99	Neobri_2	haplo74	7.48|8	9.13|8	0.82|1
-NeobrM (Neolamprologus sp. “brevis magara”)	Lamprologini	M	KCI6	inter.	haplo127	NeobrM_2_A	haplo84	16.77|17	20.56|18	0.41|0.47
-NeobrM (Neolamprologus sp. “brevis magara”)	Lamprologini	F	KCI7	inter.	haplo128	NeobrM_2_B	haplo84	10.89|11	11.02|9	0.99|1.22
-Neobue (Neolamprologus buescheri)	Lamprologini	M	JEI4	deep	haplo100	Neobue_2	haplo75	5.26|5	10.7|9	0.49|0.56
-Neobue (Neolamprologus buescheri)	Lamprologini	F	JEI5	deep	haplo100	Neobue_2	haplo75	9.27|9	10.98|9	0.84|1
-NeocaK (Neolamprologus sp. “caudopunctatus kipili”)	Lamprologini	M	LDG2	inter.	haplo129	NeocaK_2	haplo93	10.58|10	10.6|9	1|1.11
-NeocaK (Neolamprologus sp. “caudopunctatus kipili”)	Lamprologini	F	LDG3	inter.	haplo129	NeocaK_2	haplo93	9.84|9	12.03|10	0.82|0.9
-Neocal (Neolamprologus calliurus)	Lamprologini	M	ILA7	inter.	haplo130	Neocal_2_A	haplo84	10.91|10	14.53|13	0.75|0.77
-Neocal (Neolamprologus calliurus)	Lamprologini	F	INC7	inter.	haplo131	Neocal_2_B	haplo94	7.63|7	12.12|10	0.63|0.7
-Neocau (Neolamprologus caudopunctatus)	Lamprologini	M	IQA3	shallow	haplo95	Neocau_2_B	haplo71	19.47|20	21.85|20	0.45|0.5
-Neocau (Neolamprologus caudopunctatus)	Lamprologini	F	IQA4	shallow	haplo132	Neocau_2_A	haplo95	11.78|11	11.36|10	1.04|1.1
-Neochi (Neolamprologus chitamwebwai)	Lamprologini	M	KHA7	inter.	haplo133	Neochi_2	haplo76	10.08|10	10.42|9	0.97|1.11
-Neochi (Neolamprologus chitamwebwai)	Lamprologini	F	KHA9	inter.	haplo133	Neochi_2	haplo76	8.7|9	8.81|7	0.99|1.29
-Neochr (Neolamprologus christyi)	Lamprologini	F	ITG2	inter.	haplo134	Neochr_1	haplo88	10.73|11	12.25|11	0.88|1
-Neochr (Neolamprologus christyi)	Lamprologini	M	IZI8	inter.	NA	NA	NA	6.08|6	9.73|8	0.63|0.75
-Neocra (Neolamprologus crassus)	Lamprologini	M	IVE8	inter.	haplo102	Neocra_2	haplo74	13.07|13	12.89|11	1.01|1.18
-Neocra (Neolamprologus crassus)	Lamprologini	F	IVF1	inter.	haplo102	Neocra_2	haplo74	10.2|10	12.98|11	0.79|0.91
-Neocyg (Neolamprologus sp. “cygnus”)	Lamprologini	M	LFD2	inter.	haplo100	Neocyg_2	haplo75	12.34|13	12.29|10	1|1.3
-Neocyg (Neolamprologus sp. “cygnus”)	Lamprologini	F	LFD4	inter.	haplo100	Neocyg_2	haplo75	12.64|13	11.9|10	1.06|1.3
-Neocyl (Neolamprologus cylindricus)	Lamprologini	M	GPH1	inter.	haplo135	Neocyl_2	haplo96	18.96|18	20.29|18	0.47|0.5
-Neocyl (Neolamprologus cylindricus)	Lamprologini	F	GPH2	inter.	haplo135	Neocyl_2	haplo96	11.79|12	14.34|12	0.82|1
-Neodev (Neolamprologus devosi)*	Lamprologini	M	LEH2	NA	haplo136	Neodev_1	haplo97	16.14|17	15.08|13	1.07|1.31
-Neoese (Neolamprologus sp. “eseki”)	Lamprologini	M	LFB7	inter.	haplo137	Neoese_2_A	haplo98	11.79|12	8.96|8	1.32|1.5
-Neoese (Neolamprologus sp. “eseki”)	Lamprologini	F	LFB9	inter.	haplo138	Neoese_2_B	haplo99	10.83|10	11.96|11	0.91|0.91
-Neofal (Neolamprologus falcicula)	Lamprologini	M	JXD4	inter.	haplo133	Neofal_2	haplo76	13.71|13	13.43|12	1.02|1.08
-Neofal (Neolamprologus falcicula)	Lamprologini	F	JXD7	inter.	haplo133	Neofal_2	haplo76	16.03|16	16.47|15	0.97|1.07
-NeofaM (Neolamprologus sp. “falcicula mahale”)	Lamprologini	F	LCB5	inter.	haplo102	NeofaM_2	haplo74	7.01|7	9.17|8	0.76|0.88
-NeofaM (Neolamprologus sp. “falcicula mahale”)	Lamprologini	M	LCC2	inter.	haplo102	NeofaM_2	haplo74	9.76|9	8.99|8	1.09|1.12
-Neofur (Neolamprologus furcifer)	Lamprologini	M	JEI6	inter.	haplo99	Neofur_2	haplo74	10.8|11	15.05|13	0.36|0.42
-Neofur (Neolamprologus furcifer)	Lamprologini	F	JEI8	inter.	haplo99	Neofur_2	haplo74	21.98|22	19.04|17	0.58|0.65
-NeofuU (Neolamprologus sp. “furcifer ulwile”)	Lamprologini	F	LDF4	inter.	haplo99	NeofuU_2	haplo74	9.07|9	11.24|10	0.81|0.9
-NeofuU (Neolamprologus sp. “furcifer ulwile”)	Lamprologini	M	LDF5	inter.	haplo99	NeofuU_2	haplo74	11.88|12	11.39|10	1.04|1.2
-Neogra (Neolamprologus gracilis)	Lamprologini	F	JWH1	inter.	haplo102	Neogra_2	haplo74	12.92|12	16.8|15	0.38|0.4
-Neogra (Neolamprologus gracilis)	Lamprologini	M	JWH2	inter.	haplo102	Neogra_2	haplo74	19.18|20	19.33|17	0.5|0.59
-NeogrM (Neolamprologus sp. “gracilis tanzania”)	Lamprologini	M	LCB4	inter.	haplo99	NeogrM_2_B	haplo74	8.21|8	9.83|8	0.84|1
-NeogrM (Neolamprologus sp. “gracilis tanzania”)	Lamprologini	F	LCC6	inter.	haplo139	NeogrM_2_A	haplo74	11.15|11	10.18|9	1.1|1.22
-Neohec (Neolamprologus hecqui)	Lamprologini	M	A142	inter.	haplo140	Neohec_3_A	haplo100	16.98|16	17.47|15	0.49|0.53
-Neohec (Neolamprologus hecqui)	Lamprologini		Bel13	inter.	haplo141	Neohec_3_BC	haplo100	6.86|7	9.57|8	0.72|0.88
-Neohec (Neolamprologus hecqui)	Lamprologini		Bel14	inter.	haplo141	Neohec_3_BC	haplo100	9.04|9	10.19|8	0.89|1.12
-Neohel (Neolamprologus helianthus)	Lamprologini	F	JWG8	inter.	haplo99	Neohel_2	haplo74	8.97|9	8.14|7	1.1|1.29
-Neohel (Neolamprologus helianthus)	Lamprologini	M	JWG9	inter.	haplo99	Neohel_2	haplo74	13.8|14	15.62|14	0.44|0.5
-Neokom (Neolamprologus sp. “kombe”)	Lamprologini	M	ILE5	shallow	haplo99	Neokom_2	haplo74	6.44|6	8.43|7	0.76|0.86
-Neokom (Neolamprologus sp. “kombe”)	Lamprologini	F	ILE6	shallow	haplo99	Neokom_2	haplo74	10.2|10	11.89|10	0.86|1
-Neolap (Lamprologus laparogramma)	Lamprologini	F	JDI1	inter.	haplo116	Neolap_2	haplo84	9.14|8	11.84|10	0.77|0.8
-Neolap (Lamprologus laparogramma)	Lamprologini	M	JDI2	inter.	haplo116	Neolap_2	haplo84	13.52|13	14.62|12	0.46|0.54
-NeoleL (Neolamprologus leleupi)	Lamprologini		JWH9	inter.	haplo142	NeoleL_1	haplo74	13.27|13	15.9|14	0.42|0.46
-Neoleu (Neolamprologus longior)	Lamprologini	M	KEH3	inter.	haplo143	Neoleu_2	haplo75	17.63|18	18.85|17	0.47|0.53
-Neoleu (Neolamprologus longior)	Lamprologini	F	LEE1	inter.	haplo143	Neoleu_2	haplo75	8.37|8	10.43|9	0.8|0.89
-Neolon (Neolamprologus longicaudatus)	Lamprologini	M	JWI2	inter.	haplo100	Neolon_2	haplo75	12.75|13	12.15|10	1.05|1.3
-Neolon (Neolamprologus longicaudatus)	Lamprologini	F	JWI3	inter.	haplo100	Neolon_2	haplo75	13.33|13	15.93|14	0.84|0.93
-Neolou (Neolamprologus leloupi)	Lamprologini	M	LCA1	inter.	haplo144	Neolou_2	haplo101	12.13|12	10.98|9	1.1|1.33
-Neolou (Neolamprologus leloupi)	Lamprologini	F	LCA2	inter.	haplo144	Neolou_2	haplo101	11.5|11	12.25|10	0.94|1.1
-Neomar (Neolamprologus marunguensis)	Lamprologini	M	JWH3	NA	haplo102	Neomar_2	haplo74	16.18|17	16.26|14	0.5|0.61
-Neomar (Neolamprologus marunguensis)	Lamprologini	F	JWH4	NA	haplo102	Neomar_2	haplo74	16.07|16	16.71|15	0.48|0.53
-Neomee (Neolamprologus meeli)	Lamprologini	M	JDF3	inter.	haplo99	Neomee_2	haplo74	10.06|10	10.13|8	0.99|1.25
-Neomee (Neolamprologus meeli)	Lamprologini	F	JDF4	inter.	haplo99	Neomee_2	haplo74	17.06|17	20.7|18	0.41|0.47
-Neomod (Neolamprologus modestus)	Lamprologini	M	IMG9	shallow	haplo137	Neomod_2	haplo98	12.41|12	12.19|11	1.02|1.09
-Neomod (Neolamprologus modestus)	Lamprologini	F	IMH3	shallow	haplo137	Neomod_2	haplo98	12.96|13	14.27|13	0.91|1
-Neomon (Neolamprologus mondabu)	Lamprologini	M	JVB4	shallow	haplo137	Neomon_2	haplo98	11.04|11	15.79|14	0.7|0.79
-Neomon (Neolamprologus mondabu)	Lamprologini	F	JVB8	shallow	haplo137	Neomon_2	haplo98	9.74|10	13.27|12	0.73|0.83
-Neomul (Neolamprologus multifasciatus)	Lamprologini	M	IRF6 (no genome draft assembly)	inter.	haplo145	Neomul_2_A	haplo102	10.35|9	10.7|9	0.97|1
-Neomul (Neolamprologus multifasciatus)	Lamprologini	F	IRF8	inter.	haplo146	Neomul_2_B	haplo103	8.07|8	9.6|8	0.84|1
-Neomux (Neolamprologus mustax)	Lamprologini	F	ILB4	inter.	haplo147	Neomux_2	haplo74	11.37|12	12.5|11	0.91|1.09
-Neomux (Neolamprologus mustax)	Lamprologini	M	ILH1	inter.	haplo147	Neomux_2	haplo74	9.47|9	9.51|8	1|1.12
-Neonig (Neolamprologus niger)	Lamprologini	M	KYA1	deep	haplo135	Neonig_2	haplo96	8.84|9	9.45|8	0.94|1.12
-Neonig (Neolamprologus niger)	Lamprologini	F	KYA5	deep	haplo135	Neonig_2	haplo96	9.14|9	10.06|8	0.91|1.12
-Neonve (Neolamprologus nigriventris)	Lamprologini	F	A108	deep	haplo100	Neonve_2_A	haplo75	12.92|13	14.57|12	0.89|1.08
-Neonve (Neolamprologus nigriventris)	Lamprologini	M	LJC3	deep	haplo148	Neonve_2_B	haplo75	15.55|14	16.2|14	0.48|0.5
-Neoobs (Neolamprologus obscurus)	Lamprologini	F	IMA1	inter.	haplo135	Neoobs_2	haplo96	10.95|11	11.08|9	0.99|1.22
-Neoobs (Neolamprologus obscurus)	Lamprologini	M	IMA2	inter.	haplo135	Neoobs_2	haplo96	9.26|9	9.81|8	0.94|1.12
-Neooli (Neolamprologus olivaceous)	Lamprologini	F	JWH5	NA	haplo149	Neooli_2	haplo74	17.59|17	15.98|14	0.55|0.61
-Neooli (Neolamprologus olivaceous)	Lamprologini	M	JWH6	NA	haplo149	Neooli_2	haplo74	10.72|11	17.24|15	0.31|0.37
-Neopec (Neolamprologus pectoralis)	Lamprologini	M	JWA7	deep	haplo100	Neopec_2	haplo75	14.98|14	16.63|15	0.45|0.47
-Neopec (Neolamprologus pectoralis)	Lamprologini	F	JWI6	deep	haplo100	Neopec_2	haplo75	13.62|14	16.57|14	0.41|0.5
-Neopet (Neolamprologus petricola)	Lamprologini	M	LGH8	shallow	haplo150	Neopet_2_B	haplo104	12.24|12	11.3|10	1.08|1.2
-Neopet (Neolamprologus petricola)	Lamprologini	F	LGI1	shallow	haplo137	Neopet_2_A	haplo98	10.79|11	11.72|10	0.92|1.1
-Neople (Neolamprologus pleuromaculatus)	Lamprologini	M	JZF1	NA	haplo114	Neople_2	haplo83	12.42|12	12.17|10	1.02|1.2
-Neople (Neolamprologus pleuromaculatus)	Lamprologini	F	JZF2	NA	haplo114	Neople_2	haplo83	21.12|21	21.36|19	0.49|0.55
-Neopro (Neolamprologus prochilus)	Lamprologini	M	IVH1	inter.	haplo151	Neopro_2	haplo74	8.62|8	11.68|10	0.74|0.8
-Neopro (Neolamprologus prochilus)	Lamprologini	F	IVH2	inter.	haplo151	Neopro_2	haplo74	9.77|9	10.96|9	0.89|1
-Neopul (Neolamprologus pulcher)	Lamprologini	M	ISA6	inter.	haplo99	Neopul_2	haplo774	8.18|8	10.1|9	0.81|0.89
-Neopul (Neolamprologus pulcher)	Lamprologini	F	ISB3	inter.	haplo99	Neopul_2	haplo74	11.35|11	11.43|10	0.99|1.1
-Neosav (Neolamprologus savoryi)	Lamprologini	M	ISA8	inter.	haplo99	Neosav_2_B	haplo74	11.89|12	12.91|11	0.92|1.09
-Neosav (Neolamprologus savoryi)	Lamprologini	F	IYA4	inter.	haplo152	Neosav_2_A	haplo74	8.98|8	9.75|8	0.92|1
-Neosex (Neolamprologus sexfasciatus)	Lamprologini	M	IND7	inter.	haplo153	Neosex_2	haplo105	8.36|8	12.08|10	0.69|0.8
-Neosex (Neolamprologus sexfasciatus)	Lamprologini	F	IND8	inter.	haplo153	Neosex_2	haplo105	9.43|8	11.3|10	0.83|0.8
-Neosim (Neolamprologus similis)	Lamprologini	M	KEC1	inter.	haplo154	Neosim_2_A	haplo106	12.51|12	12.93|11	0.48|0.55
-Neosim (Neolamprologus similis)	Lamprologini	F	KEC2	inter.	haplo155	Neosim_2_B	haplo106	12.88|12	11.47|10	1.12|1.2
-Neospl (Neolamprologus splendens)	Lamprologini	M	A188	NA	haplo99	Neospl_2	haplo74	16.73|16	12.18|7	1.37|2.29
-Neospl (Neolamprologus splendens)	Lamprologini	M	LJD3	NA	haplo99	Neospl_2	haplo74	22.42|22	13.99|9	1.6|2.44
-Neotet (Neolamprologus tetracanthus)	Lamprologini	M	IPF7	shallow	haplo156	Neotet_2_A	haplo105	8.1|8	10.12|9	0.8|0.89
-Neotet (Neolamprologus tetracanthus)	Lamprologini	F	IPG3	shallow	haplo157	Neotet_2_B	haplo105	13.78|14	15.27|14	0.9|1
-Neotim (Neolamprologus timidus)	Lamprologini	M	LGE2	NA	haplo135	Neotim_2	haplo96	8.65|8	11.29|10	0.77|0.8
-Neotim (Neolamprologus timidus)	Lamprologini	F	LGE3	NA	haplo135	Neotim_2	haplo96	7.75|8	9.3|8	0.83|1
-Neotoa (Neolamprologus toae)	Lamprologini	M	JZD5	inter.	haplo158	Neotoa_2	haplo107	13.39|14	12.47|11	1.07|1.27
-Neotoa (Neolamprologus toae)	Lamprologini	F	JZD6	inter.	haplo158	Neotoa_2	haplo107	10.05|10	13.59|12	0.74|0.83
-Neotre (Neolamprologus tretocephalus)	Lamprologini	M	KFH4	inter.	haplo153	Neotre_2	haplo105	12.12|12	11.57|10	1.05|1.2
-Neotre (Neolamprologus tretocephalus)	Lamprologini	F	KFH5	inter.	haplo153	Neotre_2	haplo105	11.71|12	11.59|10	1.01|1.2
-Neovar (Neolamprologus variostigma)	Lamprologini	M	JWA5	deep	haplo159	Neovar_2	haplo108	20.38|20	21.85|20	0.47|0.5
-Neovar (Neolamprologus variostigma)	Lamprologini	F	JWA6	deep	haplo159	Neovar_2	haplo108	21.7|21	24.37|22	0.45|0.48
-NeoveB (Neolamprologus ventralis (Burundi))	Lamprologini	M	KAG7	deep	haplo112	NeoveB_2	haplo81	20.53|20	21.86|19	0.47|0.53
-NeoveB (Neolamprologus ventralis (Burundi))	Lamprologini	F	KAG8	deep	haplo112	NeoveB_2	haplo81	24.58|24	23.52|21	0.52|0.57
-NeoveS (Neolamprologus sp. “ventralis stripe”)	Lamprologini	M	JED4	deep	haplo160	NeoveS_2_B	haplo109	10.4|10	11.99|10	0.87|1
-NeoveS (Neolamprologus sp. “ventralis stripe”)	Lamprologini	F	JED5	deep	haplo112	NeoveS_2_A	haplo81	21.22|22	21.02|19	0.5|0.58
-Neowal (Neolamprologus walteri)	Lamprologini	F	KFD2	inter.	haplo133	Neowal_2_A	haplo76	6.88|7	10.9|9	0.63|0.78
-Neowal (Neolamprologus walteri)	Lamprologini	M	KFD4	inter.	haplo161	Neowal_2_B	haplo76	7.97|8	10.66|9	0.75|0.89
-Telbif (Telmatochromis bifrenatus)	Lamprologini	M	KYB7	inter.	haplo162	Telbif_2	haplo110	9.04|9	10.59|9	0.85|1
-Telbif (Telmatochromis bifrenatus)	Lamprologini	F	KYB8	inter.	haplo162	Telbif_2	haplo110	9.93|10	10.94|9	0.91|1.11
-Telbra (Telmatochromis brachygnathus)	Lamprologini	M	JBE8	shallow	haplo163	Telbra_2_A	haplo111	9.87|10	9.92|8	0.99|1.25
-Telbra (Telmatochromis brachygnathus)	Lamprologini	F	JBE9	shallow	haplo164	Telbra_2_B	haplo111	7.27|7	10.3|9	0.71|0.78
-Telbri (Telmatochromis brichardi)	Lamprologini	M	JVI9	inter.	haplo162	Telbri_2	haplo110	14.45|15	12.16|11	1.19|1.36
-Telbri (Telmatochromis brichardi)	Lamprologini	F	JXA4	inter.	haplo162	Telbri_2	haplo110	8.41|8	11.94|10	0.7|0.8
-TeldhN (Telmatochromis sp. “dhonti north”)	Lamprologini	M	JUD4	shallow	haplo165	TeldhN_2_A	haplo98	7.71|8	9.05|8	0.85|1
-TeldhN (Telmatochromis sp. “dhonti north”)	Lamprologini	F	JUD5	shallow	haplo166	TeldhN_2_B	haplo98	17.37|17	18.14|16	0.48|0.53
-TeldhS (Telmatochromis dhonti)	Lamprologini	F	LBF7	shallow	haplo167	TeldhS_2_A	haplo98	11.33|11	10.23|9	1.11|1.22
-TeldhS (Telmatochromis dhonti)	Lamprologini	M	LBF8	shallow	haplo168	TeldhS_2_B	haplo98	10.63|10	9.73|8	1.09|1.25
-TeldhT (Telmatochromis sp. “dhonti twiyu”)	Lamprologini	M	LHC1	shallow	haplo169	TeldhT_2_A	haplo98	20.81|20	19.66|17	0.53|0.59
-TeldhT (Telmatochromis sp. “dhonti twiyu”)	Lamprologini	F	LHF2	shallow	haplo170	TeldhT_2_B	haplo98	17.38|18	17.78|15	0.49|0.6
-Tellon (Telmatochromis sp. “longola”)	Lamprologini	M	JWC8	NA	haplo171	Tellon_2	haplo112	10.84|11	10.36|9	1.05|1.22
-Tellon (Telmatochromis sp. “longola”)	Lamprologini	F	JWC9	NA	haplo171	Tellon_2	haplo112	19.65|20	18.57|17	0.53|0.59
-Telluf (Telmatochromis sp. “lufubu”)*	Lamprologini	M	HXC8	NA	haplo172	Telluf_1	haplo113	10.3|10	12.19|10	0.84|1
-Telshe (Telmatochromis sp. “shell”)	Lamprologini	M	IRI8	inter.	haplo173	Telshe_2_A	haplo111	11.88|11	12.49|11	0.95|1
-Telshe (Telmatochromis sp. “shell”)	Lamprologini	F	IRI9	inter.	haplo174	Telshe_2_B	haplo111	10.75|11	10.18|9	1.06|1.22
-TelteS (Telmatochromis temporalis)	Lamprologini	M	IMB3	inter.	haplo175	TelteS_2_B	haplo112	8.45|8	8.64|7	0.98|1.14
-TelteS (Telmatochromis temporalis)	Lamprologini	F	IMB4	inter.	haplo170	TelteS_2_A	haplo98	10.48|10	12.33|11	0.85|0.91
-Telvit (Telmatochromis vittatus)	Lamprologini	M	JBD5	inter.	haplo176	Telvit_2_A	haplo114	9.54|10	10.36|9	0.92|1.11
-Telvit (Telmatochromis vittatus)	Lamprologini	F	JBD6	inter.	haplo177	Telvit_2_B	haplo115	9.67|9	11.12|10	0.87|0.9
-Varmoo (Variabilichromis moorii)	Lamprologini	F	AUC3	shallow	haplo178	Varmoo_2	haplo107	10.04|10	13.66|12	0.73|0.83
-Varmoo (Variabilichromis moorii)	Lamprologini	M	AUC4	shallow	haplo178	Varmoo_2	haplo197	10.36|10	10.99|10	0.94|1
-Baicen (Baileychromis centropomoides)	Limnochromini	M	JAB7	deep	haplo179	Baicen_2_A	haplo116	8.11|9	10.71|9	0.76|1
-Baicen (Baileychromis centropomoides)	Limnochromini	F	JAE9	deep	haplo180	Baicen_2_B	haplo117	10.62|11	15.45|13	0.69|0.85
-Gnaper (Gnathochromis permaxillaris)	Limnochromini	F	ITA4	deep	haplo181	Gnaper_2	haplo118	13.4|13	13.17|11	1.02|1.18
-Gnaper (Gnathochromis permaxillaris)	Limnochromini	M	IUI5	deep	haplo181	Gnaper_2	haplo118	10.51|10	12.43|10	0.85|1
-Gwcabe (Limnochromis abeelei)	Limnochromini	F	ITB3	deep	haplo182	Gwcabe_2	haplo119	11.39|12	12.3|10	0.93|1.2
-Gwcabe (Limnochromis abeelei)	Limnochromini	M	ITB4	deep	haplo182	Gwcabe_2	haplo119	9.58|9	10.83|9	0.88|1
-Gwcbel (Greenwoodochromis bellcrossi)	Limnochromini	F	IXB5	deep	haplo183	Gwcbel_1	haplo120	14.27|14	14.95|12	0.48|0.58
-Gwcchr (Greenwoodochromis christyi)	Limnochromini	M	IZE4	deep	haplo184	Gwcchr_2_A	haplo121	13.77|14	14.6|12	0.94|1.17
-Gwcchr (Greenwoodochromis christyi)	Limnochromini	F	IZF1	deep	haplo185	Gwcchr_2_B	haplo122	6.92|6	10.65|9	0.65|0.67
-Gwcsta (Limnochromis staneri)	Limnochromini	F	ITA6	deep	haplo186	Gwcsta_3	haplo123	20.6|21	22.23|19	0.46|0.55
-Gwcsta (Limnochromis staneri)	Limnochromini	M	ITC2	deep	haplo186	Gwcsta_3	haplo123	9.46|9	10.66|8	0.89|1.12
-Gwcsta (Limnochromis staneri)	Limnochromini	M	IXB6	deep	haplo186	Gwcsta_3	haplo123	11.74|11	11.53|9	1.02|1.22
-Lchaur (Limnochromis auritus)	Limnochromini	F	ITB1	inter.	haplo187	Lchaur_2	haplo124	10.22|10	11.53|10	0.89|1
-Lchaur (Limnochromis auritus)	Limnochromini	M	JAF5	inter.	haplo187	Lchaur_2	haplo124	10.65|10	11.87|10	0.9|1
-Regcal (Reganochromis calliurus)	Limnochromini	M	IUI1	NA	haplo188	Regcal_2	haplo125	8.71|8	10.06|8	0.87|1
-Regcal (Reganochromis calliurus)	Limnochromini	F	IUI4	NA	haplo188	Regcal_2	haplo125	8.5|8	11.23|9	0.76|0.89
-Tchdha (Tangachromis dhanisi)	Limnochromini	M	LJA7	deep	haplo189	Tchdha_2	haplo124	7.35|7	9.18|8	0.8|0.88
-Tchdha (Tangachromis dhanisi)	Limnochromini	F	LJA8	deep	haplo189	Tchdha_2	haplo124	15.5|15	18.71|16	0.41|0.47
-Trioto (Triglachromis otostigma)	Limnochromini	F	JEG5	deep	haplo187	Trioto_2_A	haplo124	11.87|12	13.7|11	0.87|1.09
-Trioto (Triglachromis otostigma)	Limnochromini	M	JEG6	deep	haplo190	Trioto_2_B	haplo126	9.53|9	10.29|8	0.93|1.12
-Oretan (Oreochromis tanganicae)*	Oreochromini	M	JAB6	inter.	haplo191	Oretan_2	haplo127	17.3|17	20.85|19	0.41|0.45
-Oretan (Oreochromis tanganicae)*	Oreochromini	F	JAC7	inter.	haplo191	Oretan_2	haplo127	17.89|17	19.79|18	0.45|0.47
-Hapmic (Haplotaxodon microlepis)	Perissodini	M	IQB8	inter.	haplo192	Hapmic_1	haplo128	18.68|17	18.9|17	0.49|0.5
-Perecc (Perissodus eccentricus)	Perissodini	M	IXA4	deep	haplo193	Perecc_2_A	haplo129	12.06|12	11.85|11	1.02|1.09
-Perecc (Perissodus eccentricus)	Perissodini	M	IZB2	deep	haplo194	Perecc_2_B	haplo129	17.95|16	17.65|16	0.51|0.5
-Permic (Perissodus microlepis)	Perissodini	M	IQC4	inter.	haplo195	Permic_2	haplo130	12.23|12	13.16|12	0.93|1
-Permic (Perissodus microlepis)	Perissodini	F	IQI4	inter.	haplo195	Permic_2	haplo130	9.3|9	10.01|9	0.93|1
-Pleela (Plecodus elaviae)	Perissodini	M	LHI4	deep	haplo193	Pleela_2	haplo129	10.95|10	11.11|10	0.99|1
-Pleela (Plecodus elaviae)	Perissodini	F	LHI6	deep	haplo193	Pleela_2	haplo129	12.38|12	11.5|10	1.08|1.2
-Plemul (Plecodus multidentatus)	Perissodini	F	IZA8	deep	haplo193	Plemul_2	haplo129	18.4|19	19.7|18	0.93|1.06
-Plemul (Plecodus multidentatus)	Perissodini	M	IZA9	deep	haplo193	Plemul_2	haplo129	11.05|11	14|12	0.79|0.92
-Plepar (Plecodus paradoxus)	Perissodini	M	JDI4	deep	haplo196	Plepar_2_A	haplo131	11.68|12	12.3|11	0.48|0.55
-Plepar (Plecodus paradoxus)	Perissodini	F	LEC7	deep	haplo197	Plepar_2_B	haplo131	8.84|9	9.82|8	0.9|1.12
-Plestr (Plecodus straeleni)	Perissodini	F	INE8	NA	haplo198	Plestr_2	haplo129	20.27|20	20.69|19	0.49|0.53
-Plestr (Plecodus straeleni)	Perissodini	M	INE9	NA	haplo198	Plestr_2	haplo129	14.83|15	13.18|12	1.13|1.25
-Xchhec (Xenochromis hecqui)	Perissodini	M	IUI7	deep	haplo199	Xchhec_2	haplo129	7.25|7	9.5|8	0.76|0.88
-Xchhec (Xenochromis hecqui)	Perissodini	F	JAH7	deep	haplo199	Xchhec_2	haplo129	14.87|15	13.45|12	1.11|1.25
-Phaacu (Pharyngochromis acuticeps)*	Serranochromini	M	JWF3	NA	haplo200	Phaacu_1	haplo132	18.04|18	22|19	0.41|0.47
-Sarcar (Sargochromis carlottae)*	Serranochromini	Juv.	JWF4	NA	haplo201	Sarcar_1	haplo133	18.84|18	20.51|18	0.46|0.5
-Sermac (Serranochromis macrocephalus)*	Serranochromini	M	JWF5	NA	haplo202	Sermac_1	haplo134	23.01|23	26.14|23	0.44|0.5
-Steult (Steatocranus sp. “ultraslender”)*	Steatocranini	M	JWE8	NA	haplo203	Steult_1	haplo135	14.96|15	18.67|15	0.4|0.5
-Tilspa (Tilapia sparmanii)*	Tilapiini	M	JWF7	NA	haplo204	Tilspa_1	haplo136	19.97|18	22.22|20	0.45|0.45
-Trecap (Trematocara caparti)	Trematocarini		LJC8	deep	haplo205	Trecap_1	haplo137	11.53|10	12.3|9	0.94|1.11
-Tremac (Trematocara macrostoma)	Trematocarini	M	IUD8	deep	haplo206	Tremac_2	haplo138	13.85|14	18.01|14	0.38|0.5
-Tremac (Trematocara macrostoma)	Trematocarini	F	IUD9	deep	haplo206	Tremac_2	haplo138	13.06|12	16.6|13	0.39|0.46
-Tremar (Trematocara marginatum)	Trematocarini	M	ISA1	deep	NA	NA	NA	7.57|7	10.48|8	0.72|0.88
-Tremar (Trematocara marginatum)	Trematocarini	F	ISA3	deep	haplo207	Tremar_1	haplo139	18.12|19	19.43|16	0.47|0.59
-Trenig (Trematocara nigrifrons)	Trematocarini	F	GPA1	deep	haplo208	Trenig_2	haplo140	6.88|6	10.49|8	0.66|0.75
-Trenig (Trematocara nigrifrons)	Trematocarini	M	IUE5	deep	haplo208	Trenig_2	haplo140	18.68|19	20.36|15	0.46|0.63
-Tresti (Trematocara stigmaticum)	Trematocarini	M	IUE7	deep	haplo209	Tresti_2_A	haplo141	17.33|17	15.14|11	0.57|0.77
-Tresti (Trematocara stigmaticum)	Trematocarini	M	IZE1	deep	haplo210	Tresti_2_B	haplo412	10.69|11	14.56|12	0.73|0.92
-Treuni (Trematocara unimaculatum)	Trematocarini	M	IXA3	deep	haplo211	Treuni_2_A	haplo413	10.69|10	16.07|12	0.67|0.83
-Treuni (Trematocara unimaculatum)	Trematocarini	F	IXA6	deep	haplo212	Treuni_2_B	haplo144	6.89|7	15.46|12	0.22|0.29
-Trezeb (Trematocara zebra)	Trematocarini	M	LFC9	deep	haplo213	Trezeb_2	haplo145	5.44|5	10.21|7	0.53|0.71
-Trezeb (Trematocara zebra)	Trematocarini	F	LFE4	deep	haplo213	Trezeb_2	haplo145	8.15|7	10.74|8	0.76|0.88
-Ctehor (Ctenochromis horei)	Tropheini	M	AVA8	shallow	haplo214	Ctehor_2	haplo146	8.52|8	11.49|10	0.74|0.8
-Ctehor (Ctenochromis horei)	Tropheini	F	AXA7	shallow	haplo214	Ctehor_2	haplo146	10.53|11	11.94|10	0.88|1.1
-Gnapfe (Gnathochromis pfefferi)	Tropheini	M	AWB7	inter.	haplo215	Gnapfe_2	haplo147	11.24|12	11.03|10	1.02|1.2
-Gnapfe (Gnathochromis pfefferi)	Tropheini	F	AWE2	inter.	haplo215	Gnapfe_2	haplo147	8.91|8	10.58|9	0.84|0.89
-Intloo (Interochromis loocki)	Tropheini	F	IPB6	shallow	haplo216	Intloo_2	haplo147	11.97|12	13.14|11	0.91|1.09
-Intloo (Interochromis loocki)	Tropheini	M	IPF3	shallow	haplo216	Intloo_2	haplo147	6.7|7	10.43|9	0.64|0.78
-Limdar (Limnotilapia dardennii)	Tropheini	F	AWI5	inter.	haplo216	Limdar_2	haplo147	9.65|9	11.26|10	0.86|0.9
-Limdar (Limnotilapia dardennii)	Tropheini	M	AWI6	inter.	haplo216	Limdar_2	haplo147	9.86|10	11.54|10	0.85|1
-Loblab (Lobochilotes labiatus)	Tropheini	M	ISD8	inter.	haplo217	Loblab_2_A	haplo148	10.61|11	10.75|9	0.99|1.22
-Loblab (Lobochilotes labiatus)	Tropheini	F	ISE5	inter.	haplo218	Loblab_2_B	haplo149	10.62|11	9.28|8	1.14|1.38
-Peteph (Petrochromis ephippium)	Tropheini	F	IPC1	inter.	haplo219	Peteph_2	haplo62	7.31|7	10.65|9	0.69|0.78
-Peteph (Petrochromis ephippium)	Tropheini	M	IYA5	inter.	haplo219	Peteph_2	haplo62	6.68|7	8.54|7	0.78|1
-Petfam (Petrochromis famula)	Tropheini	F	IYA6	shallow	haplo82	Petfam_2_B	haplo62	5.55|6	8.66|7	0.64|0.86
-Petfam (Petrochromis famula)	Tropheini	M	IYA7	shallow	haplo220	Petfam_2_A	haplo150	7.47|8	12.02|10	0.62|0.8
-Petfas (Petrochromis fasciolatus)	Tropheini	M	GPH7	shallow	haplo221	Petfas_2_A	haplo146	9.14|9	11.4|10	0.8|0.9
-Petfas (Petrochromis fasciolatus)	Tropheini	F	JAE1	shallow	haplo222	Petfas_2_B	haplo151	11.68|12	11.44|10	1.02|1.2
-Petgia (Petrochromis sp. “giant”)	Tropheini	M	LDC6	shallow	haplo223	Petgia_2	haplo64	12.15|12	11.55|10	1.05|1.2
-Petgia (Petrochromis sp. “giant”)	Tropheini	F	LHD2	shallow	haplo223	Petgia_2	haplo64	11.81|12	10.79|9	1.09|1.33
-Pethor (Petrochromis horii)	Tropheini	M	IWB5	inter.	haplo82	Pethor_2	haplo62	9.23|9	10.55|9	0.87|1
-Pethor (Petrochromis horii)	Tropheini	F	IWB6	inter.	haplo82	Pethor_2	haplo62	10.74|10	13.9|12	0.77|0.83
-Petiko (Petrochromis sp. “orthognathus ikola”)	Tropheini	M	LFA6	shallow	haplo217	Petiko_2	haplo148	8.6|9	10.83|9	0.79|1
-Petiko (Petrochromis sp. “orthognathus ikola”)	Tropheini	F	LFA8	shallow	haplo217	Petiko_2	haplo148	9|9	11.3|9	0.8|1
-Petkas (Petrochromis sp. “kazumbae”)	Tropheini	F	KEA4	shallow	haplo82	Petkas_2_B	haplo62	8.97|9	12.23|10	0.37|0.45
-Petkas (Petrochromis sp. “kazumbae”)	Tropheini	M	KEB4	shallow	haplo224	Petkas_2_A	haplo62	9.3|9	12.47|11	0.37|0.41
-Petkip (Petrochromis sp. “kipili brown”)	Tropheini	M	LDE3	inter.	haplo225	Petkip_2	haplo152	6.68|6	9.25|8	0.72|0.75
-Petkip (Petrochromis sp. “kipili brown”)	Tropheini	F	LDE4	inter.	haplo225	Petkip_2	haplo152	11.17|11	10.62|9	1.05|1.22
-Petmac (Petrochromis macrognathus)	Tropheini	M	LDA4	shallow	haplo226	Petmac_2	haplo153	8.7|8	10.35|9	0.84|0.89
-Petmac (Petrochromis macrognathus)	Tropheini	F	LJB1	shallow	haplo226	Petmac_2	haplo153	8.62|9	9.18|8	0.94|1.12
-Petmos (Petrochromis sp. “moshi yellow”)	Tropheini	M	LCF6	inter.	haplo219	Petmos_2_A	haplo62	11.32|11	11.12|10	1.02|1.1
-Petmos (Petrochromis sp. “moshi yellow”)	Tropheini	F	LCF8	inter.	haplo82	Petmos_2_B	haplo62	11.16|10	10.45|9	1.07|1.11
-Petort (Petrochromis orthognathus)	Tropheini	F	JXH4	shallow	NA	NA	NA	2.57|2	6.17|5	0.42|0.4
-Petort (Petrochromis orthognathus)	Tropheini	M	JXH5	shallow	haplo217	Petort_1	haplo148	19.15|19	18.63|16	0.51|0.59
-Petpol (Petrochromis polyodon)	Tropheini	M	AWB9	shallow	haplo82	Petpol_2	haplo62	9.02|8	11.14|9	0.81|0.89
-Petpol (Petrochromis polyodon)	Tropheini	F	AWI4	shallow	haplo82	Petpol_2	haplo62	10.81|10	11.25|10	0.96|1
-Petrai (Petrochromis sp. “macrognathus rainbow”)	Tropheini	M	LGB5	shallow	haplo223	Petrai_2	haplo64	10.71|11	10.76|9	1|1.22
-Petrai (Petrochromis sp. “macrognathus rainbow”)	Tropheini	F	LGB8	shallow	haplo223	Petrai_2	haplo64	9.42|9	10.88|9	0.87|1
-Petred (Petrochromis sp. “red”)	Tropheini	M	LCD1	deep	haplo82	Petred_2	haplo62	9.95|10	9.31|8	1.07|1.25
-Petred (Petrochromis sp. “red”)	Tropheini	F	LCD5	deep	haplo82	Petred_2	haplo62	8.51|9	9.37|8	0.91|1.12
-Pettex (Petrochromis sp. “polyodon texas”)	Tropheini	M	LHB1	shallow	haplo227	Pettex_2_A	haplo154	10.43|11	11.57|10	0.9|1.1
-Pettex (Petrochromis sp. “polyodont texas”)	Tropheini	F	LHB3	shallow	haplo82	Pettex_2_B	haplo62	13.65|14	14.39|12	0.95|1.17
-Pettre (Petrochromis trewavasae)	Tropheini	M	IWC9	NA	haplo228	Pettre_2_A	haplo62	17.14|17	20.87|19	0.41|0.45
-Pettre (Petrochromis trewavasae)	Tropheini	F	IWD4	NA	haplo82	Pettre_2_B	haplo62	9.39|9	11.98|10	0.78|0.9
-Psccur (Pseudosimochromis curvifrons)	Tropheini	F	AXF8	shallow	haplo216	Psccur_2	haplo147	11.67|12	13.5|11	0.86|1.09
-Psccur (Pseudosimochromis curvifrons)	Tropheini	M	AYC7	shallow	haplo216	Psccur_2	haplo147	13.57|13	14.62|13	0.93|1
-Simbab (Pseudosimochromis babaulti)	Tropheini	M	JUA3	shallow	haplo229	Simbab_2	haplo147	11.14|11	12.08|10	0.92|1.1
-Simbab (Pseudosimochromis babaulti)	Tropheini	F	JUA4	shallow	haplo229	Simbab_2	haplo147	11.7|11	18.52|17	0.63|0.65
-Simdia (Simochromis diagramma)	Tropheini	F	AUD8	shallow	haplo230	Simdia_2_A	haplo148	15.34|15	14.71|13	1.04|1.15
-Simdia (Simochromis diagramma)	Tropheini	M	AUE1	shallow	haplo231	Simdia_2_B	haplo148	10.19|11	13.91|12	0.73|0.92
-Simmar (Pseudosimochromis marginatus)	Tropheini	M	KCE7	shallow	haplo232	Simmar_2	haplo147	14.24|14	14.44|13	0.49|0.54
-Simmar (Pseudosimochromis marginatus)	Tropheini	F	KCF3	shallow	haplo232	Simmar_2	haplo147	22.59|23	21.99|20	0.51|0.58
-Simmrg (Pseudosimochromis marginatus (North))	Tropheini	M	KFE8	shallow	haplo232	Simmrg_2	haplo147	10.44|10	10.52|9	0.99|1.11
-Simmrg (Pseudosimochromis marginatus (North))	Tropheini	F	KFF1	shallow	haplo232	Simmrg_2	haplo147	12.79|12	11.1|10	1.15|1.2
-Simple (Pseudosimochromis babaulti (South))	Tropheini	M	AUB6	shallow	haplo229	Simple_2	haplo147	12.73|13	14.13|12	0.9|1.08
-Simple (Pseudosimochromis babaulti (South))	Tropheini	F	AVB6	shallow	haplo229	Simple_2	haplo147	11.02|12	14.28|12	0.77|1
-Troann (Tropheus annectens)	Tropheini	M	JWG4	shallow	haplo82	Troann_2	haplo62	17.62|18	20.23|18	0.44|0.5
-Troann (Tropheus annectens)	Tropheini	F	JWG5	shallow	haplo82	Troann_2	haplo62	9.69|9	11.38|10	0.85|0.9
-Trobri (Tropheus brichardi)	Tropheini	M	JYI8	shallow	haplo234	Trobri_2	haplo146	12.19|12	12.52|11	0.97|1.09
-Trobri (Tropheus brichardi)	Tropheini	F	JZA3	shallow	haplo234	Trobri_2	haplo146	10.17|10	12.39|11	0.82|0.91
-TrobrK (Tropheus sp. “brichardi kipili”)	Tropheini	M	LGA5	shallow	haplo233	TrobrK_2	haplo155	6.83|6	10.62|9	0.64|0.67
-TrobrK (Tropheus sp. “brichardi kipili”)	Tropheini	F	LGA6	shallow	haplo233	TrobrK_2	haplo155	12.15|12	11.44|10	1.06|1.2
-Trodub (Tropheus duboisi)	Tropheini	M	KHA4	inter.	haplo235	Trodub_2	haplo62	14.38|14	10.96|9	1.31|1.56
-Trodub (Tropheus duboisi)	Tropheini	F	KHA5	inter.	haplo235	Trodub_2	haplo62	8.6|8	11.72|10	0.73|0.8
-Trokir (Tropheus sp. “kirschfleck”)	Tropheini	M	LCF1	shallow	haplo82	Trokir_1	haplo62	8.23|7	10.51|9	0.78|0.78
-Trokir (Tropheus sp. “kirschfleck”)	Tropheini	F	LCF3	shallow	NA	NA	NA	7.28|7	9.63|8	0.76|0.88
-Troluk (Tropheus sp. “lukuga”)	Tropheini	M	KEF2	shallow	haplo233	Troluk_2	haplo155	17.22|17	17.09|15	0.5|0.57
-Troluk (Tropheus sp. “lukuga”)	Tropheini	F	KEF3	shallow	haplo233	Troluk_2	haplo155	9.91|10	10.63|9	0.93|1.11
-Trolun (Tropheus sp. “lunatus”)	Tropheini	M	KED6	shallow	haplo236	Trolun_2_B	haplo156	8.26|7	10.72|9	0.77|0.78
-Trolun (Tropheus sp. “lunatus”)	Tropheini	F	KED7	shallow	haplo233	Trolun_2_A	haplo155	10.62|11	11.42|10	0.93|1.1
-Tromoo (Tropheus moorii)	Tropheini	M	JBH4	shallow	haplo82	Tromoo_2	haplo62	8.1|8	9.71|8	0.83|1
-Tromoo (Tropheus moorii)	Tropheini	F	JBH5	shallow	haplo82	Tromoo_2	haplo62	7.78|7	11.17|10	0.7|0.7
-Tromor (Tropheus sp. “murago”)	Tropheini	M	LHD9	shallow	haplo82	Tromor_2_B	haplo62	10.05|10	11.19|9	0.9|1.11
-Tromor (Tropheus sp. “murago”)	Tropheini	F	LHE3	shallow	haplo237	Tromor_2_A	haplo157	9.98|9	10.86|9	0.92|1
-Trompi (Tropheus sp. “mpimbwe”)	Tropheini	M	LDI5	shallow	haplo237	Trompi_2	haplo157	9.54|9	10.24|9	0.93|1
-Trompi (Tropheus sp. “mpimbwe”)	Tropheini	F	LDI7	shallow	haplo237	Trompi_2	haplo157	8.12|8	9.17|8	0.88|1
-Tronig (Tropheus sp. “black”)	Tropheini	F	JVC3	shallow	haplo82	Tronig_2	haplo62	16.56|17	15.23|13	1.09|1.31
-Tronig (Tropheus sp. “black”)	Tropheini	M	JVC9	shallow	haplo82	Tronig_2	haplo62	9.14|9	12.25|11	0.75|0.82
-Tropol (Tropheus polli)	Tropheini	M	LEF8	shallow	haplo82	Tropol_2	haplo62	13.15|13	17.11|15	0.38|0.43
-Tropol (Tropheus polli)	Tropheini	F	LEF9	shallow	haplo82	Tropol_2	haplo62	17.13|17	16.9|15	0.51|0.57
-Trored (Tropheus sp. “red”)	Tropheini	M	IOD9	shallow	haplo82	Trored_2	haplo62	11.22|11	12.96|11	0.87|1
-Trored (Tropheus sp. “red”)	Tropheini	F	IOE1	shallow	haplo82	Trored_2	haplo62	10.84|11	11.02|9	0.98|1.22
+Batfas (Bathybates fasciatus)	Bathybatini	F	GPB2	inter.	haplo1	Batfas_2_A	haplo1	8.98|9	6.85|9	1.31|1
+Batfas (Bathybates fasciatus)	Bathybatini	M	ITH3	inter.	haplo2	Batfas_2_B	haplo1	13.89|14	10.25|14	1.36|1
+Batfer (Bathybates ferox)	Bathybatini	M	LCD6	NA	haplo3	Batfer_2	haplo2	7.69|8	6.13|8	1.25|1
+Batfer (Bathybates ferox)	Bathybatini	F	LCD7	NA	haplo3	Batfer_2	haplo2	6.35|7	5.79|7	1.1|1
+Batgra (Bathybates graueri)	Bathybatini	M	ILG7	deep	haplo4	Batgra_2	haplo3	8.77|8	8.96|12	0.98|0.67
+Batgra (Bathybates graueri)	Bathybatini	F	IUI8	deep	haplo4	Batgra_2	haplo3	7.42|7	6.92|9	1.07|0.78
+Bathor (Bathybates hornii)	Bathybatini	M	JDE3	NA	haplo5	Bathor_2	haplo4	9.38|9	7.7|10	1.22|0.9
+Bathor (Bathybates hornii)	Bathybatini	M?	JDE4	NA	haplo5	Bathor_2	haplo4	11.43|12	10.07|14	1.14|0.86
+Batleo (Bathybates leo)	Bathybatini	F	ILF7	deep	haplo6	Batleo_1	haplo5	9.3|9	6.43|8	1.45|1.12
+Batmin (Bathybates minor)	Bathybatini	F	IXA5	NA	haplo7	Batmin_2_A	haplo6	7.7|8	7.13|9	1.08|0.89
+Batmin (Bathybates minor)	Bathybatini	M	JBG3	NA	haplo8	Batmin_2_B	haplo7	9.71|10	6.65|9	1.46|1.11
+Batvit (Bathybates vittatus)	Bathybatini	M	ITD7	deep	haplo9	Batvit_3_C	haplo8	7.87|8	7.09|9	1.11|0.89
+Batvit (Bathybates vittatus)	Bathybatini	M	JDE6	deep	haplo10	Batvit_3_A	haplo9	13.05|13	8.93|12	1.46|1.08
+Batvit (Bathybates vittatus)	Bathybatini	F	JDE7	deep	haplo11	Batvit_3_B	haplo10	9.92|10	8.87|12	1.12|0.83
+Hemste (Hemibates stenosoma)	Bathybatini	M	IXC2	deep	haplo13	Hemste_2	haplo12	8.1|8	6.5|8	1.25|1
+Hemste (Hemibates stenosoma)	Bathybatini	F	IXC3	deep	haplo13	Hemste_2	haplo12	8.75|9	6.78|9	1.29|1
+HemstZ (Hemibates koningsi)	Bathybatini		IZA5	deep	haplo12	HemstZ_2	haplo11	15.79|15	11.79|16	1.34|0.94
+HemstZ (Hemibates koningsi)	Bathybatini	F	LJC5	deep	haplo12	HemstZ_2	haplo11	15.71|15	8.3|10	1.89|1.5
+BenhoM (Benthochromis sp. “horii mahale”)	Benthochromini	M	LEF2	inter.	haplo14	BenhoM_1	haplo13	15.45|15	11.25|15	1.37|1
+Benhor (Benthochromis horii)	Benthochromini	M	ILF8	inter.	haplo15	Benhor_1	haplo14	12.21|13	8.7|11	1.4|1.18
+Benmel (Benthochromis melanoides)	Benthochromini	F	ILG3	deep	haplo16	Benmel_3_AB	haplo15	10.8|10	8.75|12	1.23|0.83
+Benmel (Benthochromis melanoides)	Benthochromini	M	IXB8	deep	haplo16	Benmel_3_AB	haplo15	7.42|7	7.05|9	1.05|0.78
+Benmel (Benthochromis melanoides)	Benthochromini	F	IZA2	deep	haplo17	Benmel_3_C	haplo15	8.98|9	7.09|9	1.27|1
+Bentri (Benthochromis tricoti)	Benthochromini	M	LDA7	deep	haplo18	Bentri_2_A	haplo16	8.78|8	7.11|9	1.23|0.89
+Bentri (Benthochromis tricoti)	Benthochromini	F	LDA9	deep	haplo19	Bentri_2_B	haplo17	12.69|13	7.47|10	1.7|1.3
+Boumic (Boulengerochromis microlepis)	Boulengerochromini	F	JAE7	inter.	haplo20	Boumic_2	haplo18	16.86|17	13.85|18	1.22|0.94
+Boumic (Boulengerochromis microlepis)	Boulengerochromini	M	JCF2	inter.	haplo20	Boumic_2	haplo18	18.16|18	14.52|19	1.25|0.95
+Cphfr5 (Cyphotilapia sp. “5-bar frontosa”)	Cyphotilapiini	M	KAG3	inter.	haplo21	Cphfr5_2	haplo19	10.65|11	9.73|12	1.09|0.92
+Cphfr5 (Cyphotilapia sp. “5-bar frontosa”)	Cyphotilapiini	F	KDG2	inter.	haplo21	Cphfr5_2	haplo19	14.42|14	12.26|16	1.18|0.88
+Cphfro (Cyphotilapia frontosa)	Cyphotilapiini	F	LEI6	inter.	haplo21	Cphfro_2	haplo19	9.21|9	6.71|8	1.37|1.12
+Cphfro (Cyphotilapia frontosa)	Cyphotilapiini	M	LEI9	inter.	haplo21	Cphfro_2	haplo19	9.83|10	6.64|8	1.48|1.25
+Cphgib (Cyphotilapia gibberosa)	Cyphotilapiini	M	INH7	inter.	haplo21	Cphgib_2	haplo19	12.46|12	9.5|12	1.31|1
+Cphgib (Cyphotilapia gibberosa)	Cyphotilapiini	F	INH9	inter.	haplo21	Cphgib_2	haplo19	14.54|15	9.05|11	1.61|1.36
+Cteben (Ctenochromis benthicola)	Cyphotilapiini	M	DMD1	deep	haplo22	Cteben_2_A	haplo20	10.41|11	7.99|10	1.3|1.1
+Cteben (Ctenochromis benthicola)	Cyphotilapiini	F	IYA8	deep	haplo23	Cteben_2_B	haplo20	8.71|9	6.97|9	1.25|1
+Cypcol (Cyprichromis coloratus)	Cyprichromini	M	JEC7	inter.	haplo24	Cypcol_2	haplo21	20.25|20	14.8|21	1.37|0.95
+Cypcol (Cyprichromis coloratus)	Cyprichromini	F	JED2	inter.	haplo24	Cypcol_2	haplo21	20.46|20	13.6|19	1.5|1.05
+Cypdwj (Cyprichromis sp. “dwarf jumbo”)	Cyprichromini	M	KFA7	inter.	haplo25	Cypdwj_2	haplo22	16.97|17	12.22|17	1.39|1
+Cypdwj (Cyprichromis sp. “dwarf jumbo”)	Cyprichromini	F	KFA9	inter.	haplo25	Cypdwj_2	haplo22	14.83|15	10.16|14	1.46|1.07
+Cypkan (Cyprichromis sp. “jumbo”)	Cyprichromini	M	INH1	inter.	haplo25	Cypkan_1	haplo22	15.27|15	9.35|13	1.63|1.15
+Cypkib (Cyprichromis sp. “kibishi”)	Cyprichromini	M	Bel16	NA	haplo26	Cypkib_2_B	haplo23	8.06|8	6.37|8	1.27|1
+Cypkib (Cyprichromis sp. “kibishi”)	Cyprichromini	F	Bel18	NA	haplo25	Cypkib_2_A	haplo22	10.07|11	6.99|9	1.44|1.22
+Cyplep (Cyprichromis leptosoma)	Cyprichromini	M	ISI2	inter.	haplo27	Cyplep_2	haplo24	9.95|10	8.51|11	1.17|0.91
+Cyplep (Cyprichromis leptosoma)	Cyprichromini	F	ISI6	inter.	haplo27	Cyplep_2	haplo24	10.18|10	7.75|10	1.31|1
+Cypmic (Cyprichromis microlepidotus)	Cyprichromini	M	JVE1	NA	haplo25	Cypmic_2_A	haplo22	8.6|9	5.86|8	1.47|1.12
+Cypmic (Cyprichromis microlepidotus)	Cyprichromini	F	JVF2	NA	haplo28	Cypmic_2_B	haplo22	8.35|8	6.43|8	1.3|1
+Cyppav (Cyprichromis pavo)	Cyprichromini	M	JEB2	inter.	haplo29	Cyppav_2	haplo25	10.26|10	8.58|11	1.2|0.91
+Cyppav (Cyprichromis pavo)	Cyprichromini	F	JEB4	inter.	haplo29	Cyppav_2	haplo25	10.71|10	7.32|9	1.46|1.11
+Cypzon (Cyprichromis zonatus)	Cyprichromini	M	GPC9	NA	haplo30	Cypzon_2	haplo26	10.15|10	9.34|12	1.09|0.83
+Cypzon (Cyprichromis zonatus)	Cyprichromini	F	GPD1	NA	haplo30	Cypzon_2	haplo26	7.42|8	6.1|8	1.22|1
+Pcybri (Paracyprichromis sp. “brieni south”)	Cyprichromini	M	IQB9	inter.	haplo32	Pcybri_2	haplo82	12.48|12	7.88|10	1.58|1.2
+Pcybri (Paracyprichromis sp. “brieni south”)	Cyprichromini	F	IQC1	inter.	haplo32	Pcybri_2	haplo28	7.39|7	5.75|7	1.29|1
+PcybrN (Paracyprichromis brieni)	Cyprichromini	M	JXI2	inter.	haplo31	PcybrN_2	haplo27	8.8|9	6.81|9	1.29|1
+PcybrN (Paracyprichromis brieni)	Cyprichromini	F	JXI4	inter.	haplo31	PcybrN_2	haplo27	8.34|8	5.8|8	1.44|1
+Pcynig (Paracyprichromis nigripinnis)	Cyprichromini	M	GPC4	inter.	haplo33	Pcynig_2	haplo29	14.23|14	12.11|16	1.18|0.88
+Pcynig (Paracyprichromis nigripinnis)	Cyprichromini	F	GPC6	inter.	haplo33	Pcynig_2	haplo29	7.19|7	6.15|8	1.17|0.88
+Pcytem (Paracyprichromis sp. “tembwe”)	Cyprichromini	M	JWD1	inter.	haplo34	Pcytem_2_A	haplo29	18.3|19	15.83|22	1.16|0.86
+Pcytem (Paracyprichromis sp. “tembwe”)	Cyprichromini	F	JWD2	inter.	haplo35	Pcytem_2_B	haplo29	24.14|25	15.05|21	1.6|1.19
+Asplep (Asprotilapia leptura)	Ectodini	F	INF1	inter.	haplo36	Asplep_2	haplo30	13.95|14	9.28|13	1.5|1.08
+Asplep (Asprotilapia leptura)	Ectodini	M	INF2	inter.	haplo36	Asplep_2	haplo30	21.5|21	13.27|19	1.62|1.11
+Auldew (Aulonocranus dewindti)	Ectodini	F	AUA1	shallow	haplo37	Auldew_2	haplo31	10.33|10	7.57|10	1.36|1
+Auldew (Aulonocranus dewindti)	Ectodini	F	AUA9	shallow	haplo37	Auldew_2	haplo31	10.59|11	7.44|10	1.42|1.1
+Calmac (Callochromis macrops)	Ectodini	M	BND3	shallow	haplo38	Calmac_2	haplo32	12.25|12	7.59|10	1.61|1.2
+Calmac (Callochromis macrops)	Ectodini	F	BND5	shallow	haplo38	Calmac_2	haplo32	13.56|13	8.19|11	1.66|1.18
+Calmel (Callochromis melanostigma)	Ectodini	M	KAF3	shallow	haplo39	Calmel_2	haplo33	9.57|10	7.28|10	1.31|1
+Calmel (Callochromis melanostigma)	Ectodini	F	KAF4	shallow	haplo39	Calmel_2	haplo33	9.75|9	7.3|10	1.34|0.9
+Calple (Callochromis pleurospilus)	Ectodini	M	JZE2	shallow	haplo40	Calple_2	haplo34	10.53|10	7.68|10	1.37|1
+Calple (Callochromis pleurospilus)	Ectodini	F	JZE4	shallow	haplo40	Calple_2	haplo34	24.28|25	14|20	1.73|1.25
+Carsch (Cardiopharynx schoutedeni)	Ectodini	M	KAF1	shallow	haplo41	Carsch_2	haplo35	9.34|10	6.99|9	1.34|1.11
+Carsch (Cardiopharynx schoutedeni)	Ectodini	F	KAF2	shallow	haplo41	Carsch_2	haplo35	18.11|18	11.82|17	1.53|1.06
+Cunlon (Cunningtonia longiventralis)	Ectodini	M	IWD7	shallow	haplo41	Cunlon_2	haplo35	9.66|9	6.19|8	1.56|1.12
+Cunlon (Cunningtonia longiventralis)	Ectodini	F	IWD8	shallow	haplo41	Cunlon_2	haplo35	11.73|11	7.32|10	1.6|1.1
+Cyafoa (Cyathopharynx foae)	Ectodini	F	IOD4	inter.	haplo42	Cyafoa_2_A	haplo35	8.45|9	6.58|9	1.28|1
+Cyafoa (Cyathopharynx foae)	Ectodini	M	IOD6	inter.	haplo43	Cyafoa_2_B	haplo35	7.46|7	5.56|7	1.34|1
+Cyafur (Cyathopharynx furcifer)	Ectodini	M	AVH2	shallow	haplo43	Cyafur_2	haplo35	9.85|10	7.73|10	1.27|1
+Cyafur (Cyathopharynx furcifer)	Ectodini	F	AYE5	shallow	haplo43	Cyafur_2	haplo35	10.45|10	7.82|11	1.34|0.91
+Ectdes (Ectodus descampsii)	Ectodini	M	IRD7	inter.	haplo44	Ectdes_2	haplo36	9.71|10	9.44|13	1.03|0.77
+Ectdes (Ectodus descampsii)	Ectodini	F	IRD8	inter.	haplo44	Ectdes_2	haplo36	8.44|8	6.59|9	1.28|0.89
+EctspN (Ectodus sp. “north”)	Ectodini	M	KHC4	inter.	haplo45	EctspN_2_A	haplo37	7.1|7	6.46|9	1.1|0.78
+EctspN (Ectodus sp. “north”)	Ectodini	F	KHC5	inter.	haplo46	EctspN_2_B	haplo37	10.45|10	6.3|8	1.66|1.25
+Enamel (Enantiopus melanogenys)	Ectodini	M	AWC5	inter.	haplo47	Enamel_2	haplo38	12.61|12	7.97|11	1.58|1.09
+Enamel (Enantiopus melanogenys)	Ectodini	F	BNC5	inter.	haplo47	Enamel_2	haplo38	11.11|11	8.63|12	1.29|0.92
+Gralem (Grammatotria lemairii)	Ectodini	M	JDD7	inter.	haplo48	Gralem_2	haplo39	14.85|15	12.1|17	1.23|0.88
+Gralem (Grammatotria lemairii)	Ectodini	F	JDD8	inter.	haplo48	Gralem_2	haplo39	7.74|7	6.75|9	1.15|0.78
+Lesper (Lestradea perspicax)	Ectodini	M	IRA1	inter.	haplo49	Lesper_2_B	haplo35	6.79|7	5.8|8	1.17|0.88
+Lesper (Lestradea perspicax)	Ectodini	F	IRA2	inter.	haplo41	Lesper_2_A	haplo35	10.9|10	7.96|11	1.37|0.91
+Lessta (Lestradea stappersii)	Ectodini	F	JVH2	NA	haplo41	Lessta_2_A	haplo35	9.78|10	6.52|9	1.5|1.11
+Lessta (Lestradea stappersii)	Ectodini	M	JVH3	NA	haplo50	Lessta_2_B	haplo40	5.43|5	5.34|7	1.02|0.71
+Mdcrot (Microdontochromis rotundiventralis)	Ectodini	M	JBE6	NA	haplo51	Mdcrot_2	haplo41	13.45|13	7.11|10	1.89|1.3
+Mdcrot (Microdontochromis rotundiventralis)	Ectodini	F	JBE7	NA	haplo51	Mdcrot_2	haplo41	15.41|15	11.73|17	1.31|0.88
+Mdcten (Microdontochromis tenuidentata)	Ectodini	M	LHG4	inter.	haplo52	Mdcten_2_A	haplo42	13.3|13	9.35|13	1.42|1
+Mdcten (Microdontochromis tenuidentata)	Ectodini	F	LHG6	inter.	haplo53	Mdcten_2_B	haplo43	12.7|13	10.66|15	1.19|0.87
+Ophboo (Ophthalmotilapia boops)	Ectodini	M	LFI4	inter.	haplo54	Ophboo_2	haplo35	8.2|8	7.27|10	1.13|0.8
+Ophboo (Ophthalmotilapia boops)	Ectodini	F	LFI6	inter.	haplo54	Ophboo_2	haplo35	9.19|9	7.06|9	1.3|1
+Ophhet (Ophthalmotilapia heterodonta)	Ectodini	M	Bel06	NA	haplo55	Ophhet_2	haplo35	8.39|8	6.24|8	1.34|1
+Ophhet (Ophthalmotilapia heterodonta)	Ectodini	M	Bel12	NA	haplo55	Ophhet_2	haplo35	7.45|7	6.85|9	1.09|0.78
+Ophnas (Ophthalmotilapia nasuta)	Ectodini	M	AXH6	inter.	haplo43	Ophnas_2	haplo35	8.46|8	7.68|10	1.1|0.8
+Ophnas (Ophthalmotilapia nasuta)	Ectodini	F	AXH8	inter.	haplo43	Ophnas_2	haplo35	11.46|11	7.99|11	1.43|1
+Ophpar (Ophthalmotilapia sp. “paranasuta”)	Ectodini	M	JYF7	shallow	haplo43	Ophpar_2	haplo35	14.58|15	9.38|13	1.55|1.15
+Ophpar (Ophthalmotilapia sp. “paranasuta”)	Ectodini	F	JYG5	shallow	haplo43	Ophpar_2	haplo35	10.13|10	7.61|10	1.33|1
+Ophven (Ophthalmotilapia ventralis)	Ectodini	M	IQD3	shallow	haplo55	Ophven_2	haplo35	8.09|8	7.43|10	1.09|0.8
+Ophven (Ophthalmotilapia ventralis)	Ectodini	F	IQE4	shallow	haplo55	Ophven_2	haplo35	6.79|6	6.82|9	1|0.67
+Ophwhi (Ophthalmotilapia sp. “white cap”)	Ectodini	M	LGH1	shallow	haplo55	Ophwhi_2	haplo35	10.71|10	7.85|11	1.36|0.91
+Ophwhi (Ophthalmotilapia sp. “white cap”)	Ectodini	F	LGH3	shallow	haplo55	Ophwhi_2	haplo35	8.91|9	7.16|10	1.24|0.9
+Xenbat (Xenotilapia bathyphilus)	Ectodini	M	IVB4	inter.	haplo56	Xenbat_2	haplo44	11.44|11	8.56|12	1.34|0.92
+Xenbat (Xenotilapia bathyphilus)	Ectodini	F	IVB5	inter.	haplo56	Xenbat_2	haplo44	7.62|7	6.85|9	1.11|0.78
+Xenbou (Xenotilapia boulengeri)	Ectodini	M	IPE3	inter.	haplo57	Xenbou_2	haplo45	8.8|10	7.19|9	1.22|1.11
+Xenbou (Xenotilapia boulengeri)	Ectodini	F	IPE7	inter.	haplo57	Xenbou_2	haplo45	8.68|9	6.99|9	1.24|1
+Xencau (Xenotilapia caudafasciata)	Ectodini	M	IXB9	deep	haplo58	Xencau_2	haplo46	11.31|12	7.53|10	1.5|1.2
+Xencau (Xenotilapia caudafasciata)	Ectodini	F	IXC1	deep	haplo58	Xencau_2	haplo46	8.27|8	7|9	1.18|0.89
+Xenfla (Xenotilapia flavipinnis)	Ectodini	M	JAF7	shallow	haplo59	Xenfla_2_A	haplo47	22.89|23	14.1|20	1.62|1.15
+Xenfla (Xenotilapia flavipinnis)	Ectodini	F	JAF9	shallow	haplo60	Xenfla_2_B	haplo48	17.2|17	12.53|18	1.37|0.94
+Xenkil (Xenotilapia sp. “kilesa”)	Ectodini	M	Bel01	NA	haplo61	Xenkil_2_A	haplo49	14.71|13	9.96|14	1.48|0.93
+Xenkil (Xenotilapia sp. “kilesa”)	Ectodini	M	Bel03	NA	haplo62	Xenkil_2_B	haplo49	9.57|10	5.77|8	1.66|1.25
+Xenlon (Xenotilapia longispinis)	Ectodini	M	KAF5	NA	haplo63	Xenlon_2	haplo50	13.43|13	8.27|11	1.62|1.18
+Xenlon (Xenotilapia longispinis)	Ectodini	F	KAF6	NA	haplo63	Xenlon_2	haplo50	10.44|11	9.14|12	1.14|0.92
+Xennas (Xenotilapia nasus)	Ectodini	M	IMF7	deep	haplo64	Xennas_2	haplo51	8.69|8	6.62|9	1.31|0.89
+Xennas (Xenotilapia nasus)	Ectodini	F	IMF8	deep	haplo64	Xennas_2	haplo51	17.28|17	10.49|14	1.65|1.21
+XenniS (Xenotilapia nigrolabiata)	Ectodini	F	IXF4	deep	haplo65	XenniS_2_A	haplo52	21.09|20	13.27|19	1.59|1.05
+XenniS (Xenotilapia nigrolabiata)	Ectodini	M	IZC7	deep	haplo66	XenniS_2_B	haplo53	6.21|6	7.18|9	0.86|0.67
+Xenoch (Xenotilapia ochrogenys)	Ectodini	M	JVH4	inter.	haplo67	Xenoch_2	haplo54	13.21|14	8.72|12	1.51|1.17
+Xenoch (Xenotilapia ochrogenys)	Ectodini	F	JVI5	inter.	haplo67	Xenoch_2	haplo54	15.87|16	10.21|14	1.55|1.14
+Xenorn (Xenotilapia ornatipinnis)	Ectodini	M	JZE6	deep	haplo63	Xenorn_2	haplo50	8.65|8	8.13|11	1.06|0.73
+Xenorn (Xenotilapia ornatipinnis)	Ectodini	F	JZE8	deep	haplo63	Xenorn_2	haplo50	8.58|9	7.57|10	1.13|0.9
+XenpaK (Xenotilapia papilio)	Ectodini	F	A206	inter.	haplo68	XenpaK_1	haplo55	16.87|16	9.23|12	1.83|1.33
+Xenpap (Xenotilapia papilio (Katete))	Ectodini	M	IVF4	inter.	haplo68	Xenpap_2	haplo55	17.27|18	10.42|14	1.66|1.29
+Xenpap (Xenotilapia papilio (Katete))	Ectodini	F	IVF5	inter.	haplo68	Xenpap_2	haplo55	8.23|9	6.29|8	1.31|1.12
+Xensim (Xenotilapia sima)	Ectodini	M	IUF7	deep	haplo69	Xensim_4	haplo39	9.32|9	8.17|11	1.14|0.82
+Xensim (Xenotilapia sima)	Ectodini	F	IUF8	deep	haplo69	Xensim_4	haplo39	10.94|11	8.23|11	1.33|1
+Xensim (Xenotilapia sima)	Ectodini	M	LBE2	deep	haplo69	Xensim_4	haplo39	10.26|10	8.26|11	1.24|0.91
+Xensim (Xenotilapia sima)	Ectodini	F	LBE9	deep	haplo69	Xensim_4	haplo39	8.84|9	6.48|8	1.36|1.12
+Xensin (Xenotilapia singularis)	Ectodini	M	IRD9	inter.	haplo67	Xensin_2	haplo54	9.24|9	7.06|10	1.31|0.9
+Xensin (Xenotilapia singularis)	Ectodini	F	IRE3	inter.	haplo67	Xensin_2	haplo54	8.81|8	6.52|9	1.35|0.89
+Xenspi (Xenotilapia spilopterus)	Ectodini	M	AXB5	inter.	haplo72	Xenspi_2	haplo45	8.99|9	7.54|10	1.19|0.9
+Xenspi (Xenotilapia spilopterus)	Ectodini	F	AXB8	inter.	haplo72	Xenspi_2	haplo45	13.72|14	7.52|10	1.82|1.4
+XenspN (Xenotilapia sp. “spilopterus north”)	Ectodini	M	LEA3	inter.	haplo70	XenspN_2_A	haplo45	7.42|7	6.5|9	1.14|0.78
+XenspN (Xenotilapia sp. “spilopterus north”)	Ectodini	F	LEA4	inter.	haplo71	XenspN_2_B	haplo45	9.21|9	6.31|8	1.46|1.12
+Xensun (Xenotilapia sp. “papilio sunflower”)	Ectodini	M	GPF8	inter.	haplo73	Xensun_2_A	haplo55	8.15|8	6.96|9	1.17|0.89
+Xensun (Xenotilapia sp. “papilio sunflower”)	Ectodini	F	GPF9	inter.	haplo74	Xensun_2_B	haplo55	10.63|10	7.72|10	1.38|1
+Erecya (Eretmodus cyanostictus)	Eretmodini	M	IZH7	shallow	haplo75	Erecya_2	haplo56	27.01|26	17.51|25	1.54|1.04
+Erecya (Eretmodus cyanostictus)	Eretmodini	F	IZI3	shallow	haplo75	Erecya_2	haplo56	16.59|17	11.41|16	1.45|1.06
+Eremar (Eretmodus marksmithi)	Eretmodini	M	JXE9	shallow	haplo76	Eremar_2	haplo57	12.1|11	9.51|13	1.27|0.85
+Eremar (Eretmodus marksmithi)	Eretmodini	F	JXF4	shallow	haplo76	Eremar_2	haplo57	7.95|8	6.09|8	1.31|1
+Spaery (Spathodus erythrodon)	Eretmodini	M	JUB6	shallow	haplo77	Spaery_2	haplo58	11.72|11	6.84|9	1.71|1.22
+Spaery (Spathodus erythrodon)	Eretmodini	F	JUB7	shallow	haplo77	Spaery_2	haplo58	11.27|11	8.08|11	1.39|1
+Spamar (Spathodus marlieri)	Eretmodini	M	JZB7	shallow	haplo77	Spamar_2	haplo58	6.9|7	5.93|8	1.16|0.88
+Spamar (Spathodus marlieri)	Eretmodini	F	JZD3	shallow	haplo77	Spamar_2	haplo58	13.72|14	9.7|13	1.41|1.08
+Tanirs (Tanganicodus irsacae)	Eretmodini	M	JYH3	shallow	haplo78	Tanirs_2	haplo57	16.42|15	9.21|12	1.78|1.25
+Tanirs (Tanganicodus irsacae)	Eretmodini	F	JYH7	shallow	haplo78	Tanirs_2	haplo57	9.19|9	6.86|9	1.34|1
+Gobeth (Gobiocichla ethelwynnae)*	Gobiocichlini	M	JWE7 (no genome draft assembly)	NA	haplo79	Gobeth_1	haplo59	15.98|16	12.8|17	1.25|0.94
+Tilbre (Tilapia brevimanus)*	Gobiocichlini	F	JWF9	NA	haplo80	Tilbre_1	haplo60	23.09|22	14.6|18	1.58|1.22
+Arcstr (Astatoreochromis straeleni)*	Haplochromini	M	KAE8	NA	haplo81	Arcstr_1	haplo61	7.59|8	6.88|9	1.1|0.89
+Astbur (Astatotilapia burtoni)*	Haplochromini	M	IZA1	shallow	haplo82	Astbur_3_AB	haplo62	8.2|8	7.63|10	1.07|0.8
+Astbur (Astatotilapia burtoni)*	Haplochromini	F	IZC5 (no genome draft assembly)	shallow	haplo82	Astbur_3_AB	haplo62	24.08|24	14.46|20	1.67|1.2
+Astbur (Astatotilapia burtoni)*	Haplochromini	F	JYD5	shallow	haplo83	Astbur_3_C	haplo62	4.9|5	4.94|6	0.99|0.83
+Astfla (Astatotilapia flaviijosephi)*	Haplochromini	M	LJD2	NA	haplo84	Astfla_1	haplo63	9.06|9	5.32|7	1.7|1.29
+Astpal (Astatotilapia paludinosa)*	Haplochromini	M	KYG1	NA	haplo85	Astpal_1	haplo62	7.86|8	5.86|7	1.34|1.14
+Ctepol (Ctenochromis polli)*	Haplochromini	M	JWG2 (no genome draft assembly)	NA	haplo86	Ctepol_1	haplo64	18|19	13.2|18	1.36|1.06
+Hplkil (Haplochromis sp. “kilossana”)*	Haplochromini	M	LJE8 (no genome draft assembly)	NA	haplo87	Hplkil_1	haplo65	27.33|27	17.26|25	1.58|1.08
+HplspC (Haplochromis sp. “chipwa”)*	Haplochromini	M	HXC4	shallow	haplo82	HplspC_2	haplo62	7.8|7	6.08|8	1.28|0.88
+HplspC (Haplochromis sp. “chipwa”)*	Haplochromini	F	HXC5	shallow	haplo82	HplspC_2	haplo62	9.03|9	8.62|11	1.05|0.82
+Hplsta (Haplochromis stappersii)*	Haplochromini	M	JYD3	shallow	haplo88	Hplsta_1	haplo66	16.75|15	11.08|15	1.51|1
+Hplvan (Haplochromis vanheusdeni)*	Haplochromini	M	JWG3	NA	haplo87	Hplvan_1	haplo65	9.9|10	6.53|8	1.52|1.25
+Ortcho (Orthochromis indermauri)*	Haplochromini	F	HXC6	NA	haplo89	Ortcho_2	haplo67	18.42|18	14.35|20	1.28|0.9
+Ortcho (Orthochromis indermauri)*	Haplochromini	M	HXC7	NA	haplo89	Ortcho_2	haplo67	7.09|7	5.97|8	1.19|0.88
+Ortmaz (Orthochromis mazimeroensis)*	Haplochromini	M	KDC6	NA	haplo90	Ortmaz_1	haplo68	7.79|8	6.34|8	1.23|1
+Ortred (Orthochromis malagaraziensis)*	Haplochromini	M	KYE2	NA	haplo90	Ortred_1	haplo68	11.17|11	6.46|8	1.73|1.38
+Ortuvi (Orthochromis uvinzae)*	Haplochromini	M	KYE7	NA	haplo91	Ortuvi_1	haplo68	7.95|8	6.36|8	1.25|1
+Psephi (Pseudocrenilabrus philander)*	Haplochromini	M	JWG1 (no genome draft assembly)	NA	haplo92	Psephi_1	haplo69	21.39|21	15.01|21	1.43|1
+Thobra (Thoracochromis brauschi)*	Haplochromini	M	JWF8	NA	haplo93	Thobra_1	haplo69	18.25|18	13.83|19	1.32|0.95
+Hetbut (Heterotilapia buettikoferi)*	Heterotilapini		JWE3	NA	haplo94	Hetbut_1	haplo70	10.89|11	7.57|9	1.44|1.22
+Altcal (Altolamprologus calvus)	Lamprologini	M	IOE2	inter.	haplo95	Altcal_2_A	haplo71	10.03|10	7.55|10	1.33|1
+Altcal (Altolamprologus calvus)	Lamprologini	F	IOE3	inter.	haplo96	Altcal_2_B	haplo72	10.4|11	8.88|12	1.17|0.92
+Altcom (Altolamprologus compressiceps)	Lamprologini	M	ISB1	inter.	haplo97	Altcom_2	haplo71	9.61|10	7.88|11	1.22|0.91
+Altcom (Altolamprologus compressiceps)	Lamprologini	F	ISC9	inter.	haplo97	Altcom_2	haplo71	13.39|14	8.82|12	1.52|1.17
+Altfas (Neolamprologus fasciatus)	Lamprologini	M	AUE7	shallow	haplo98	Altfas_2	haplo73	14.17|14	9.63|13	1.47|1.08
+Altfas (Neolamprologus fasciatus)	Lamprologini	F	AXD5	shallow	haplo98	Altfas_2	haplo73	7.96|7	7.73|11	1.03|0.64
+Altshe (Altolamprologus sp. “compressiceps shell”)	Lamprologini	M	IRH2	NA	haplo95	Altshe_2	haplo71	6.49|7	5.51|7	1.18|1
+Altshe (Altolamprologus sp. “compressiceps shell”)	Lamprologini	F	IRH4	NA	haplo95	Altshe_2	haplo71	8.29|8	5.77|7	1.44|1.14
+Chabif (Chalinochromis sp. “bifrenatus”)	Lamprologini	F	LDD9	inter.	haplo99	Chabif_2	haplo74	10.01|10	7.23|10	1.38|1
+Chabif (Chalinochromis sp. “bifrenatus”)	Lamprologini	M	LDE1	inter.	haplo99	Chabif_2	haplo74	10.74|11	7.29|10	1.47|1.1
+Chabri (Chalinochromis brichardi)	Lamprologini	F	AVA9	inter.	haplo99	Chabri_2	haplo74	8.66|8	7.45|10	1.16|0.8
+Chabri (Chalinochromis brichardi)	Lamprologini	M	AVB2	inter.	haplo99	Chabri_2	haplo74	9.62|10	7.22|10	1.33|1
+Chacya (Chalinochromis cyanophleps)	Lamprologini	M	LGG6	inter.	haplo100	Chacya_2	haplo75	12.22|12	7.75|10	1.58|1.2
+Chacya (Chalinochromis cyanophleps)	Lamprologini	F	LGG7	inter.	haplo100	Chacya_2	haplo75	14.38|14	7.39|10	1.95|1.4
+Chando (Chalinochromis sp. “ndobhoi”)	Lamprologini	M	KEE9	inter.	haplo99	Chando_2	haplo74	9.42|10	6.88|9	1.37|1.11
+Chando (Chalinochromis sp. “ndobhoi”)	Lamprologini	F	KEF1	inter.	haplo99	Chando_2	haplo74	10.83|11	7.1|9	1.53|1.22
+Chapop (Chalinochromis popelini)	Lamprologini	M	Bel07	inter.	haplo99	Chapop_2	haplo74	12.16|10	7.38|10	1.65|1
+Chapop (Chalinochromis popelini)	Lamprologini	F	Bel09	inter.	haplo99	Chapop_2	haplo74	8.95|8	6.65|9	1.35|0.89
+Juldic (Julidochromis dickfeldi)	Lamprologini	M	IRC4	inter.	haplo99	Juldic_2	haplo74	14.53|14	9.53|13	1.52|1.08
+Juldic (Julidochromis dickfeldi)	Lamprologini	F	IRC5	inter.	haplo99	Juldic_2	haplo74	12.41|12	7.01|9	1.77|1.33
+Julkom (Julidochromis sp. “kombe”)	Lamprologini	M	ILD9	inter.	haplo99	Julkom_2	haplo74	9.1|9	6.9|9	1.32|1
+Julkom (Julidochromis sp. “kombe”)	Lamprologini	F	INA6	inter.	haplo99	Julkom_2	haplo74	7.16|7	6.38|8	1.12|0.88
+JulmaN (Julidochromis marlieri)	Lamprologini	M	JXB5	inter.	haplo101	JulmaN_2_A	haplo74	16.96|16	8.77|12	1.93|1.33
+JulmaN (Julidochromis marlieri)	Lamprologini	F	JXC1	inter.	haplo99	JulmaN_2_B	haplo74	12.8|12	8.48|11	1.51|1.09
+JulmaS (Julidochromis sp. “marlieri south”)	Lamprologini	F	LBA1	inter.	haplo101	JulmaS_2_A	haplo74	8.75|8	7.89|11	1.11|0.73
+JulmaS (Julidochromis sp. “marlieri south”)	Lamprologini	M	LBF3	inter.	haplo99	JulmaS_2_B	haplo74	11.47|12	8.35|11	1.37|1.09
+Julmrk (Julidochromis marksmithi)	Lamprologini	M	LFG8	inter.	haplo101	Julmrk_2_A	haplo74	7.13|7	6.53|9	1.09|0.78
+Julmrk (Julidochromis marksmithi)	Lamprologini	F	LFH1	inter.	haplo102	Julmrk_2_B	haplo74	10.27|10	8.31|11	1.24|0.91
+Julorn (Julidochromis ornatus)	Lamprologini	M	ISB7	inter.	haplo103	Julorn_2	haplo74	9.09|9	6.34|8	1.43|1.12
+Julorn (Julidochromis ornatus)	Lamprologini	F	ISC1	inter.	haplo103	Julorn_2	haplo74	11.81|12	8.15|11	1.45|1.09
+Julreg (Julidochromis sp. “regani south”)	Lamprologini	F	IRB2	inter.	haplo102	Julreg_2	haplo74	11.61|12	6.4|8	1.81|1.5
+Julreg (Julidochromis sp. “regani south”)	Lamprologini	M	IRB8	inter.	haplo102	Julreg_2	haplo74	8.64|8	7.36|10	1.17|0.8
+JulreK (Julidochromis regani)	Lamprologini	F	KFF4	inter.	haplo104	JulreK_2	haplo76	9.41|9	7.2|10	1.31|0.9
+JulreK (Julidochromis regani)	Lamprologini	M	KHE6	inter.	haplo104	JulreK_2	haplo76	7.11|7	6.76|9	1.05|0.78
+Jultra (Julidochromis transcriptus)	Lamprologini	M	HFG1287	NA	haplo99	Jultra_2	haplo74	14.12|14	10.48|14	1.35|1
+Jultra (Julidochromis transcriptus)	Lamprologini	F	LJC2	NA	haplo99	Jultra_2	haplo74	13.84|14	9.46|13	1.46|1.08
+Julunt (Julidochromis sp. “unterfels”)	Lamprologini	M	JWA1	NA	haplo105	Julunt_2_A	haplo74	20.71|21	13.56|19	1.53|1.11
+Julunt (Julidochromis sp. “unterfels”)	Lamprologini	F	JWA2	NA	haplo106	Julunt_2_B	haplo74	20.4|21	15.12|22	1.35|0.95
+Lamcal (Lamprologus callipterus)	Lamprologini	M	IPH2	inter.	haplo107	Lamcal_2	haplo77	16.17|17	9.64|13	1.68|1.31
+Lamcal (Lamprologus callipterus)	Lamprologini	F	JAB1	inter.	haplo107	Lamcal_2	haplo77	9.2|9	7.48|10	1.23|0.9
+Lamkun (Lamprologus kungweensis)	Lamprologini	M	JXG8	inter.	haplo99	Lamkun_2	haplo74	14.97|15	12.18|17	1.23|0.88
+Lamkun (Lamprologus kungweensis)	Lamprologini	F	JXH2	inter.	haplo99	Lamkun_2	haplo74	19.56|19	12.23|17	1.6|1.12
+Lamlem (Lamprologus lemairii)	Lamprologini	F	IPD6	inter.	haplo108	Lamlem_2	haplo74	7.18|7	6.18|8	1.16|0.88
+Lamlem (Lamprologus lemairii)	Lamprologini	M	IZI7	inter.	haplo108	Lamlem_2	haplo74	9.78|10	7.55|10	1.3|1
+Lammel (Lamprologus meleagris)	Lamprologini	M	JWA8	NA	NA	NA	NA	5.37|5	5.44|7	0.99|0.71
+Lammel (Lamprologus meleagris)	Lamprologini	F	JWA9	NA	haplo109	Lammel_1	haplo78	9.45|9	10.36|14	0.91|0.64
+Lamoce (Lamprologus ocellatus)	Lamprologini	M	ILC1	inter.	haplo110	Lamoce_2_A	haplo79	8.17|8	6.6|9	1.24|0.89
+Lamoce (Lamprologus ocellatus)	Lamprologini	F	ILD3	inter.	haplo111	Lamoce_2_B	haplo80	11.2|11	7.66|10	1.46|1.1
+LamorC (Lamprologus sp. “ornatipinnis congo”)	Lamprologini	M	JWA3	inter.	haplo112	LamorC_2	haplo81	9.97|10	6.5|9	1.53|1.11
+LamorC (Lamprologus sp. “ornatipinnis congo”)	Lamprologini	F	JWA4	inter.	haplo112	LamorC_2	haplo81	6.91|7	6.3|8	1.1|0.88
+Lamorn (Lamprologus ornatipinnis)	Lamprologini	M	JZF3	inter.	haplo114	Lamorn_2_A	haplo83	20.09|21	13.7|19	1.47|1.11
+Lamorn (Lamprologus ornatipinnis)	Lamprologini	F	JZF4	inter.	haplo115	Lamorn_2_B	haplo82	17.31|18	11.29|16	1.53|1.12
+LamorS (Lamprologus sp. “ornatipinnis zambia”)	Lamprologini	M	JDF5	inter.	haplo113	LamorS_2	haplo82	12.5|13	7.69|10	1.63|1.3
+LamorS (Lamprologus sp. “ornatipinnis zambia”)	Lamprologini	F	JDG4	inter.	haplo113	LamorS_2	haplo82	8.25|8	6.17|8	1.34|1
+Lamsig (Lamprologus signatus)	Lamprologini	M	IWD5	inter.	haplo116	Lamsig_2	haplo84	9.68|9	7.8|11	1.24|0.82
+Lamsig (Lamprologus signatus)	Lamprologini	F	IWD6	inter.	haplo116	Lamsig_2	haplo84	14.02|14	8.94|12	1.57|1.17
+Lamspe (Lamprologus speciosus)	Lamprologini	M	KCG2	NA	haplo117	Lamspe_2_A	haplo85	10.6|11	9.24|13	1.15|0.85
+Lamspe (Lamprologus speciosus)	Lamprologini	F	KCG3	NA	haplo118	Lamspe_2_B	haplo86	15.97|15	12.69|18	1.26|0.83
+Lamtig (Lamprologus tigripictilis)	Lamprologini	F	JWF6	NA	haplo119	Lamtig_1	haplo87	21.11|20	13.31|19	1.59|1.05
+Lepatt (Lepidiolamprologus attenuatus)	Lamprologini	M	AVD4	inter.	haplo99	Lepatt_2	haplo74	9.03|9	7.05|9	1.28|1
+Lepatt (Lepidiolamprologus attenuatus)	Lamprologini	F	AVG5	inter.	haplo99	Lepatt_2	haplo74	9.76|10	7.72|10	1.26|1
+Lepcun (Lepidiolamprologus cunningtoni)	Lamprologini	F	IOH4	inter.	haplo120	Lepcun_2	haplo88	9.14|9	7.8|10	1.17|0.9
+Lepcun (Lepidiolamprologus cunningtoni)	Lamprologini	M	IOH5	inter.	haplo120	Lepcun_2	haplo88	20.36|20	12.52|17	1.63|1.18
+Lepelo (Lepidiolamprologus elongatus)	Lamprologini	M	AUE6	inter.	haplo99	Lepelo_2	haplo74	10.7|10	6.92|9	1.55|1.11
+Lepelo (Lepidiolamprologus elongatus)	Lamprologini	F	Aug.08	inter.	haplo99	Lepelo_2	haplo74	11.01|11	7.24|10	1.52|1.1
+Lepkam (Lepidiolamprologus kamambae)	Lamprologini	M	LFF7	NA	haplo121	Lepkam_2	haplo89	9.37|9	5.65|7	1.66|1.29
+Lepkam (Lepidiolamprologus kamambae)	Lamprologini	F	LFF8	NA	haplo121	Lepkam_2	haplo89	11.93|12	7.9|11	1.51|1.09
+Lepken (Lepidiolamprologus kendalli)	Lamprologini	M	IMD1	inter.	haplo121	Lepken_2_A	haplo89	19.49|20	12.71|18	1.53|1.11
+Lepken (Lepidiolamprologus kendalli)	Lamprologini	F	IMD2	inter.	haplo122	Lepken_2_B	haplo90	11.03|11	7.36|10	1.5|1.1
+LepmeK (Lepidiolamprologus sp. “meeli kipili”)	Lamprologini	F	LHA2	inter.	haplo99	LepmeK_2_B	haplo74	9.04|9	7.11|9	1.27|1
+LepmeK (Lepidiolamprologus sp. “meeli kipili”)	Lamprologini	M	LHA5	inter.	haplo123	LepmeK_2_A	haplo74	12.9|13	7.56|10	1.71|1.3
+Lepmim (Lepidiolamprologus mimicus)	Lamprologini	M	LDD1	inter.	haplo121	Lepmim_2_A	haplo89	9.26|9	7.26|10	1.28|0.9
+Lepmim (Lepidiolamprologus mimicus)	Lamprologini	F	LDD6	inter.	haplo124	Lepmim_2_B	haplo91	13.16|13	7.24|10	1.82|1.3
+Leppro (Lepidiolamprologus profundicola)	Lamprologini	M	KAD2	inter.	haplo125	Leppro_2	haplo74	10.71|10	8.17|11	1.31|0.91
+Leppro (Lepidiolamprologus profundicola)	Lamprologini	F	KEB8	inter.	haplo125	Leppro_2	haplo74	12.76|12	8.21|11	1.55|1.09
+Neobif (Neolamprologus bifasciatus)	Lamprologini	M	LHF6	deep	haplo100	Neobif_2_A	haplo75	5.77|5	6.93|9	0.83|0.56
+Neobif (Neolamprologus bifasciatus)	Lamprologini	F	LHF7	deep	haplo126	Neobif_2_B	haplo92	10.99|11	6.9|9	1.59|1.22
+Neobou (Neolamprologus boulengeri)	Lamprologini	F	KCE5	inter.	haplo114	Neobou_2	haplo83	9.56|9	6.61|9	1.45|1
+Neobou (Neolamprologus boulengeri)	Lamprologini	M	KYB9	inter.	haplo114	Neobou_2	haplo83	12.54|12	7.33|10	1.71|1.2
+Neobre (Neolamprologus brevis)	Lamprologini	M	ILB6	inter.	haplo128	Neobre_2	haplo84	8.35|8	6.21|8	1.34|1
+Neobre (Neolamprologus brevis)	Lamprologini	F	ILB7	inter.	haplo128	Neobre_2	haplo84	7.24|7	6.48|8	1.12|0.88
+Neobri (Neolamprologus brichardi)	Lamprologini	F	JUH9	inter.	haplo99	Neobri_2	haplo74	12.08|12	8.02|11	1.51|1.09
+Neobri (Neolamprologus brichardi)	Lamprologini	M	JUI1	inter.	haplo99	Neobri_2	haplo74	7.46|8	5.93|8	1.26|1
+NeobrM (Neolamprologus sp. “brevis magara”)	Lamprologini	M	KCI6	inter.	haplo127	NeobrM_2_A	haplo84	16.25|16	12.96|18	1.25|0.89
+NeobrM (Neolamprologus sp. “brevis magara”)	Lamprologini	F	KCI7	inter.	haplo128	NeobrM_2_B	haplo84	10.82|10	7.05|9	1.53|1.11
+Neobue (Neolamprologus buescheri)	Lamprologini	M	JEI4	deep	haplo100	Neobue_2	haplo75	5.25|5	6.88|9	0.76|0.56
+Neobue (Neolamprologus buescheri)	Lamprologini	F	JEI5	deep	haplo100	Neobue_2	haplo75	9.28|9	7|9	1.33|1
+NeocaK (Neolamprologus sp. “caudopunctatus kipili”)	Lamprologini	M	LDG2	inter.	haplo129	NeocaK_2	haplo93	10.54|10	6.81|9	1.55|1.11
+NeocaK (Neolamprologus sp. “caudopunctatus kipili”)	Lamprologini	F	LDG3	inter.	haplo129	NeocaK_2	haplo93	9.81|9	7.69|10	1.28|0.9
+Neocal (Neolamprologus calliurus)	Lamprologini	M	ILA7	inter.	haplo130	Neocal_2_A	haplo84	10.88|10	9.27|13	1.17|0.77
+Neocal (Neolamprologus calliurus)	Lamprologini	F	INC7	inter.	haplo131	Neocal_2_B	haplo94	7.57|7	7.81|10	0.97|0.7
+Neocau (Neolamprologus caudopunctatus)	Lamprologini	M	IQA3	shallow	haplo95	Neocau_2_B	haplo71	18.78|19	13.82|20	1.36|0.95
+Neocau (Neolamprologus caudopunctatus)	Lamprologini	F	IQA4	shallow	haplo132	Neocau_2_A	haplo95	11.76|11	7.31|10	1.61|1.1
+Neochi (Neolamprologus chitamwebwai)	Lamprologini	M	KHA7	inter.	haplo133	Neochi_2	haplo76	10.05|10	6.74|9	1.49|1.11
+Neochi (Neolamprologus chitamwebwai)	Lamprologini	F	KHA9	inter.	haplo133	Neochi_2	haplo76	8.67|8	5.71|7	1.52|1.14
+Neochr (Neolamprologus christyi)	Lamprologini	F	ITG2	inter.	haplo134	Neochr_1	haplo88	10.67|11	7.98|11	1.34|1
+Neochr (Neolamprologus christyi)	Lamprologini	M	IZI8	inter.	NA	NA	NA	6.05|6	6.42|8	0.94|0.75
+Neocra (Neolamprologus crassus)	Lamprologini	M	IVE8	inter.	haplo102	Neocra_2	haplo74	13|13	8.44|11	1.54|1.18
+Neocra (Neolamprologus crassus)	Lamprologini	F	IVF1	inter.	haplo102	Neocra_2	haplo74	10.15|10	8.39|11	1.21|0.91
+Neocyg (Neolamprologus sp. “cygnus”)	Lamprologini	M	LFD2	inter.	haplo100	Neocyg_2	haplo75	12.31|13	7.89|10	1.56|1.3
+Neocyg (Neolamprologus sp. “cygnus”)	Lamprologini	F	LFD4	inter.	haplo100	Neocyg_2	haplo75	12.57|13	7.7|10	1.63|1.3
+Neocyl (Neolamprologus cylindricus)	Lamprologini	M	GPH1	inter.	haplo135	Neocyl_2	haplo96	18.27|18	12.85|18	1.42|1
+Neocyl (Neolamprologus cylindricus)	Lamprologini	F	GPH2	inter.	haplo135	Neocyl_2	haplo96	11.75|12	9.15|12	1.28|1
+Neodev (Neolamprologus devosi)*	Lamprologini	M	LEH2	NA	haplo136	Neodev_1	haplo97	16.1|17	9.38|13	1.72|1.31
+Neoese (Neolamprologus sp. “eseki”)	Lamprologini	M	LFB7	inter.	haplo137	Neoese_2_A	haplo98	11.76|12	5.88|8	2|1.5
+Neoese (Neolamprologus sp. “eseki”)	Lamprologini	F	LFB9	inter.	haplo138	Neoese_2_B	haplo99	10.8|10	7.87|11	1.37|0.91
+Neofal (Neolamprologus falcicula)	Lamprologini	M	JXD4	inter.	haplo133	Neofal_2	haplo76	13.69|13	8.68|12	1.58|1.08
+Neofal (Neolamprologus falcicula)	Lamprologini	F	JXD7	inter.	haplo133	Neofal_2	haplo76	15.98|16	10.56|14	1.51|1.14
+NeofaM (Neolamprologus sp. “falcicula mahale”)	Lamprologini	F	LCB5	inter.	haplo102	NeofaM_2	haplo74	6.98|7	6|8	1.16|0.88
+NeofaM (Neolamprologus sp. “falcicula mahale”)	Lamprologini	M	LCC2	inter.	haplo102	NeofaM_2	haplo74	9.75|9	5.88|8	1.66|1.12
+Neofur (Neolamprologus furcifer)	Lamprologini	M	JEI6	inter.	haplo99	Neofur_2	haplo74	10.79|11	9.72|13	1.11|0.85
+Neofur (Neolamprologus furcifer)	Lamprologini	F	JEI8	inter.	haplo99	Neofur_2	haplo74	21.36|21	12.25|17	1.74|1.24
+NeofuU (Neolamprologus sp. “furcifer ulwile”)	Lamprologini	F	LDF4	inter.	haplo99	NeofuU_2	haplo74	9.06|9	7.31|10	1.24|0.9
+NeofuU (Neolamprologus sp. “furcifer ulwile”)	Lamprologini	M	LDF5	inter.	haplo99	NeofuU_2	haplo74	11.83|12	7.39|10	1.6|1.2
+Neogra (Neolamprologus gracilis)	Lamprologini	F	JWH1	inter.	haplo102	Neogra_2	haplo74	12.95|12	10.85|15	1.19|0.8
+Neogra (Neolamprologus gracilis)	Lamprologini	M	JWH2	inter.	haplo102	Neogra_2	haplo74	19.1|20	12.3|17	1.55|1.18
+NeogrM (Neolamprologus sp. “gracilis tanzania”)	Lamprologini	M	LCB4	inter.	haplo99	NeogrM_2_B	haplo74	8.16|8	6.4|8	1.27|1
+NeogrM (Neolamprologus sp. “gracilis tanzania”)	Lamprologini	F	LCC6	inter.	haplo139	NeogrM_2_A	haplo74	11.09|11	6.58|9	1.69|1.22
+Neohec (Neolamprologus hecqui)	Lamprologini	M	A142	inter.	haplo140	Neohec_3_A	haplo100	17.02|16	10.86|15	1.57|1.07
+Neohec (Neolamprologus hecqui)	Lamprologini		Bel13	inter.	haplo141	Neohec_3_BC	haplo100	6.75|7	6.18|8	1.09|0.88
+Neohec (Neolamprologus hecqui)	Lamprologini		Bel14	inter.	haplo141	Neohec_3_BC	haplo100	9.02|9	6.56|9	1.38|1
+Neohel (Neolamprologus helianthus)	Lamprologini	F	JWG8	inter.	haplo99	Neohel_2	haplo74	8.96|9	5.3|7	1.69|1.29
+Neohel (Neolamprologus helianthus)	Lamprologini	M	JWG9	inter.	haplo99	Neohel_2	haplo74	13.45|13	10.1|14	1.33|0.93
+Neokom (Neolamprologus sp. “kombe”)	Lamprologini	M	ILE5	shallow	haplo99	Neokom_2	haplo74	6.41|6	5.53|7	1.16|0.86
+Neokom (Neolamprologus sp. “kombe”)	Lamprologini	F	ILE6	shallow	haplo99	Neokom_2	haplo74	10.19|10	7.77|10	1.31|1
+Neolap (Lamprologus laparogramma)	Lamprologini	F	JDI1	inter.	haplo116	Neolap_2	haplo84	9.09|8	7.38|10	1.23|0.8
+Neolap (Lamprologus laparogramma)	Lamprologini	M	JDI2	inter.	haplo116	Neolap_2	haplo84	13.43|13	9.06|12	1.48|1.08
+NeoleL (Neolamprologus leleupi)	Lamprologini		JWH9	inter.	haplo142	NeoleL_1	haplo74	13.26|13	10.12|14	1.31|0.93
+Neoleu (Neolamprologus longior)	Lamprologini	M	KEH3	inter.	haplo143	Neoleu_2	haplo75	17.34|17	11.97|17	1.45|1
+Neoleu (Neolamprologus longior)	Lamprologini	F	LEE1	inter.	haplo143	Neoleu_2	haplo75	8.27|8	6.7|9	1.23|0.89
+Neolon (Neolamprologus longicaudatus)	Lamprologini	M	JWI2	inter.	haplo100	Neolon_2	haplo75	12.61|12	7.77|10	1.62|1.2
+Neolon (Neolamprologus longicaudatus)	Lamprologini	F	JWI3	inter.	haplo100	Neolon_2	haplo75	13.28|13	10.14|14	1.31|0.93
+Neolou (Neolamprologus leloupi)	Lamprologini	M	LCA1	inter.	haplo144	Neolou_2	haplo101	12.08|12	7.02|9	1.72|1.33
+Neolou (Neolamprologus leloupi)	Lamprologini	F	LCA2	inter.	haplo144	Neolou_2	haplo101	11.47|11	7.8|11	1.47|1
+Neomar (Neolamprologus marunguensis)	Lamprologini	M	JWH3	NA	haplo102	Neomar_2	haplo74	15.94|16	10.37|14	1.54|1.14
+Neomar (Neolamprologus marunguensis)	Lamprologini	F	JWH4	NA	haplo102	Neomar_2	haplo74	15.76|16	10.71|15	1.47|1.07
+Neomee (Neolamprologus meeli)	Lamprologini	M	JDF3	inter.	haplo99	Neomee_2	haplo74	9.99|10	6.46|8	1.55|1.25
+Neomee (Neolamprologus meeli)	Lamprologini	F	JDF4	inter.	haplo99	Neomee_2	haplo74	16.66|16	12.99|18	1.28|0.89
+Neomod (Neolamprologus modestus)	Lamprologini	M	IMG9	shallow	haplo137	Neomod_2	haplo98	12.38|12	7.99|11	1.55|1.09
+Neomod (Neolamprologus modestus)	Lamprologini	F	IMH3	shallow	haplo137	Neomod_2	haplo98	12.89|13	9.33|13	1.38|1
+Neomon (Neolamprologus mondabu)	Lamprologini	M	JVB4	shallow	haplo137	Neomon_2	haplo98	11.01|11	10.27|14	1.07|0.79
+Neomon (Neolamprologus mondabu)	Lamprologini	F	JVB8	shallow	haplo137	Neomon_2	haplo98	9.73|10	8.67|12	1.12|0.83
+Neomul (Neolamprologus multifasciatus)	Lamprologini	M	IRF6 (no genome draft assembly)	inter.	haplo145	Neomul_2_A	haplo102	10.26|9	6.6|9	1.55|1
+Neomul (Neolamprologus multifasciatus)	Lamprologini	F	IRF8	inter.	haplo146	Neomul_2_B	haplo103	8.01|8	5.95|8	1.35|1
+Neomux (Neolamprologus mustax)	Lamprologini	F	ILB4	inter.	haplo147	Neomux_2	haplo74	11.3|11	8.11|11	1.39|1
+Neomux (Neolamprologus mustax)	Lamprologini	M	ILH1	inter.	haplo147	Neomux_2	haplo74	9.43|9	6.16|8	1.53|1.12
+Neonig (Neolamprologus niger)	Lamprologini	M	KYA1	deep	haplo135	Neonig_2	haplo96	8.79|9	6.09|8	1.44|1.12
+Neonig (Neolamprologus niger)	Lamprologini	F	KYA5	deep	haplo135	Neonig_2	haplo96	9.1|9	6.47|8	1.41|1.12
+Neonve (Neolamprologus nigriventris)	Lamprologini	F	A108	deep	haplo100	Neonve_2_A	haplo75	12.87|13	9.24|12	1.39|1.08
+Neonve (Neolamprologus nigriventris)	Lamprologini	M	LJC3	deep	haplo148	Neonve_2_B	haplo75	15.23|14	10.29|14	1.48|1
+Neoobs (Neolamprologus obscurus)	Lamprologini	F	IMA1	inter.	haplo135	Neoobs_2	haplo96	10.83|11	7.05|9	1.54|1.22
+Neoobs (Neolamprologus obscurus)	Lamprologini	M	IMA2	inter.	haplo135	Neoobs_2	haplo96	9.26|9	6.26|8	1.48|1.12
+Neooli (Neolamprologus olivaceous)	Lamprologini	F	JWH5	NA	haplo149	Neooli_2	haplo74	17.33|17	10.27|14	1.69|1.21
+Neooli (Neolamprologus olivaceous)	Lamprologini	M	JWH6	NA	haplo149	Neooli_2	haplo74	10.55|11	11.04|15	0.96|0.73
+Neopec (Neolamprologus pectoralis)	Lamprologini	M	JWA7	deep	haplo100	Neopec_2	haplo75	14.72|14	10.65|15	1.38|0.93
+Neopec (Neolamprologus pectoralis)	Lamprologini	F	JWI6	deep	haplo100	Neopec_2	haplo75	13.43|14	10.62|14	1.26|1
+Neopet (Neolamprologus petricola)	Lamprologini	M	LGH8	shallow	haplo150	Neopet_2_B	haplo104	12.22|12	7.4|10	1.65|1.2
+Neopet (Neolamprologus petricola)	Lamprologini	F	LGI1	shallow	haplo137	Neopet_2_A	haplo98	10.83|11	7.68|10	1.41|1.1
+Neople (Neolamprologus pleuromaculatus)	Lamprologini	M	JZF1	NA	haplo114	Neople_2	haplo83	12.4|12	7.75|10	1.6|1.2
+Neople (Neolamprologus pleuromaculatus)	Lamprologini	F	JZF2	NA	haplo114	Neople_2	haplo83	20.46|21	13.53|19	1.51|1.11
+Neopro (Neolamprologus prochilus)	Lamprologini	M	IVH1	inter.	haplo151	Neopro_2	haplo74	8.57|8	7.57|10	1.13|0.8
+Neopro (Neolamprologus prochilus)	Lamprologini	F	IVH2	inter.	haplo151	Neopro_2	haplo74	9.72|9	7.08|9	1.37|1
+Neopul (Neolamprologus pulcher)	Lamprologini	M	ISA6	inter.	haplo99	Neopul_2	haplo774	8.15|8	6.57|9	1.24|0.89
+Neopul (Neolamprologus pulcher)	Lamprologini	F	ISB3	inter.	haplo99	Neopul_2	haplo74	11.3|11	7.44|10	1.52|1.1
+Neosav (Neolamprologus savoryi)	Lamprologini	M	ISA8	inter.	haplo99	Neosav_2_B	haplo74	11.88|12	8.35|11	1.42|1.09
+Neosav (Neolamprologus savoryi)	Lamprologini	F	IYA4	inter.	haplo152	Neosav_2_A	haplo74	8.93|8	6.36|8	1.4|1
+Neosex (Neolamprologus sexfasciatus)	Lamprologini	M	IND7	inter.	haplo153	Neosex_2	haplo105	8.33|8	7.7|10	1.08|0.8
+Neosex (Neolamprologus sexfasciatus)	Lamprologini	F	IND8	inter.	haplo153	Neosex_2	haplo105	9.38|8	7.26|10	1.29|0.8
+Neosim (Neolamprologus similis)	Lamprologini	M	KEC1	inter.	haplo154	Neosim_2_A	haplo106	12.46|12	8.22|11	1.52|1.09
+Neosim (Neolamprologus similis)	Lamprologini	F	KEC2	inter.	haplo155	Neosim_2_B	haplo106	12.8|12	7.27|10	1.76|1.2
+Neospl (Neolamprologus splendens)	Lamprologini	M	A188	NA	haplo99	Neospl_2	haplo74	16.46|16	6.63|7	2.48|2.29
+Neospl (Neolamprologus splendens)	Lamprologini	M	LJD3	NA	haplo99	Neospl_2	haplo74	22.51|22	8.07|9	2.79|2.44
+Neotet (Neolamprologus tetracanthus)	Lamprologini	M	IPF7	shallow	haplo156	Neotet_2_A	haplo105	7.98|8	6.65|9	1.2|0.89
+Neotet (Neolamprologus tetracanthus)	Lamprologini	F	IPG3	shallow	haplo157	Neotet_2_B	haplo105	13.64|14	9.95|14	1.37|1
+Neotim (Neolamprologus timidus)	Lamprologini	M	LGE2	NA	haplo135	Neotim_2	haplo96	8.6|8	7.36|10	1.17|0.8
+Neotim (Neolamprologus timidus)	Lamprologini	F	LGE3	NA	haplo135	Neotim_2	haplo96	7.78|8	6.05|8	1.29|1
+Neotoa (Neolamprologus toae)	Lamprologini	M	JZD5	inter.	haplo158	Neotoa_2	haplo107	13.36|14	8.15|11	1.64|1.27
+Neotoa (Neolamprologus toae)	Lamprologini	F	JZD6	inter.	haplo158	Neotoa_2	haplo107	10.01|10	8.9|12	1.12|0.83
+Neotre (Neolamprologus tretocephalus)	Lamprologini	M	KFH4	inter.	haplo153	Neotre_2	haplo105	12.09|12	7.35|10	1.64|1.2
+Neotre (Neolamprologus tretocephalus)	Lamprologini	F	KFH5	inter.	haplo153	Neotre_2	haplo105	11.66|12	7.34|10	1.59|1.2
+Neovar (Neolamprologus variostigma)	Lamprologini	M	JWA5	deep	haplo159	Neovar_2	haplo108	19.57|19	13.78|19	1.42|1
+Neovar (Neolamprologus variostigma)	Lamprologini	F	JWA6	deep	haplo159	Neovar_2	haplo108	20.86|20	15.23|22	1.37|0.91
+NeoveB (Neolamprologus ventralis (Burundi))	Lamprologini	M	KAG7	deep	haplo112	NeoveB_2	haplo81	19.82|19	13.73|19	1.44|1
+NeoveB (Neolamprologus ventralis (Burundi))	Lamprologini	F	KAG8	deep	haplo112	NeoveB_2	haplo81	23.74|23	14.75|21	1.61|1.1
+NeoveS (Neolamprologus sp. “ventralis stripe”)	Lamprologini	M	JED4	deep	haplo160	NeoveS_2_B	haplo109	10.34|10	7.71|10	1.34|1
+NeoveS (Neolamprologus sp. “ventralis stripe”)	Lamprologini	F	JED5	deep	haplo112	NeoveS_2_A	haplo81	20.67|21	13.26|18	1.56|1.17
+Neowal (Neolamprologus walteri)	Lamprologini	F	KFD2	inter.	haplo133	Neowal_2_A	haplo76	6.84|7	7.12|9	0.96|0.78
+Neowal (Neolamprologus walteri)	Lamprologini	M	KFD4	inter.	haplo161	Neowal_2_B	haplo76	7.9|8	6.99|9	1.13|0.89
+Telbif (Telmatochromis bifrenatus)	Lamprologini	M	KYB7	inter.	haplo162	Telbif_2	haplo110	8.99|9	6.86|9	1.31|1
+Telbif (Telmatochromis bifrenatus)	Lamprologini	F	KYB8	inter.	haplo162	Telbif_2	haplo110	9.88|10	7.04|9	1.4|1.11
+Telbra (Telmatochromis brachygnathus)	Lamprologini	M	JBE8	shallow	haplo163	Telbra_2_A	haplo111	9.83|9	6.45|8	1.52|1.12
+Telbra (Telmatochromis brachygnathus)	Lamprologini	F	JBE9	shallow	haplo164	Telbra_2_B	haplo111	7.29|7	6.75|9	1.08|0.78
+Telbri (Telmatochromis brichardi)	Lamprologini	M	JVI9	inter.	haplo162	Telbri_2	haplo110	14.42|15	7.92|11	1.82|1.36
+Telbri (Telmatochromis brichardi)	Lamprologini	F	JXA4	inter.	haplo162	Telbri_2	haplo110	8.4|8	7.77|10	1.08|0.8
+TeldhN (Telmatochromis sp. “dhonti north”)	Lamprologini	M	JUD4	shallow	haplo165	TeldhN_2_A	haplo98	7.68|8	5.9|8	1.3|1
+TeldhN (Telmatochromis sp. “dhonti north”)	Lamprologini	F	JUD5	shallow	haplo166	TeldhN_2_B	haplo98	17|17	11.58|16	1.47|1.06
+TeldhS (Telmatochromis dhonti)	Lamprologini	F	LBF7	shallow	haplo167	TeldhS_2_A	haplo98	11.28|11	6.63|9	1.7|1.22
+TeldhS (Telmatochromis dhonti)	Lamprologini	M	LBF8	shallow	haplo168	TeldhS_2_B	haplo98	10.54|10	6.3|8	1.67|1.25
+TeldhT (Telmatochromis sp. “dhonti twiyu”)	Lamprologini	M	LHC1	shallow	haplo169	TeldhT_2_A	haplo98	20.7|20	12.37|17	1.67|1.18
+TeldhT (Telmatochromis sp. “dhonti twiyu”)	Lamprologini	F	LHF2	shallow	haplo170	TeldhT_2_B	haplo98	17.21|17	11.15|15	1.54|1.13
+Tellon (Telmatochromis sp. “longola”)	Lamprologini	M	JWC8	NA	haplo171	Tellon_2	haplo112	10.72|10	6.74|9	1.59|1.11
+Tellon (Telmatochromis sp. “longola”)	Lamprologini	F	JWC9	NA	haplo171	Tellon_2	haplo112	19.21|20	11.94|17	1.61|1.18
+Telluf (Telmatochromis sp. “lufubu”)*	Lamprologini	M	HXC8	NA	haplo172	Telluf_1	haplo113	10.27|10	7.75|10	1.33|1
+Telshe (Telmatochromis sp. “shell”)	Lamprologini	M	IRI8	inter.	haplo173	Telshe_2_A	haplo111	11.83|11	8.07|11	1.47|1
+Telshe (Telmatochromis sp. “shell”)	Lamprologini	F	IRI9	inter.	haplo174	Telshe_2_B	haplo111	10.59|11	6.61|9	1.6|1.22
+TelteS (Telmatochromis temporalis)	Lamprologini	M	IMB3	inter.	haplo175	TelteS_2_B	haplo112	8.43|8	5.64|7	1.49|1.14
+TelteS (Telmatochromis temporalis)	Lamprologini	F	IMB4	inter.	haplo170	TelteS_2_A	haplo98	10.42|10	8.08|11	1.29|0.91
+Telvit (Telmatochromis vittatus)	Lamprologini	M	JBD5	inter.	haplo176	Telvit_2_A	haplo114	9.53|10	6.85|9	1.39|1.11
+Telvit (Telmatochromis vittatus)	Lamprologini	F	JBD6	inter.	haplo177	Telvit_2_B	haplo115	9.7|10	7.29|10	1.33|1
+Varmoo (Variabilichromis moorii)	Lamprologini	F	AUC3	shallow	haplo178	Varmoo_2	haplo107	10.04|10	9.06|12	1.11|0.83
+Varmoo (Variabilichromis moorii)	Lamprologini	M	AUC4	shallow	haplo178	Varmoo_2	haplo197	10.27|10	7.34|10	1.4|1
+Baicen (Baileychromis centropomoides)	Limnochromini	M	JAB7	deep	haplo179	Baicen_2_A	haplo116	8.04|9	6.68|8	1.2|1.12
+Baicen (Baileychromis centropomoides)	Limnochromini	F	JAE9	deep	haplo180	Baicen_2_B	haplo117	10.57|11	9.59|13	1.1|0.85
+Gnaper (Gnathochromis permaxillaris)	Limnochromini	F	ITA4	deep	haplo181	Gnaper_2	haplo118	13.28|13	8.57|11	1.55|1.18
+Gnaper (Gnathochromis permaxillaris)	Limnochromini	M	IUI5	deep	haplo181	Gnaper_2	haplo118	10.49|10	8.1|10	1.3|1
+Gwcabe (Limnochromis abeelei)	Limnochromini	F	ITB3	deep	haplo182	Gwcabe_2	haplo119	11.24|12	8.04|10	1.4|1.2
+Gwcabe (Limnochromis abeelei)	Limnochromini	M	ITB4	deep	haplo182	Gwcabe_2	haplo119	9.53|9	6.99|9	1.36|1
+Gwcbel (Greenwoodochromis bellcrossi)	Limnochromini	F	IXB5	deep	haplo183	Gwcbel_1	haplo120	14.2|14	9.5|12	1.49|1.17
+Gwcchr (Greenwoodochromis christyi)	Limnochromini	M	IZE4	deep	haplo184	Gwcchr_2_A	haplo121	13.65|14	9.34|12	1.46|1.17
+Gwcchr (Greenwoodochromis christyi)	Limnochromini	F	IZF1	deep	haplo185	Gwcchr_2_B	haplo122	6.86|6	7|9	0.98|0.67
+Gwcsta (Limnochromis staneri)	Limnochromini	F	ITA6	deep	haplo186	Gwcsta_3	haplo123	20.07|21	13.94|19	1.44|1.11
+Gwcsta (Limnochromis staneri)	Limnochromini	M	ITC2	deep	haplo186	Gwcsta_3	haplo123	9.43|9	6.72|8	1.4|1.12
+Gwcsta (Limnochromis staneri)	Limnochromini	M	IXB6	deep	haplo186	Gwcsta_3	haplo123	11.71|11	7.19|9	1.63|1.22
+Lchaur (Limnochromis auritus)	Limnochromini	F	ITB1	inter.	haplo187	Lchaur_2	haplo124	10.2|10	7.62|10	1.34|1
+Lchaur (Limnochromis auritus)	Limnochromini	M	JAF5	inter.	haplo187	Lchaur_2	haplo124	10.54|10	7.84|10	1.34|1
+Regcal (Reganochromis calliurus)	Limnochromini	M	IUI1	NA	haplo188	Regcal_2	haplo125	8.71|8	6.39|8	1.36|1
+Regcal (Reganochromis calliurus)	Limnochromini	F	IUI4	NA	haplo188	Regcal_2	haplo125	8.46|8	7.25|9	1.17|0.89
+Tchdha (Tangachromis dhanisi)	Limnochromini	M	LJA7	deep	haplo189	Tchdha_2	haplo124	7.32|7	5.96|8	1.23|0.88
+Tchdha (Tangachromis dhanisi)	Limnochromini	F	LJA8	deep	haplo189	Tchdha_2	haplo124	15.33|15	11.76|16	1.3|0.94
+Trioto (Triglachromis otostigma)	Limnochromini	F	JEG5	deep	haplo187	Trioto_2_A	haplo124	11.81|12	8.68|11	1.36|1.09
+Trioto (Triglachromis otostigma)	Limnochromini	M	JEG6	deep	haplo190	Trioto_2_B	haplo126	9.48|9	6.58|8	1.44|1.12
+Oretan (Oreochromis tanganicae)*	Oreochromini	M	JAB6	inter.	haplo191	Oretan_2	haplo127	16.8|17	16.93|19	0.99|0.89
+Oretan (Oreochromis tanganicae)*	Oreochromini	F	JAC7	inter.	haplo191	Oretan_2	haplo127	17.41|17	16.12|18	1.08|0.94
+Hapmic (Haplotaxodon microlepis)	Perissodini	M	IQB8	inter.	haplo192	Hapmic_1	haplo128	18.69|17	12.37|17	1.51|1
+Perecc (Perissodus eccentricus)	Perissodini	M	IXA4	deep	haplo193	Perecc_2_A	haplo129	12.02|12	8.07|11	1.49|1.09
+Perecc (Perissodus eccentricus)	Perissodini	M	IZB2	deep	haplo194	Perecc_2_B	haplo129	17.74|16	11.76|16	1.51|1
+Permic (Perissodus microlepis)	Perissodini	M	IQC4	inter.	haplo195	Permic_2	haplo130	12.09|12	8.82|12	1.37|1
+Permic (Perissodus microlepis)	Perissodini	F	IQI4	inter.	haplo195	Permic_2	haplo130	9.19|9	6.73|9	1.37|1
+Pleela (Plecodus elaviae)	Perissodini	M	LHI4	deep	haplo193	Pleela_2	haplo129	10.92|10	7.5|10	1.46|1
+Pleela (Plecodus elaviae)	Perissodini	F	LHI6	deep	haplo193	Pleela_2	haplo129	12.37|12	7.72|10	1.6|1.2
+Plemul (Plecodus multidentatus)	Perissodini	F	IZA8	deep	haplo193	Plemul_2	haplo129	18.18|19	13.1|18	1.39|1.06
+Plemul (Plecodus multidentatus)	Perissodini	M	IZA9	deep	haplo193	Plemul_2	haplo129	11.01|11	9.41|12	1.17|0.92
+Plepar (Plecodus paradoxus)	Perissodini	M	JDI4	deep	haplo196	Plepar_2_A	haplo131	11.67|12	8.3|11	1.41|1.09
+Plepar (Plecodus paradoxus)	Perissodini	F	LEC7	deep	haplo197	Plepar_2_B	haplo131	8.88|9	6.63|8	1.34|1.12
+Plestr (Plecodus straeleni)	Perissodini	F	INE8	NA	haplo198	Plestr_2	haplo129	19.56|20	13.66|19	1.43|1.05
+Plestr (Plecodus straeleni)	Perissodini	M	INE9	NA	haplo198	Plestr_2	haplo129	14.63|15	8.83|12	1.66|1.25
+Xchhec (Xenochromis hecqui)	Perissodini	M	IUI7	deep	haplo199	Xchhec_2	haplo129	7.15|7	6.54|8	1.09|0.88
+Xchhec (Xenochromis hecqui)	Perissodini	F	JAH7	deep	haplo199	Xchhec_2	haplo129	14.71|15	9.18|12	1.6|1.25
+Phaacu (Pharyngochromis acuticeps)*	Serranochromini	M	JWF3	NA	haplo200	Phaacu_1	haplo132	17.54|18	13.53|18	1.3|1
+Sarcar (Sargochromis carlottae)*	Serranochromini	Juv.	JWF4	NA	haplo201	Sarcar_1	haplo133	18.14|18	12.9|17	1.41|1.06
+Sermac (Serranochromis macrocephalus)*	Serranochromini	M	JWF5	NA	haplo202	Sermac_1	haplo134	22.39|23	16|22	1.4|1.05
+Steult (Steatocranus sp. “ultraslender”)*	Steatocranini	M	JWE8	NA	haplo203	Steult_1	haplo135	14.41|15	11.21|15	1.29|1
+Tilspa (Tilapia sparmanii)*	Tilapiini	M	JWF7	NA	haplo204	Tilspa_1	haplo136	19.26|18	15.35|20	1.25|0.9
+Trecap (Trematocara caparti)	Trematocarini		LJC8	deep	haplo205	Trecap_1	haplo137	11.42|10	6.51|8	1.75|1.25
+Tremac (Trematocara macrostoma)	Trematocarini	M	IUD8	deep	haplo206	Tremac_2	haplo138	13.39|14	9.99|14	1.34|1
+Tremac (Trematocara macrostoma)	Trematocarini	F	IUD9	deep	haplo206	Tremac_2	haplo138	12.92|12	9.09|13	1.42|0.92
+Tremar (Trematocara marginatum)	Trematocarini	M	ISA1	deep	NA	NA	NA	7.49|7	5.92|8	1.27|0.88
+Tremar (Trematocara marginatum)	Trematocarini	F	ISA3	deep	haplo207	Tremar_1	haplo139	17.43|18	10.94|16	1.59|1.12
+Trenig (Trematocara nigrifrons)	Trematocarini	F	GPA1	deep	haplo208	Trenig_2	haplo140	6.83|6	5.95|8	1.15|0.75
+Trenig (Trematocara nigrifrons)	Trematocarini	M	IUE5	deep	haplo208	Trenig_2	haplo140	18.57|19	10.92|15	1.7|1.27
+Tresti (Trematocara stigmaticum)	Trematocarini	M	IUE7	deep	haplo209	Tresti_2_A	haplo141	17.02|17	8.24|11	2.07|1.55
+Tresti (Trematocara stigmaticum)	Trematocarini	M	IZE1	deep	haplo210	Tresti_2_B	haplo412	10.56|11	8.33|12	1.27|0.92
+Treuni (Trematocara unimaculatum)	Trematocarini	M	IXA3	deep	haplo211	Treuni_2_A	haplo413	10.54|10	8.86|12	1.19|0.83
+Treuni (Trematocara unimaculatum)	Trematocarini	F	IXA6	deep	haplo212	Treuni_2_B	haplo144	6.86|7	8.64|12	0.79|0.58
+Trezeb (Trematocara zebra)	Trematocarini	M	LFC9	deep	haplo213	Trezeb_2	haplo145	5.43|5	5.55|7	0.98|0.71
+Trezeb (Trematocara zebra)	Trematocarini	F	LFE4	deep	haplo213	Trezeb_2	haplo145	8.11|7	5.77|8	1.41|0.88
+Ctehor (Ctenochromis horei)	Tropheini	M	AVA8	shallow	haplo214	Ctehor_2	haplo146	8.52|8	7.61|10	1.12|0.8
+Ctehor (Ctenochromis horei)	Tropheini	F	AXA7	shallow	haplo214	Ctehor_2	haplo146	10.52|11	7.93|10	1.33|1.1
+Gnapfe (Gnathochromis pfefferi)	Tropheini	M	AWB7	inter.	haplo215	Gnapfe_2	haplo147	11.24|12	7.22|10	1.56|1.2
+Gnapfe (Gnathochromis pfefferi)	Tropheini	F	AWE2	inter.	haplo215	Gnapfe_2	haplo147	8.92|8	7|9	1.27|0.89
+Intloo (Interochromis loocki)	Tropheini	F	IPB6	shallow	haplo216	Intloo_2	haplo147	11.95|12	8.64|11	1.38|1.09
+Intloo (Interochromis loocki)	Tropheini	M	IPF3	shallow	haplo216	Intloo_2	haplo147	6.69|7	6.92|9	0.97|0.78
+Limdar (Limnotilapia dardennii)	Tropheini	F	AWI5	inter.	haplo216	Limdar_2	haplo147	9.64|9	7.49|10	1.29|0.9
+Limdar (Limnotilapia dardennii)	Tropheini	M	AWI6	inter.	haplo216	Limdar_2	haplo147	9.76|10	7.61|10	1.28|1
+Loblab (Lobochilotes labiatus)	Tropheini	M	ISD8	inter.	haplo217	Loblab_2_A	haplo148	10.6|11	7.24|9	1.46|1.22
+Loblab (Lobochilotes labiatus)	Tropheini	F	ISE5	inter.	haplo218	Loblab_2_B	haplo149	10.62|11	6.3|8	1.69|1.38
+Peteph (Petrochromis ephippium)	Tropheini	F	IPC1	inter.	haplo219	Peteph_2	haplo62	7.28|7	7.12|9	1.02|0.78
+Peteph (Petrochromis ephippium)	Tropheini	M	IYA5	inter.	haplo219	Peteph_2	haplo62	6.68|7	5.72|7	1.17|1
+Petfam (Petrochromis famula)	Tropheini	F	IYA6	shallow	haplo82	Petfam_2_B	haplo62	5.55|6	5.66|7	0.98|0.86
+Petfam (Petrochromis famula)	Tropheini	M	IYA7	shallow	haplo220	Petfam_2_A	haplo150	7.39|7	7.8|10	0.95|0.7
+Petfas (Petrochromis fasciolatus)	Tropheini	M	GPH7	shallow	haplo221	Petfas_2_A	haplo146	9.15|9	7.69|10	1.19|0.9
+Petfas (Petrochromis fasciolatus)	Tropheini	F	JAE1	shallow	haplo222	Petfas_2_B	haplo151	11.59|12	7.58|10	1.53|1.2
+Petgia (Petrochromis sp. “giant”)	Tropheini	M	LDC6	shallow	haplo223	Petgia_2	haplo64	12.13|12	7.86|10	1.54|1.2
+Petgia (Petrochromis sp. “giant”)	Tropheini	F	LHD2	shallow	haplo223	Petgia_2	haplo64	11.81|12	7.27|9	1.62|1.33
+Pethor (Petrochromis horii)	Tropheini	M	IWB5	inter.	haplo82	Pethor_2	haplo62	9.14|9	7.09|9	1.29|1
+Pethor (Petrochromis horii)	Tropheini	F	IWB6	inter.	haplo82	Pethor_2	haplo62	10.73|10	9.24|12	1.16|0.83
+Petiko (Petrochromis sp. “orthognathus ikola”)	Tropheini	M	LFA6	shallow	haplo217	Petiko_2	haplo148	8.6|9	7.06|9	1.22|1
+Petiko (Petrochromis sp. “orthognathus ikola”)	Tropheini	F	LFA8	shallow	haplo217	Petiko_2	haplo148	8.98|9	7.33|9	1.23|1
+Petkas (Petrochromis sp. “kazumbae”)	Tropheini	F	KEA4	shallow	haplo82	Petkas_2_B	haplo62	8.94|9	7.97|10	1.12|0.9
+Petkas (Petrochromis sp. “kazumbae”)	Tropheini	M	KEB4	shallow	haplo224	Petkas_2_A	haplo62	9.28|9	8.21|11	1.13|0.82
+Petkip (Petrochromis sp. “kipili brown”)	Tropheini	M	LDE3	inter.	haplo225	Petkip_2	haplo152	6.67|6	6.24|8	1.07|0.75
+Petkip (Petrochromis sp. “kipili brown”)	Tropheini	F	LDE4	inter.	haplo225	Petkip_2	haplo152	11.15|11	7.13|9	1.56|1.22
+Petmac (Petrochromis macrognathus)	Tropheini	M	LDA4	shallow	haplo226	Petmac_2	haplo153	8.6|8	6.8|9	1.26|0.89
+Petmac (Petrochromis macrognathus)	Tropheini	F	LJB1	shallow	haplo226	Petmac_2	haplo153	8.54|9	6.11|8	1.4|1.12
+Petmos (Petrochromis sp. “moshi yellow”)	Tropheini	M	LCF6	inter.	haplo219	Petmos_2_A	haplo62	11.32|11	7.47|10	1.52|1.1
+Petmos (Petrochromis sp. “moshi yellow”)	Tropheini	F	LCF8	inter.	haplo82	Petmos_2_B	haplo62	11.08|10	6.94|9	1.6|1.11
+Petort (Petrochromis orthognathus)	Tropheini	F	JXH4	shallow	NA	NA	NA	2.57|2	4.03|5	0.64|0.4
+Petort (Petrochromis orthognathus)	Tropheini	M	JXH5	shallow	haplo217	Petort_1	haplo148	18.7|19	11.88|16	1.57|1.19
+Petpol (Petrochromis polyodon)	Tropheini	M	AWB9	shallow	haplo82	Petpol_2	haplo62	9|8	7.41|9	1.21|0.89
+Petpol (Petrochromis polyodon)	Tropheini	F	AWI4	shallow	haplo82	Petpol_2	haplo62	10.8|10	7.47|10	1.45|1
+Petrai (Petrochromis sp. “macrognathus rainbow”)	Tropheini	M	LGB5	shallow	haplo223	Petrai_2	haplo64	10.77|11	7.16|9	1.5|1.22
+Petrai (Petrochromis sp. “macrognathus rainbow”)	Tropheini	F	LGB8	shallow	haplo223	Petrai_2	haplo64	9.42|9	7.24|9	1.3|1
+Petred (Petrochromis sp. “red”)	Tropheini	M	LCD1	deep	haplo82	Petred_2	haplo62	10.02|10	6.25|8	1.6|1.25
+Petred (Petrochromis sp. “red”)	Tropheini	F	LCD5	deep	haplo82	Petred_2	haplo62	8.5|9	6.26|8	1.36|1.12
+Pettex (Petrochromis sp. “polyodon texas”)	Tropheini	M	LHB1	shallow	haplo227	Pettex_2_A	haplo154	10.41|11	7.75|10	1.34|1.1
+Pettex (Petrochromis sp. “polyodont texas”)	Tropheini	F	LHB3	shallow	haplo82	Pettex_2_B	haplo62	13.56|14	9.46|12	1.43|1.17
+Pettre (Petrochromis trewavasae)	Tropheini	M	IWC9	NA	haplo228	Pettre_2_A	haplo62	16.65|17	13.55|18	1.23|0.94
+Pettre (Petrochromis trewavasae)	Tropheini	F	IWD4	NA	haplo82	Pettre_2_B	haplo62	9.36|9	7.97|10	1.17|0.9
+Psccur (Pseudosimochromis curvifrons)	Tropheini	F	AXF8	shallow	haplo216	Psccur_2	haplo147	11.65|12	8.66|11	1.35|1.09
+Psccur (Pseudosimochromis curvifrons)	Tropheini	M	AYC7	shallow	haplo216	Psccur_2	haplo147	13.55|13	9.44|13	1.44|1
+Simbab (Pseudosimochromis babaulti)	Tropheini	M	JUA3	shallow	haplo229	Simbab_2	haplo147	11.13|11	7.94|10	1.4|1.1
+Simbab (Pseudosimochromis babaulti)	Tropheini	F	JUA4	shallow	haplo229	Simbab_2	haplo147	11.68|11	12.04|16	0.97|0.69
+Simdia (Simochromis diagramma)	Tropheini	F	AUD8	shallow	haplo230	Simdia_2_A	haplo148	15.32|15	9.73|13	1.57|1.15
+Simdia (Simochromis diagramma)	Tropheini	M	AUE1	shallow	haplo231	Simdia_2_B	haplo148	10.19|11	9.15|12	1.11|0.92
+Simmar (Pseudosimochromis marginatus)	Tropheini	M	KCE7	shallow	haplo232	Simmar_2	haplo147	14.17|14	9.52|13	1.49|1.08
+Simmar (Pseudosimochromis marginatus)	Tropheini	F	KCF3	shallow	haplo232	Simmar_2	haplo147	22.03|22	14.43|20	1.53|1.1
+Simmrg (Pseudosimochromis marginatus (North))	Tropheini	M	KFE8	shallow	haplo232	Simmrg_2	haplo147	10.44|10	7.03|9	1.49|1.11
+Simmrg (Pseudosimochromis marginatus (North))	Tropheini	F	KFF1	shallow	haplo232	Simmrg_2	haplo147	12.83|12	7.42|10	1.73|1.2
+Simple (Pseudosimochromis babaulti (South))	Tropheini	M	AUB6	shallow	haplo229	Simple_2	haplo147	12.71|13	9.26|12	1.37|1.08
+Simple (Pseudosimochromis babaulti (South))	Tropheini	F	AVB6	shallow	haplo229	Simple_2	haplo147	11|12	9.21|12	1.19|1
+Troann (Tropheus annectens)	Tropheini	M	JWG4	shallow	haplo82	Troann_2	haplo62	16.98|17	13.3|18	1.28|0.94
+Troann (Tropheus annectens)	Tropheini	F	JWG5	shallow	haplo82	Troann_2	haplo62	9.71|9	7.6|10	1.28|0.9
+Trobri (Tropheus brichardi)	Tropheini	M	JYI8	shallow	haplo234	Trobri_2	haplo146	12.15|12	8.33|11	1.46|1.09
+Trobri (Tropheus brichardi)	Tropheini	F	JZA3	shallow	haplo234	Trobri_2	haplo146	10.15|10	8.31|11	1.22|0.91
+TrobrK (Tropheus sp. “brichardi kipili”)	Tropheini	M	LGA5	shallow	haplo233	TrobrK_2	haplo155	6.81|6	7.09|9	0.96|0.67
+TrobrK (Tropheus sp. “brichardi kipili”)	Tropheini	F	LGA6	shallow	haplo233	TrobrK_2	haplo155	12.12|12	7.61|10	1.59|1.2
+Trodub (Tropheus duboisi)	Tropheini	M	KHA4	inter.	haplo235	Trodub_2	haplo62	14.37|14	7.34|9	1.96|1.56
+Trodub (Tropheus duboisi)	Tropheini	F	KHA5	inter.	haplo235	Trodub_2	haplo62	8.6|8	7.83|10	1.1|0.8
+Trokir (Tropheus sp. “kirschfleck”)	Tropheini	M	LCF1	shallow	haplo82	Trokir_1	haplo62	8.23|7	7.08|9	1.16|0.78
+Trokir (Tropheus sp. “kirschfleck”)	Tropheini	F	LCF3	shallow	NA	NA	NA	7.28|7	6.47|8	1.13|0.88
+Troluk (Tropheus sp. “lukuga”)	Tropheini	M	KEF2	shallow	haplo233	Troluk_2	haplo155	16.95|17	11.25|15	1.51|1.13
+Troluk (Tropheus sp. “lukuga”)	Tropheini	F	KEF3	shallow	haplo233	Troluk_2	haplo155	9.91|10	7.08|9	1.4|1.11
+Trolun (Tropheus sp. “lunatus”)	Tropheini	M	KED6	shallow	haplo236	Trolun_2_B	haplo156	8.25|7	7.18|9	1.15|0.78
+Trolun (Tropheus sp. “lunatus”)	Tropheini	F	KED7	shallow	haplo233	Trolun_2_A	haplo155	10.61|11	7.65|10	1.39|1.1
+Tromoo (Tropheus moorii)	Tropheini	M	JBH4	shallow	haplo82	Tromoo_2	haplo62	8.09|8	6.57|8	1.23|1
+Tromoo (Tropheus moorii)	Tropheini	F	JBH5	shallow	haplo82	Tromoo_2	haplo62	7.77|7	7.53|10	1.03|0.7
+Tromor (Tropheus sp. “murago”)	Tropheini	M	LHD9	shallow	haplo82	Tromor_2_B	haplo62	10.04|10	7.38|9	1.36|1.11
+Tromor (Tropheus sp. “murago”)	Tropheini	F	LHE3	shallow	haplo237	Tromor_2_A	haplo157	10.05|9	7.1|9	1.42|1
+Trompi (Tropheus sp. “mpimbwe”)	Tropheini	M	LDI5	shallow	haplo237	Trompi_2	haplo157	9.53|9	6.87|9	1.39|1
+Trompi (Tropheus sp. “mpimbwe”)	Tropheini	F	LDI7	shallow	haplo237	Trompi_2	haplo157	8.1|8	6.17|8	1.31|1
+Tronig (Tropheus sp. “black”)	Tropheini	F	JVC3	shallow	haplo82	Tronig_2	haplo62	16.54|17	10.01|13	1.65|1.31
+Tronig (Tropheus sp. “black”)	Tropheini	M	JVC9	shallow	haplo82	Tronig_2	haplo62	9.14|9	8.12|11	1.13|0.82
+Tropol (Tropheus polli)	Tropheini	M	LEF8	shallow	haplo82	Tropol_2	haplo62	13.05|13	11.33|15	1.15|0.87
+Tropol (Tropheus polli)	Tropheini	F	LEF9	shallow	haplo82	Tropol_2	haplo62	16.95|17	11.24|15	1.51|1.13
+Trored (Tropheus sp. “red”)	Tropheini	M	IOD9	shallow	haplo82	Trored_2	haplo62	11.17|11	8.7|11	1.28|1
+Trored (Tropheus sp. “red”)	Tropheini	F	IOE1	shallow	haplo82	Trored_2	haplo62	10.79|11	7.35|9	1.47|1.22

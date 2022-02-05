@@ -20,7 +20,7 @@ module load R/3.5.0-goolf-1.7.20
 ID=$(sed -n ${SLURM_ARRAY_TASK_ID}p Data/Dataset.txt | cut -f4) # To run as an array from 3 to 518
 
 # Mean and median reads coverage in the entire RefSeq genome
-samtools depth ${BWA}_${ID}.bam > ${BWA}_${ID}.depth
+samtools depth -aa -r ${BWA}_${ID}.bam > ${BWA}_${ID}.depth
 
 mean=$(cut -f4 ${BWA}_${ID}.depth | datamash mean 1)
 median=$(cut -f4 ${BWA}_${ID}.depth | datamash median 1)

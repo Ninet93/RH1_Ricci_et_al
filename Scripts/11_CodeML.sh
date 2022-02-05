@@ -25,6 +25,8 @@ Model=M1a
 #Model=branchsite_H0
 #Model=branchsite_HA
 
+# Branch site model needs a multiple alignment and a tree with only shallow and deep species
+
 codeml CodeML_${Model}.ctl
 
 ##########################################################################################

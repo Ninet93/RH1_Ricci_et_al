@@ -21,7 +21,7 @@ method='FUBAR'
 method='aBSREL_shallow'
 method='aBSREL_deep'
 
-# aBSREL needs a tree with only shallow and deep species
+# aBSREL needs a multiple alignment and a tree with only shallow and deep species
 
 HYPHYMP < HyPhy_${method}.txt > HyPhy_${method}.out
 

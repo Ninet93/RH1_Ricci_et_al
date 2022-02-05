@@ -15,14 +15,12 @@ echo 'Start of the job' $DATE
 ID=$(sed -n ${SLURM_ARRAY_TASK_ID}p Data/Dataset.txt | cut -f4) # To run as an array from 3 to 518
 
 
-
 # Reads coverage in the entire RefSeq genome
 module purge
 module load BEDTools/2.27.1-foss-2018b
 
 bedtools genomecov -ibam ${BWA}_${ID}.sorted.bam | grep "^genome" | head 100 > ${BWA}_${ID}_genomecov.txt
 	
-
 
 # Reads coverage along positions in the RH1/exoRH1 reference CDS
 module purge
@@ -35,7 +33,6 @@ samtools depth -aa -r "NC_031984.2:14388439-14388607" ${BWA}_${ID}_exoRH1.sorted
 samtools depth -aa -r "NC_031984.2:14388789-14388954" ${BWA}_${ID}_exoRH1.sorted.bam >> ${BWA}_${ID}_exoRH1_CDS.sorted.bam.depth
 samtools depth -aa -r "NC_031984.2:14390612-14390851" ${BWA}_${ID}_exoRH1.sorted.bam >> ${BWA}_${ID}_exoRH1_CDS.sorted.bam.depth
 samtools depth -aa -r "NC_031984.2:14391687-14391806" ${BWA}_${ID}_exoRH1.sorted.bam >> ${BWA}_${ID}_exoRH1_CDS.sorted.bam.depth
-
 
 
 module purge

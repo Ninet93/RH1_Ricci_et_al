@@ -1,5 +1,5 @@
 # Molecular evolution and depth-related adaptations in rhodopsin in the adaptive radiation of cichlid fishes in Lake Tanganyika
-Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
+Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2022)
 
 ## Scripts
 

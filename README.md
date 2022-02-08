@@ -75,7 +75,7 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 * [`exoRH1_ALL.blastn`](Data/exoRH1_ALL.blastn): exoRH1 BLASTN results
 
 * IQ-Tree phylogenetic trees:
-  * 1) CDS: [`RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_1.treefile`](Data/RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_1.treefile) (BestTree)
+  - 1) CDS: [`RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_1.treefile`](Data/RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_1.treefile) (BestTree)
   * 2) CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_2.treefile
   * 3) CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_allnni_1.treefile
   * 4) CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_allnni_2.treefile

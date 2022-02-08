@@ -75,26 +75,26 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 * [`exoRH1_ALL.blastn`](Data/exoRH1_ALL.blastn): exoRH1 BLASTN results
 
 * IQ-Tree phylogenetic trees:
-  - 1) CDS: [`RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_1.treefile`](Data/RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_1.treefile) (BestTree)
-  * 2) CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_2.treefile
-  * 3) CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_allnni_1.treefile
-  * 4) CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_allnni_2.treefile
+  * CDS: [`RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_1.treefile`](Data/RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_1.treefile) (BestTree)
+  * CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_2.treefile
+  * CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_allnni_1.treefile
+  * CDS: RH1_CDS_w_haplotypes_outgroup_bootstrap_GTR_I_G_allnni_2.treefile
 
-  * 5) AA: RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_1.treefile
-  * 6) AA: RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_2.treefile
-  * 7) AA: [`RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_allnni_1.treefile`](Data/RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_allnni_1.treefile) (BestTree)
-  * 8) AA: RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_allnni_2.treefile
+  * AA: RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_1.treefile
+  * AA: RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_2.treefile
+  * AA: [`RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_allnni_1.treefile`](Data/RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_allnni_1.treefile) (BestTree)
+  * AA: RH1_AA_w_haplotypes_outgroup_bootstrap_JTT_I_G_F_allnni_2.treefile
 
 * MrBayes phylogenetic trees:
-  * 1) CDS: RH1_CDS_w_haplotypes_1.fasta.nexus.con.tre
-  * 2) CDS: RH1_CDS_w_haplotypes_2.fasta.nexus.con.tre
-  * 3) CDS: RH1_CDS_w_haplotypes_3.fasta.nexus.con.tre
-  * 4) CDS: RH1_CDS_w_haplotypes_4.fasta.nexus.con.tre
+  * CDS: RH1_CDS_w_haplotypes_1.fasta.nexus.con.tre
+  * CDS: RH1_CDS_w_haplotypes_2.fasta.nexus.con.tre
+  * CDS: RH1_CDS_w_haplotypes_3.fasta.nexus.con.tre
+  * CDS: RH1_CDS_w_haplotypes_4.fasta.nexus.con.tre
 
-  * 5) AA: RH1_AA_w_haplotypes_1.fasta_wo_ambiguouschar.nexus.con.tre
-  * 6) AA: RH1_AA_w_haplotypes_2.fasta_wo_ambiguouschar.nexus.con.tre
-  * 7) AA: RH1_AA_w_haplotypes_3.fasta_wo_ambiguouschar.nexus.con.tre
-  * 8) AA: RH1_AA_w_haplotypes_4.fasta_wo_ambiguouschar.nexus.con.tre
+  * AA: RH1_AA_w_haplotypes_1.fasta_wo_ambiguouschar.nexus.con.tre
+  * AA: RH1_AA_w_haplotypes_2.fasta_wo_ambiguouschar.nexus.con.tre
+  * AA: RH1_AA_w_haplotypes_3.fasta_wo_ambiguouschar.nexus.con.tre
+  * AA: RH1_AA_w_haplotypes_4.fasta_wo_ambiguouschar.nexus.con.tre
 
 * [`Extra figures`](Data/Extra_figures):
   * AA changes at variable RH1 sites mapped on the species tree (see Ronco et al., 2021)

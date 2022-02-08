@@ -58,7 +58,7 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
 
 * [`AA_table.txt`](Data/AA_table.txt): Table of amino acids
 
-* [`b1.tre`](Data/b1.tre) species tree (see Ronco et al. 2021)
+* [`b1.tre`](Data/b1.tre): species tree (see Ronco et al. 2021)
 
 * [`Coo_mRNA_Exon_CDS_RefSeq.txt`](Data/Coo_mRNA_Exon_CDS_RefSeq.txt): coordinates of opsin in the RefSeq genome
 

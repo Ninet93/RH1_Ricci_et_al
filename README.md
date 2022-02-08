@@ -96,5 +96,5 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
   * 7) AA: RH1_AA_w_haplotypes_3.fasta_wo_ambiguouschar.nexus.con.tre
   * 8) AA: RH1_AA_w_haplotypes_4.fasta_wo_ambiguouschar.nexus.con.tre
 
-* Extra figures:
+* [`Extra figures`](Data/Extra_figures):
   * AA changes at variable RH1 sites mapped on the species tree (see Ronco et al., 2021)

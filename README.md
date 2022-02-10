@@ -1,5 +1,5 @@
-# Molecular evolution and depth-related adaptations in rhodopsin in the adaptive radiation of cichlid fishes in Lake Tanganyika
-Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
+# Molecular evolution and depth-related adaptations of rhodopsin in the adaptive radiation of cichlid fishes in Lake Tanganyika
+Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2022)
 
 ## Scripts
 
@@ -21,7 +21,7 @@ Virginie Ricci, Fabrizia Ronco, Zuzana Musilova & Walter Salzburger (2021)
   * Python, Biopython, BLAST, and Extract_individual_CDS.py
 
 * [`06_Reads_coverage.sh`](Scripts/06_Reads_coverage.sh): Extraction of mean/median reads coverage in the entire RefSeq genome, extraction of mean/median reads coverage in the RefSeq CDS
-  * SAMtools, R, and Reads_coverage.R
+  * SAMtools, BEDTools, R, and Reads_coverage.R
 
 * [`07_SubstitutionModel_tests.sh`](Scripts/07_SubstitutionModel_tests.sh): Identification of appropriate nucleotide/amino acid substitution models to build phylogenetic trees
   * jModelTest, PAUP, and ProtTest

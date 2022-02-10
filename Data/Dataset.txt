@@ -341,8 +341,8 @@ Neosex (Neolamprologus sexfasciatus)	Lamprologini	M	IND7	inter.	haplo153	Neosex_
 Neosex (Neolamprologus sexfasciatus)	Lamprologini	F	IND8	inter.	haplo153	Neosex_2	haplo105	9.38|8	7.26|10	1.29|0.8
 Neosim (Neolamprologus similis)	Lamprologini	M	KEC1	inter.	haplo154	Neosim_2_A	haplo106	12.46|12	8.22|11	1.52|1.09
 Neosim (Neolamprologus similis)	Lamprologini	F	KEC2	inter.	haplo155	Neosim_2_B	haplo106	12.8|12	7.27|10	1.76|1.2
-Neospl (Neolamprologus splendens)	Lamprologini	M	A188	NA	haplo99	Neospl_2	haplo74	16.46|16	6.63|7	2.48|2.29
-Neospl (Neolamprologus splendens)	Lamprologini	M	LJD3	NA	haplo99	Neospl_2	haplo74	22.51|22	8.07|9	2.79|2.44
+Neospl (Neolamprologus splendens)	Lamprologini	M	A188 (no genome draft assembly)	NA	haplo99	Neospl_2	haplo74	16.46|16	6.63|7	2.48|2.29
+Neospl (Neolamprologus splendens)	Lamprologini	M	LJD3 (no genome draft assembly)	NA	haplo99	Neospl_2	haplo74	22.51|22	8.07|9	2.79|2.44
 Neotet (Neolamprologus tetracanthus)	Lamprologini	M	IPF7	shallow	haplo156	Neotet_2_A	haplo105	7.98|8	6.65|9	1.2|0.89
 Neotet (Neolamprologus tetracanthus)	Lamprologini	F	IPG3	shallow	haplo157	Neotet_2_B	haplo105	13.64|14	9.95|14	1.37|1
 Neotim (Neolamprologus timidus)	Lamprologini	M	LGE2	NA	haplo135	Neotim_2	haplo96	8.6|8	7.36|10	1.17|0.8
